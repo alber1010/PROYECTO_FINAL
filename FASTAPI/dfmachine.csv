@@ -1,0 +1,2642 @@
+,Unnamed: 0,código de videojuegos,genres,title,specs,price,release_year,sentiment_analysis
+0,0,10,action,counter-strike,Multi-player,9.99,2000,2
+1,1,20,action,team fortress classic,Multi-player,4.99,1999,0
+2,2,30,action,day of defeat,Multi-player,4.99,2003,2
+3,3,40,action,deathmatch classic,Multi-player,4.99,2001,2
+4,4,50,action,half-life: opposing force,Single-player,4.99,1999,2
+5,5,60,action,ricochet,Multi-player,4.99,2000,0
+6,6,70,action,half-life,Single-player,9.99,1998,2
+7,7,80,action,counter-strike: condition zero,Single-player,9.99,2004,1
+8,8,130,action,half-life: blue shift,Single-player,4.99,2001,2
+9,9,220,action,half-life 2,Single-player,9.99,2004,2
+10,10,240,action,counter-strike: source,Multi-player,19.99,2004,2
+11,11,280,action,half-life: source,Single-player,9.99,2004,2
+12,12,300,action,day of defeat: source,Multi-player,9.99,2010,2
+13,13,320,action,half-life 2: deathmatch,Multi-player,4.99,2004,2
+14,14,340,action,half-life 2: lost coast,Single-player,0.0,2005,0
+15,15,360,action,half-life deathmatch: source,Multi-player,9.99,2006,2
+16,16,380,action,half-life 2: episode one,Single-player,7.99,2006,2
+17,17,400,action,portal,Single-player,9.99,2007,2
+18,18,420,action,half-life 2: episode two,Single-player,7.99,2007,1
+19,19,500,action,left 4 dead,Single-player,19.99,2008,2
+20,20,550,action,left 4 dead 2,Single-player,19.99,2009,2
+21,21,620,action,portal 2,Single-player,19.99,2011,2
+22,22,730,action,counter-strike: global offensive,Multi-player,14.99,2012,2
+23,23,1200,action,red orchestra: ostfront 41-45,Multi-player,9.99,2006,1
+24,24,1250,action,killing floor,Single-player,19.99,2009,2
+25,25,1280,action,darkest hour: europe 44-45,Multi-player,0.0,2009,2
+26,26,1510,indie,uplink,Single-player,9.99,2006,2
+27,27,1520,indie,defcon,Single-player,9.99,2006,2
+28,28,1670,strategy,iron warriors: t - 72 tank command,Single-player,4.99,2006,0
+29,29,1900,strategy,earth 2160,Single-player,4.99,2006,2
+30,30,1930,rpg,two worlds epic edition,Single-player,9.99,2009,2
+31,31,2100,action,dark messiah of might &amp; magic,Single-player,9.99,2006,0
+32,32,2200,action,quake iii arena,Single-player,14.99,1999,2
+33,33,2270,action,wolfenstein 3d,Single-player,4.99,1994,2
+34,34,2280,action,ultimate doom,Single-player,4.99,1995,0
+35,35,2300,action,doom ii,Single-player,4.99,1994,2
+36,36,2310,action,quake,Single-player,4.99,2007,0
+37,37,2400,action,the ship: murder party,Single-player,9.99,2006,2
+38,38,2420,action,the ship: single player,Single-player,9.99,2006,2
+39,39,2450,action,bloody good time,Single-player,4.99,2010,1
+40,40,2500,action,shadowgrounds,Single-player,6.99,2006,2
+41,41,2570,indie,vigil: blood bitterness™,Single-player,0.0,2007,0
+42,42,2590,action,alpha prime,Single-player,4.99,2007,2
+43,43,2600,action,vampire: the masquerade - bloodlines,Single-player,19.99,2004,1
+44,44,2610,action,gun™,Single-player,19.99,2005,2
+45,45,2620,action,call of duty®,Single-player,19.99,2003,2
+46,46,2630,action,call of duty® 2,Single-player,19.99,2005,1
+47,47,2640,action,call of duty: united offensive,Single-player,19.99,2004,2
+48,48,2700,simulation,rollercoaster tycoon® 3: platinum,Single-player,19.99,2006,2
+49,49,2820,action,x3: terran conflict,Single-player,15.99,2008,2
+50,50,2870,action,x rebirth,Single-player,29.99,2013,2
+51,51,2990,racing,flatout 2™,Single-player,9.99,2006,0
+52,52,3050,racing,xpand rally xtreme,Single-player,4.99,2006,2
+53,53,3260,adventure,safecracker: the ultimate puzzle adventure,Single-player,4.99,2006,2
+54,54,3320,casual,insaniquarium deluxe,Single-player,4.99,2006,2
+55,55,3390,casual,feeding frenzy 2 deluxe,Single-player,4.99,2006,1
+56,56,3480,casual,peggle deluxe,Single-player,4.99,2007,2
+57,57,3483,casual,peggle extreme,Single-player,0.0,2007,1
+58,58,3590,strategy,plants vs. zombies goty edition,Single-player,4.99,2009,2
+59,59,3620,action,zumas revenge!,Single-player,4.99,2009,2
+60,60,3700,action,sniper elite,Single-player,7.99,2005,2
+61,61,3710,action,judge dredd: dredd vs. death,Single-player,7.99,2005,0
+62,62,3730,action,aliens versus predator classic 2000,Single-player,4.99,2000,2
+63,63,3800,action,advent rising,Single-player,9.99,2005,2
+64,64,3830,action,psychonauts,Single-player,9.99,2005,2
+65,65,3900,strategy,sid meiers civilization® iv,Single-player,19.99,2005,2
+66,66,3910,strategy,sid meiers civilization® iii complete,Single-player,4.99,2001,2
+67,67,3920,rpg,sid meiers pirates!,Single-player,9.99,2005,0
+68,68,4000,indie,garrys mod,Single-player,9.99,2006,1
+69,69,4500,action,s.t.a.l.k.e.r.: shadow of chernobyl,Single-player,19.99,2007,0
+70,70,4560,action,company of heroes - legacy edition,Single-player,19.99,2006,2
+71,71,4570,strategy,"warhammer® 40,000: dawn of war® - game of the year edition",Single-player,12.99,2006,2
+72,72,4580,strategy,"warhammer® 40,000: dawn of war® - dark crusade",Single-player,12.99,2006,2
+73,73,4700,strategy,medieval ii: total war™,Single-player,19.99,2006,0
+74,74,4720,action,condemned: criminal origins,Single-player,14.95,2006,2
+75,75,4760,strategy,rome: total war™ - collection,Single-player,9.99,2004,2
+76,76,4850,strategy,cossacks: back to war,Single-player,4.99,2002,2
+77,77,4920,action,natural selection 2,Multi-player,9.99,2012,2
+78,78,6000,action,star wars™ republic commando™,Single-player,9.99,2005,2
+79,79,6020,action,star wars™ jedi knight - jedi academy™,Single-player,9.99,2003,0
+80,80,6030,action,star wars™ jedi knight ii - jedi outcast™,Single-player,9.99,2003,1
+81,81,6060,action,"star wars: battlefront 2 (classic,2005)",Single-player,9.99,2005,2
+82,82,6120,action,shank,Single-player,9.99,2010,0
+83,83,6220,racing,flatout,Single-player,7.49,2005,2
+84,84,6310,action,the longest journey,Single-player,9.99,2000,2
+85,85,6370,action,bloodline champions,Single-player,0.0,2011,2
+86,86,6420,indie,nexus - the jupiter incident,Single-player,9.99,2004,2
+87,87,6550,action,devil may cry® 3 special edition,Single-player,19.99,2006,2
+88,88,6800,action,commandos: behind enemy lines,Single-player,4.99,1998,2
+89,89,6830,action,commandos 2: men of courage,Single-player,4.99,2002,2
+90,90,6850,action,hitman 2: silent assassin,Single-player,6.99,2002,0
+91,91,6860,action,hitman: blood money,Single-player,8.99,2006,2
+92,92,6870,action,battlestations: midway,Single-player,6.99,2007,0
+93,93,6880,action,just cause,Single-player,6.99,2006,2
+94,94,6900,action,hitman: codename 47,Single-player,6.99,2000,1
+95,95,6910,action,deus ex: game of the year edition,Single-player,6.99,2000,1
+96,96,6980,action,thief: deadly shadows,Single-player,8.99,2004,2
+97,97,7000,action,tomb raider: legend,Single-player,6.99,2006,2
+98,98,7020,action,rogue trooper,Single-player,9.99,2006,2
+99,99,7200,racing,trackmania united forever star edition,Single-player,29.99,2008,2
+100,100,7510,action,x-blades,Single-player,9.99,2009,2
+101,101,7520,rpg,two worlds ii hd,Single-player,19.99,2011,0
+102,102,7660,strategy,x-com: apocalypse,Single-player,4.99,1997,0
+103,103,7670,action,bioshock™,Single-player,19.99,2007,2
+104,104,7730,strategy,x-com: interceptor,Single-player,4.99,1998,2
+105,105,7760,strategy,x-com: ufo defense,Single-player,4.99,1993,2
+106,106,7770,strategy,x-com: enforcer,Single-player,4.99,2001,0
+107,107,7830,strategy,men of war™,Single-player,4.99,2009,0
+108,108,7840,racing,death track®: resurrection,Single-player,2.99,2009,1
+109,109,7860,action,necrovision,Single-player,4.99,2009,1
+110,110,7940,action,call of duty® 4: modern warfare®,Single-player,19.99,2007,2
+111,111,8000,action,tomb raider: anniversary,Single-player,8.99,2007,2
+112,112,8080,action,kane and lynch: dead men™,Single-player,6.99,2007,2
+113,113,8170,action,battlestations pacific,Single-player,8.99,2009,0
+114,114,8190,action,just cause 2,Single-player,14.99,2010,2
+115,115,8310,adventure,bone: out from boneville,Single-player,9.99,2005,2
+116,116,8340,adventure,strong bads cool game for attractive people: season 1,Single-player,19.99,2008,2
+117,117,8400,casual,geometry wars: retro evolved,Single-player,3.99,2007,1
+118,118,8500,action,eve online,Multi-player,0.0,2003,0
+119,119,8600,racing,race 07,Single-player,3.99,2007,1
+120,120,8800,strategy,civilization iv: beyond the sword,Single-player,9.99,2007,2
+121,121,8850,action,bioshock® 2,Single-player,19.99,2010,2
+122,122,8870,action,bioshock infinite,Single-player,29.99,2013,2
+123,123,8930,strategy,sid meiers civilization® v,Single-player,29.99,2010,2
+124,124,8970,indie,axel &amp; pixel,Single-player,4.99,2010,0
+125,125,8980,action,borderlands,Single-player,19.99,2009,2
+126,126,9050,action,doom 3,Single-player,4.99,2004,2
+127,127,9070,action,doom 3 resurrection of evil,Single-player,2.99,2005,2
+128,128,9160,action,master levels for doom ii,Single-player,14.99,1995,0
+129,129,9180,action,commander keen,Single-player,4.99,1990,0
+130,130,9200,action,rage,Single-player,9.99,2011,2
+131,131,9350,strategy,supreme commander,Single-player,14.99,2007,2
+132,132,9420,strategy,supreme commander: forged alliance,Single-player,14.99,2011,2
+133,133,9450,strategy,"warhammer® 40,000: dawn of war® - soulstorm",Single-player,12.99,2008,2
+134,134,9480,action,saints row 2,Single-player,9.99,2009,2
+135,135,9500,indie,gish,Single-player,9.99,2004,2
+136,136,9730,simulation,tycoon city: new york,Single-player,9.99,2006,1
+137,137,9880,free to play,champions online,Multi-player,0.0,2009,2
+138,138,9900,free to play,star trek online,Multi-player,0.0,2010,2
+139,139,9930,racing,test drive unlimited 2,Single-player,19.99,2011,2
+140,140,9940,action,blade kitten,Single-player,2.99,2010,1
+141,141,10090,action,call of duty: world at war,Single-player,19.99,2008,2
+142,142,10130,action,timeshift™,Single-player,19.99,2007,2
+143,143,10140,sports,3d ultra™ minigolf adventures,Single-player,9.99,2006,0
+144,144,10150,action,prototype™,Single-player,19.99,2009,1
+145,145,10180,action,call of duty®: modern warfare® 2,Single-player,19.99,2009,1
+146,146,10220,action,postal iii,Single-player,11.99,2011,2
+147,147,10500,strategy,empire: total war™,Single-player,19.99,2009,2
+148,148,10680,action,aliens vs. predator™,Single-player,14.99,2010,2
+149,149,11020,racing,trackmania nations forever,Single-player,0.0,2008,2
+150,150,11130,adventure,sherlock holmes: the mystery of the mummy,Single-player,0.0,2008,2
+151,151,11140,adventure,sherlock holmes: the awakened - remastered edition,Single-player,9.99,2008,2
+152,152,11230,casual,gumboy tournament,Single-player,2.99,2008,0
+153,153,11240,action,space trader: merchant marine,Single-player,4.99,2008,2
+154,154,11260,simulation,pacific storm allies,Single-player,7.99,2007,0
+155,155,11280,action,penguins arena: sednas world,Single-player,5.99,2008,1
+156,156,11330,casual,obulis,Single-player,4.99,2009,2
+157,157,11340,action,larva mortus,Single-player,4.99,2009,2
+158,158,11360,indie,chains,Single-player,4.99,2008,2
+159,159,11390,action,crash time 2,Single-player,9.99,2009,0
+160,160,11450,rpg,overlord™,Single-player,4.99,2007,1
+161,161,11590,simulation,hospital tycoon,Single-player,4.99,2007,2
+162,162,11610,action,dragon nest,Single-player,0.0,2012,2
+163,163,12100,action,grand theft auto iii,Single-player,9.99,2002,1
+164,164,12110,action,grand theft auto: vice city,Single-player,9.99,2003,0
+165,165,12120,action,grand theft auto: san andreas,Single-player,14.99,2005,1
+166,166,12130,action,manhunt,Single-player,9.99,2004,0
+167,167,12140,action,max payne,Single-player,9.99,2001,0
+168,168,12150,action,max payne 2: the fall of max payne,Single-player,9.99,2003,1
+169,169,12160,racing,midnight club 2,Single-player,9.99,2003,2
+170,170,12200,action,bully: scholarship edition,Single-player,14.99,2008,2
+171,171,12220,action,grand theft auto: episodes from liberty city,Single-player,19.99,2010,2
+172,172,12330,action,darkstar one,Single-player,9.99,2006,2
+173,173,12360,racing,flatout: ultimate carnage,Single-player,19.99,2008,2
+174,174,12430,casual,slamit pinball big score,Single-player,4.99,2009,0
+175,175,12480,strategy,9th company: roots of terror,Single-player,9.99,2009,1
+176,176,12500,casual,puzzlequest: challenge of the warlords,Single-player,9.99,2007,2
+177,177,12590,racing,sprint cars road to knoxville,Single-player,9.99,2008,2
+178,178,12810,rpg,overlord ii,Single-player,9.99,2009,0
+179,179,12830,action,operation flashpoint: dragon rising,Single-player,9.99,2009,2
+180,180,12900,indie,audiosurf,Single-player,9.99,2008,2
+181,181,13210,action,unreal tournament 3 black,Single-player,19.99,2007,2
+182,182,13230,action,unreal tournament 2004: editors choice edition,Single-player,14.99,2004,2
+183,183,13250,action,unreal gold,Single-player,9.99,1998,2
+184,184,13500,action,prince of persia: warrior within™,Single-player,9.99,2004,2
+185,185,13520,action,far cry®,Single-player,9.99,2004,2
+186,186,13540,action,tom clancys rainbow six® vegas,Single-player,9.99,2006,1
+187,187,13560,action,tom clancys splinter cell®,Single-player,9.99,2003,2
+188,188,13570,action,tom clancys splinter cell chaos theory®,Single-player,9.99,2005,1
+189,189,13600,action,prince of persia®: the sands of time,Single-player,9.99,2003,2
+190,190,15000,action,tom clancys rainbow six lockdown™,Single-player,9.99,2006,2
+191,191,15100,action,assassins creed™: directors cut edition,Single-player,19.99,2008,2
+192,192,15120,action,tom clancys rainbow six® vegas 2,Single-player,9.99,2008,0
+193,193,15130,action,beyond good and evil™,Single-player,9.99,2003,2
+194,194,15170,strategy,heroes of might &amp; magic v,Single-player,9.99,2006,2
+195,195,15200,simulation,silent hunter®: wolves of the pacific,Single-player,9.99,2007,2
+196,196,15300,action,tom clancys ghost recon®,Single-player,9.99,2001,2
+197,197,15320,simulation,il-2 sturmovik: 1946,Single-player,9.99,2006,2
+198,198,15390,action,brothers in arms: hells highway™,Single-player,9.99,2008,0
+199,199,15520,action,aaaaaa!!! - a reckless disregard for gravity,Single-player,9.99,2009,2
+200,200,15620,strategy,"warhammer 40,000: dawn of war ii",Single-player,19.99,2009,0
+201,201,15700,adventure,oddworld: abes oddysee®,Single-player,2.99,1997,2
+202,202,15710,adventure,oddworld: abes exoddus®,Single-player,2.99,1998,2
+203,203,15750,action,oddworld: strangers wrath hd,Single-player,9.99,2010,2
+204,204,16450,action,f.e.a.r. 2: project origin,Single-player,14.99,2009,0
+205,205,16600,indie,trials 2: second edition,Single-player,9.99,2008,2
+206,206,16710,action,insecticide part 1,Single-player,1.99,2008,1
+207,207,16720,action,velvet assassin,Single-player,4.99,2009,1
+208,208,16810,strategy,sid meiers civilization iv: colonization,Single-player,19.99,2008,0
+209,209,17080,action,tribes: ascend,Multi-player,0.0,2012,2
+210,210,17100,strategy,children of the nile: enhanced edition,Single-player,7.99,2008,2
+211,211,17300,action,crysis,Single-player,19.99,2007,2
+212,212,17330,action,crysis warhead®,Single-player,19.99,2008,1
+213,213,17390,simulation,spore™,Single-player,19.99,2008,2
+214,214,17410,action,mirrors edge™,Single-player,19.99,2009,2
+215,215,17430,action,need for speed undercover,Single-player,9.99,2008,2
+216,216,17440,simulation,spore™ creepy &amp; cute parts pack,Single-player,19.99,2008,2
+217,217,17450,rpg,dragon age: origins,Single-player,19.99,2009,2
+218,218,17460,action,mass effect,Single-player,19.99,2008,2
+219,219,17470,action,dead space,Single-player,19.99,2008,2
+220,220,17480,strategy,command &amp; conquer: red alert 3,Single-player,19.99,2008,2
+221,221,17570,action,"pirates,vikings,and knights ii",Multi-player,0.0,2010,2
+222,222,17580,action,dystopia,Multi-player,0.0,2005,2
+223,223,17710,action,nuclear dawn,Multi-player,9.99,2011,2
+224,224,18000,adventure,"precipice of darkness,episode one",Single-player,7.99,2008,2
+225,225,18020,adventure,"precipice of darkness,episode two",Single-player,7.99,2008,2
+226,226,18040,action,deathspank,Single-player,14.99,2010,0
+227,227,18120,action,unstoppable gorg,Single-player,9.99,2012,2
+228,228,18500,indie,defense grid: the awakening,Single-player,9.99,2008,2
+229,229,18700,action,and yet it moves,Single-player,9.99,2009,0
+230,230,18820,action,zero gear,Single-player,4.99,2010,1
+231,231,19000,adventure,silent hill homecoming,Single-player,39.99,2008,1
+232,232,19500,adventure,eternitys child,Single-player,4.99,2008,1
+233,233,19830,action,tom clancys rainbow six® 3 gold,Single-player,9.99,2003,2
+234,234,19900,action,far cry® 2: fortunes edition,Single-player,9.99,2008,2
+235,235,20500,action,red faction guerrilla steam edition,Single-player,19.99,2009,2
+236,236,20510,action,s.t.a.l.k.e.r.: clear sky,Single-player,9.99,2008,0
+237,237,20530,action,red faction,Single-player,9.99,2001,2
+238,238,20540,strategy,company of heroes: tales of valor,Single-player,19.99,2009,1
+239,239,20570,strategy,"warhammer® 40,000: dawn of war® ii chaos rising",Single-player,19.99,2010,1
+240,240,20900,action,the witcher: enhanced edition directors cut,Single-player,9.99,2008,0
+241,241,20920,rpg,the witcher 2: assassins of kings enhanced edition,Single-player,19.99,2011,2
+242,242,21000,action,lego batman,Single-player,19.99,2008,2
+243,243,21090,action,f.e.a.r.,Single-player,54.99,2005,2
+244,244,21100,action,f.e.a.r. 3,Single-player,19.99,2011,0
+245,245,21660,action,street fighter® iv,Single-player,19.99,2009,2
+246,246,21690,action,resident evil™ 5/ biohazard 5®,Single-player,19.99,2009,2
+247,247,21780,racing,driver® parallel lines,Single-player,9.99,2007,2
+248,248,22000,indie,world of goo,Single-player,9.99,2008,2
+249,249,22100,indie,mount &amp; blade,Single-player,9.99,2008,2
+250,250,22120,action,penumbra: black plague gold edition,Single-player,9.99,2009,2
+251,251,22180,action,penumbra overture,Single-player,9.99,2007,2
+252,252,22200,action,zeno clash,Single-player,9.99,2009,2
+253,253,22230,action,rock of ages,Single-player,9.99,2011,0
+254,254,22300,rpg,fallout 3,Single-player,9.99,2008,0
+255,255,22320,rpg,the elder scrolls iii: morrowind® game of the year edition,Single-player,14.99,2002,2
+256,256,22330,rpg,the elder scrolls iv: oblivion® game of the year edition,Single-player,14.99,2007,2
+257,257,22350,action,brink,Single-player,0.0,2011,1
+258,258,22370,rpg,fallout 3: game of the year edition,Single-player,19.99,2009,2
+259,259,22380,action,fallout: new vegas,Single-player,9.99,2010,0
+260,260,22450,action,hunted: the demon’s forge™,Partial Controller Support,4.99,2011,2
+261,261,22600,strategy,worms reloaded,Single-player,19.99,2010,1
+262,262,22650,action,alien breed 2: assault,Single-player,9.99,2010,0
+263,263,23310,rpg,the last remnant™,Single-player,9.99,2009,2
+264,264,23450,simulation,grand ages: rome,Multi-player,9.99,2009,1
+265,265,23490,simulation,tropico 3,Single-player,9.99,2009,2
+266,266,23530,action,earth defense force: insect armageddon,Single-player,9.99,2011,0
+267,267,24010,simulation,train simulator,Single-player,24.99,2009,2
+268,268,24240,action,payday™ the heist,Single-player,14.99,2011,1
+269,269,24720,action,spore™ galactic adventures,Single-player,19.99,2009,2
+270,270,24740,racing,burnout paradise: the ultimate box,Single-player,19.99,2009,2
+271,271,24780,simulation,simcity™ 4 deluxe edition,Single-player,19.99,2003,2
+272,272,24790,strategy,command &amp; conquer 3: tiberium wars,Single-player,14.99,2007,1
+273,273,24800,strategy,command &amp; conquer: red alert 3 - uprising,Single-player,19.99,2009,1
+274,274,24810,strategy,command &amp; conquer 3: kanes wrath,Single-player,19.99,2009,2
+275,275,24840,action,medal of honor: airborne,Single-player,9.99,2007,2
+276,276,24870,racing,need for speed: shift,Single-player,19.99,2009,2
+277,277,24960,action,battlefield: bad company™ 2,Single-player,19.99,2010,2
+278,278,24980,rpg,mass effect 2,Single-player,19.99,2010,2
+279,279,25000,action,overgrowth,Single-player,29.99,2017,2
+280,280,25010,action,lugaru hd,Single-player,9.99,2005,0
+281,281,25500,indie,cricket revolution,Single-player,2.99,2009,2
+282,282,25700,indie,madballs in babo:invasion,Single-player,4.99,2009,1
+283,283,25800,strategy,europa universalis iii complete,Single-player,14.99,2007,2
+284,284,25830,strategy,knights of honor,Single-player,9.99,2005,0
+285,285,25890,strategy,hearts of iron iii,Single-player,9.99,2009,1
+286,286,25900,rpg,kings bounty: the legend,Single-player,6.99,2008,2
+287,287,25910,strategy,supreme ruler 2020 gold,Single-player,9.99,2008,2
+288,288,25980,simulation,majesty 2,Single-player,9.99,2009,0
+289,289,26500,indie,cogs,Single-player,9.99,2009,2
+290,290,26800,casual,braid,Single-player,14.99,2009,0
+291,291,26900,casual,crayon physics deluxe,Single-player,19.99,2009,2
+292,292,27020,indie,the graveyard,Single-player,4.99,2008,1
+293,293,27940,action,dead horde,Single-player,9.99,2011,0
+294,294,28000,action,kane &amp; lynch 2: dog days,Single-player,9.99,2010,0
+295,295,29180,indie,osmos,Single-player,9.99,2009,2
+296,296,29800,action,caster,Single-player,1.99,2009,2
+297,297,31280,casual,poker night at the inventory,Single-player,4.99,2010,2
+298,298,31290,adventure,back to the future: the game,Single-player,19.99,2010,1
+299,299,31860,adventure,nancy drew®: legend of the crystal skull,Single-player,6.99,2007,1
+300,300,31930,adventure,nancy drew®: the white wolf of icicle creek,Single-player,6.99,2007,2
+301,301,32200,action,metal drift,Single-player,9.99,2009,2
+302,302,32330,action,lego® indiana jones™: the original adventures,Single-player,19.99,2008,2
+303,303,32340,adventure,loom™,Single-player,5.99,1990,2
+304,304,32350,action,star wars™ starfighter™,Single-player,5.99,2002,2
+305,305,32370,adventure,star wars™ - knights of the old republic™,Single-player,9.99,2003,2
+306,306,32380,action,star wars™ jedi knight: dark forces ii,Single-player,5.99,1997,2
+307,307,32390,action,star wars™ jedi knight - mysteries of the sith™,Single-player,2.99,1998,1
+308,308,32400,action,star wars™ - dark forces,Single-player,5.99,1995,2
+309,309,32420,action,star wars™: the clone wars - republic heroes™,Single-player,19.99,2009,0
+310,310,32430,action,star wars™ - the force unleashed™ ultimate sith edition,Single-player,19.99,2009,2
+311,311,32440,adventure,lego® star wars™ - the complete saga,Single-player,19.99,2009,2
+312,312,32470,strategy,star wars™ empire at war - gold pack,Single-player,19.99,2006,0
+313,313,32500,action,star wars™: the force unleashed™ ii,Single-player,19.99,2010,0
+314,314,32630,action,delta force 2,Single-player,4.99,1999,1
+315,315,32770,action,joint operations: combined arms gold,Single-player,19.99,2009,2
+316,316,32800,action,lord of the rings: war in the north,Single-player,19.99,2011,0
+317,317,33130,action,zombie shooter,Single-player,4.99,2007,2
+318,318,33210,simulation,dawn of discovery™,Single-player,9.99,2009,2
+319,319,33230,action,assassins creed 2 deluxe edition,Single-player,19.99,2010,2
+320,320,33460,adventure,from dust,Single-player,14.99,2011,2
+321,321,33520,simulation,tropico reloaded,Single-player,6.99,2009,0
+322,322,33670,strategy,disciples iii - renaissance steam special edition,Single-player,14.99,2010,2
+323,323,33680,indie,eversion,Single-player,4.99,2010,2
+324,324,33900,action,arma 2,Single-player,12.99,2009,2
+325,325,33930,action,arma 2: operation arrowhead,Single-player,19.99,2010,2
+326,326,33950,casual,fish fillets 2,Single-player,4.99,2007,0
+327,327,33980,action,pound of ground,Single-player,9.99,2010,1
+328,328,34010,action,alpha protocol™,Single-player,14.99,2010,2
+329,329,34030,strategy,napoleon: total war™,Single-player,19.99,2010,2
+330,330,34830,action,sniper: ghost warrior,Single-player,7.99,2010,0
+331,331,34870,action,sniper: ghost warrior 2,Single-player,9.99,2013,2
+332,332,34900,indie,bad rats: the rats revenge,Single-player,0.99,2009,2
+333,333,35140,action,batman: arkham asylum game of the year edition,Single-player,19.99,2010,2
+334,334,35420,action,defence alliance 2,Single-player,0.0,2009,2
+335,335,35450,action,red orchestra 2: heroes of stalingrad with rising storm,Multi-player,19.99,2011,2
+336,336,35460,action,the ball,Single-player,9.99,2010,0
+337,337,35480,strategy,dwarfs!?,Single-player,9.99,2011,2
+338,338,35700,action,trine enchanted edition,Single-player,14.99,2009,2
+339,339,35720,action,trine 2: complete story,Single-player,19.99,2013,2
+340,340,36000,action,foreign legion: buckets of blood,Single-player,4.99,2009,2
+341,341,37400,adventure,"time gentlemen,please! and ben there,dan that! special edition  double pack",Single-player,4.99,2009,1
+342,342,37600,adventure,windosill,Single-player,2.99,2009,2
+343,343,38210,casual,roogoo,Single-player,1.99,2009,0
+344,344,38400,rpg,fallout: a post nuclear role playing game,Single-player,9.99,1997,0
+345,345,38410,rpg,fallout 2: a post nuclear role playing game,Single-player,9.99,1998,1
+346,346,38420,strategy,fallout tactics: brotherhood of steel,Single-player,9.99,2001,2
+347,347,38460,action,mdk 2,Single-player,9.99,2000,2
+348,348,38600,casual,faerie solitaire,Single-player,9.99,2010,1
+349,349,38700,casual,toki tori,Single-player,4.99,2010,2
+350,350,38720,casual,rush,Single-player,4.99,2010,2
+351,351,38740,action,edge,Single-player,6.99,2011,0
+352,352,39120,free to play,rift,Multi-player,0.0,2013,2
+353,353,39140,rpg,final fantasy vii,Single-player,11.99,2013,2
+354,354,39150,rpg,final fantasy viii,Single-player,11.99,2013,2
+355,355,39160,action,dungeon siege iii,Single-player,14.99,2011,2
+356,356,39190,rpg,dungeon siege,Single-player,6.99,2002,2
+357,357,39200,rpg,dungeon siege ii,Single-player,6.99,2005,2
+358,358,39210,massively multiplayer,final fantasy xiv online,Single-player,19.99,2014,2
+359,359,39670,action,chaser,Single-player,4.99,2003,2
+360,360,39680,simulation,the guild ii renaissance,Single-player,9.99,2010,0
+361,361,39690,rpg,arcania,Single-player,19.99,2010,1
+362,362,39800,action,nation red,Single-player,1.99,2010,2
+363,363,40100,strategy,supreme commander 2,Single-player,12.99,2010,0
+364,364,40330,adventure,secret files: tunguska,Single-player,9.99,2009,1
+365,365,40380,racing,naild,Single-player,4.99,2010,1
+366,366,40390,rpg,risen 2: dark waters,Single-player,9.99,2012,2
+367,367,40400,indie,ai war: fleet command,Single-player,9.99,2009,2
+368,368,40700,adventure,machinarium,Single-player,9.99,2009,2
+369,369,40800,indie,super meat boy,Single-player,14.99,2010,2
+370,370,40930,adventure,the misadventures of p.b. winterbottom,Single-player,4.99,2010,2
+371,371,40950,simulation,stronghold hd,Single-player,5.99,2001,2
+372,372,40970,simulation,stronghold crusader hd,Single-player,9.99,2002,2
+373,373,41000,action,serious sam hd: the first encounter,Single-player,14.99,2009,0
+374,374,41050,action,serious sam classic: the first encounter,Single-player,9.99,2001,2
+375,375,41060,action,serious sam classic: the second encounter,Single-player,9.99,2002,1
+376,376,41100,action,hammerfight,Single-player,4.99,2009,2
+377,377,41300,action,altitude,Single-player,0.0,2009,2
+378,378,41500,rpg,torchlight,Single-player,14.99,2009,1
+379,379,41600,action,earthworm jim 3d,Single-player,19.99,1999,1
+380,380,41700,action,s.t.a.l.k.e.r.: call of pripyat,Single-player,19.99,2010,2
+381,381,41740,action,cargo! the quest for gravity,Single-player,9.99,2011,2
+382,382,41800,indie,gratuitous space battles,Single-player,14.99,2009,2
+383,383,42120,action,lead and gold: gangs of the wild west,Multi-player,9.99,2010,0
+384,384,42170,action,krater,Single-player,14.99,2012,1
+385,385,42700,action,call of duty®: black ops,Single-player,39.99,2010,2
+386,386,42890,strategy,sword of the stars: complete collection,Single-player,9.99,2008,2
+387,387,42910,action,magicka,Single-player,9.99,2011,1
+388,388,42920,strategy,the kings crusade,Single-player,9.99,2010,0
+389,389,42960,strategy,victoria ii,Single-player,19.99,2010,0
+390,390,42990,strategy,sword of the stars ii: enhanced edition,Multi-player,19.99,2012,2
+391,391,43000,action,front mission evolved,Single-player,9.99,2010,2
+392,392,43500,simulation,m.u.d. tv,Single-player,9.99,2010,0
+393,393,44200,indie,galcon fusion,Single-player,9.99,2010,0
+394,394,44350,racing,grid 2,Single-player,29.99,2013,2
+395,395,45000,indie,sol survivor,Single-player,9.99,2010,1
+396,396,45100,casual,secret of the magic crystals,Single-player,4.99,2010,2
+397,397,45300,simulation,wings of prey,Single-player,9.99,2009,2
+398,398,45400,indie,fortix,Single-player,0.99,2010,2
+399,399,45700,action,devil may cry 4,Single-player,19.99,2008,0
+400,400,45710,action,dark void™,Single-player,9.99,2010,0
+401,401,45730,action,dark void™ zero,Single-player,4.99,2010,2
+402,402,45740,action,dead rising® 2,Single-player,19.99,2010,2
+403,403,45760,action,ultra street fighter® iv,Single-player,29.99,2014,2
+404,404,45770,action,dead rising 2: off the record,Single-player,19.99,2011,0
+405,405,46280,rpg,star wolves 2,Single-player,3.99,2010,2
+406,406,46350,strategy,real warfare 1242,Single-player,3.99,2010,2
+407,407,46440,strategy,future wars,Single-player,4.99,2010,1
+408,408,46540,action,trapped dead,Single-player,4.99,2011,0
+409,409,46770,indie,making history ii: the war of the world,Single-player,14.99,2010,2
+410,410,47400,simulation,stronghold 3 gold,Single-player,29.99,2012,0
+411,411,47410,free to play,stronghold kingdoms,Multi-player,0.0,2012,2
+412,412,47700,strategy,command &amp; conquer 4: tiberian twilight,Single-player,19.99,2010,2
+413,413,47780,action,dead space™ 2,Single-player,19.99,2011,2
+414,414,47790,action,medal of honor™,Single-player,19.99,2010,2
+415,415,47800,strategy,risk™: factions,Single-player,9.99,2011,2
+416,416,47810,rpg,dragon age: origins - ultimate edition,Single-player,29.99,2010,0
+417,417,47870,racing,need for speed: hot pursuit,Single-player,19.99,2010,2
+418,418,47890,simulation,the sims™ 3,Single-player,19.99,2009,2
+419,419,47920,racing,shift 2 unleashed,Single-player,19.99,2011,0
+420,420,48000,adventure,limbo,Single-player,9.99,2011,2
+421,421,48110,simulation,silent hunter 5®: battle of the atlantic,Single-player,9.99,2010,1
+422,422,48190,action,assassin’s creed® brotherhood,Single-player,19.99,2011,1
+423,423,48700,action,mount &amp; blade: warband,Single-player,19.99,2010,2
+424,424,48720,action,mount &amp; blade: with fire &amp; sword,Single-player,9.99,2011,2
+425,425,48800,simulation,ship simulator extremes,Single-player,19.99,2010,2
+426,426,48950,strategy,greed corp,Single-player,9.99,2010,0
+427,427,49470,strategy,magic: the gathering - duels of the planeswalkers 2012,Single-player,19.99,2011,2
+428,428,49520,action,borderlands 2,Single-player,19.99,2012,2
+429,429,49600,action,beat hazard,Single-player,9.99,2010,2
+430,430,49800,action,flight of the icarus,Single-player,4.99,2010,2
+431,431,50130,action,mafia ii,Single-player,29.99,2011,2
+432,432,50300,action,spec ops: the line,Single-player,29.99,2012,2
+433,433,50510,action,burn zombie burn!,Single-player,9.99,2010,2
+434,434,50620,action,darksiders™,Single-player,19.99,2010,0
+435,435,51100,action,tactical intervention,Multi-player,0.0,2013,2
+436,436,55040,indie,atom zombie smasher,Single-player,9.99,2011,2
+437,437,55100,action,homefront,Single-player,19.99,2011,2
+438,438,55110,action,red faction®: armageddon™,Single-player,19.99,2011,2
+439,439,55140,racing,mx vs. atv reflex,Single-player,19.99,2010,2
+440,440,55150,action,"warhammer 40,000: space marine",Single-player,29.99,2011,2
+441,441,55230,action,saints row: the third,Single-player,9.99,2011,2
+442,442,55370,action,saints row: the third initiation station,Single-player,0.0,2011,2
+443,443,57000,action,nyxquest: kindred spirits,Single-player,2.99,2010,2
+444,444,57300,action,amnesia: the dark descent,Single-player,19.99,2010,0
+445,445,57600,strategy,tropico 3: absolute power,Single-player,9.99,2010,2
+446,446,57640,adventure,broken sword: directors cut,Single-player,5.99,2010,2
+447,447,57690,simulation,tropico 4,Single-player,14.99,2011,2
+448,448,57740,rpg,jagged alliance - back in action,Single-player,19.99,2012,0
+449,449,57900,action,duke nukem forever,Single-player,19.99,2011,2
+450,450,58610,strategy,wargame: european escalation,Single-player,9.99,2012,0
+451,451,60800,rpg,numen: contest of heroes,Single-player,7.99,2010,2
+452,452,61100,indie,lucid,Single-player,4.99,2011,0
+453,453,61310,indie,fractal: make blooms not war,Single-player,6.99,2011,2
+454,454,61600,indie,zen bound 2,Single-player,4.99,2010,2
+455,455,61730,action,critter crunch,Single-player,6.99,2012,2
+456,456,62100,casual,chime,Single-player,4.99,2010,2
+457,457,63200,action,monday night combat,Single-player,4.99,2011,1
+458,458,63380,action,sniper elite v2,Single-player,19.99,2012,2
+459,459,63500,action,swords and soldiers hd,Single-player,9.99,2010,2
+460,460,63610,adventure,riven: the sequel to myst,Single-player,5.99,1997,2
+461,461,63660,adventure,myst: masterpiece edition,Single-player,5.99,2011,2
+462,462,63700,action,bit.trip beat,Single-player,9.99,2010,2
+463,463,63710,action,bit.trip runner,Single-player,9.99,2011,2
+464,464,63800,adventure,delve deeper,Single-player,4.99,2010,2
+465,465,63940,strategy,men of war: vietnam,Single-player,7.99,2011,0
+466,466,64000,strategy,men of war: assault squad,Single-player,9.99,2011,1
+467,467,65300,action,dustforce dx,Single-player,9.99,2012,2
+468,468,65560,action,painkiller redemption,Single-player,4.99,2011,0
+469,469,65730,simulation,take on helicopters,Single-player,19.99,2011,1
+470,470,65740,action,carrier command: gaea mission,Single-player,32.99,2012,2
+471,471,65780,action,arma: gold edition,Single-player,9.99,2011,2
+472,472,65790,action,arma: cold war assault,Single-player,4.99,2011,2
+473,473,65800,action,dungeon defenders,Single-player,14.99,2011,2
+474,474,65930,action,the bureau: xcom declassified,Single-player,19.99,2013,2
+475,475,65980,strategy,sid meiers civilization®: beyond earth™,Single-player,39.99,2014,1
+476,476,67370,action,the darkness ii,Single-player,29.99,2012,2
+477,477,70000,action,dino d-day,Multi-player,9.99,2011,1
+478,478,70100,simulation,hacker evolution,Single-player,4.99,2010,2
+479,479,70300,action,vvvvvv,Single-player,4.99,2010,2
+480,480,70400,rpg,recettear: an item shops tale,Single-player,19.99,2010,2
+481,481,70600,strategy,worms ultimate mayhem,Single-player,14.99,2011,0
+482,482,70620,sports,worms crazy golf,Single-player,9.99,2011,2
+483,483,70640,strategy,worms,Single-player,7.99,1995,0
+484,484,70650,casual,worms blast,Single-player,7.99,2002,0
+485,485,71000,action,evochron mercenary,Single-player,19.99,2012,2
+486,486,71230,action,crazy taxi,Single-player,7.99,2011,1
+487,487,71340,action,sonic generations collection,Single-player,19.99,2011,2
+488,488,72000,indie,closure,Single-player,9.99,2012,2
+489,489,72200,casual,universe sandbox,Single-player,0.0,2011,2
+490,490,72900,adventure,winter voices,Single-player,4.99,2010,2
+491,491,73010,simulation,cities in motion,Single-player,19.99,2011,2
+492,492,73020,strategy,majesty 2 collection,Single-player,19.99,2011,2
+493,493,73170,strategy,darkest hour: a hearts of iron game,Single-player,9.99,2011,2
+494,494,73220,strategy,supreme ruler: cold war,Single-player,9.99,2011,2
+495,495,78000,strategy,bejeweled® 3,Single-player,4.99,2010,0
+496,496,80310,adventure,gemini rue,Single-player,9.99,2011,2
+497,497,91200,action,anomaly: warzone earth,Single-player,9.99,2011,0
+498,498,91330,action,iron front: digital war edition,Single-player,14.99,2012,0
+499,499,91600,action,sanctum,Single-player,9.99,2011,1
+500,500,91700,action,e.y.e: divine cybermancy,Single-player,9.99,2011,2
+501,501,91800,casual,cloning clyde,Single-player,4.99,2011,2
+502,502,91900,action,post apocalyptic mayhem,Single-player,9.99,2011,2
+503,503,92000,action,hydrophobia: prophecy,Single-player,4.99,2011,2
+504,504,92100,indie,detour,Single-player,4.99,2011,2
+505,505,92300,action,a.r.e.s.: extinction agenda,Single-player,4.99,2011,1
+506,506,92700,action,shadow harvest: phantom ops,Single-player,9.99,2011,0
+507,507,92800,indie,spacechem,Single-player,9.99,2011,1
+508,508,93200,action,revenge of the titans,Single-player,9.99,2011,2
+509,509,94000,indie,dinner date,Single-player,3.99,2011,0
+510,510,94200,action,jamestown,Single-player,9.99,2011,2
+511,511,94300,adventure,the dream machine: chapter 1 &amp; 2,Single-player,3.99,2012,2
+512,512,94400,action,nidhogg,Single-player,9.99,2014,2
+513,513,94590,adventure,puzzle agent 2,Single-player,9.99,2011,0
+514,514,95300,action,capsized,Single-player,9.99,2011,2
+515,515,95400,action,ibb &amp; obb,Multi-player,11.99,2014,2
+516,516,96000,adventure,the tiny bang story,Single-player,4.99,2011,2
+517,517,96100,action,defy gravity extended,Single-player,1.99,2016,0
+518,518,96200,action,steel storm: burning retribution,Single-player,14.99,2011,1
+519,519,96800,action,nexuiz,Single-player,9.99,2012,2
+520,520,97000,indie,solar 2,Single-player,9.99,2011,2
+521,521,97100,action,section 8®: prejudice™,Single-player,9.99,2011,2
+522,522,97330,strategy,magic: the gathering - duels of the planeswalkers 2013,Single-player,9.99,2012,2
+523,523,98200,indie,frozen synapse,Single-player,24.99,2011,2
+524,524,98300,action,toy soldiers,Single-player,9.99,2012,2
+525,525,98400,action,hard reset extended edition,Single-player,14.99,2012,2
+526,526,98500,action,naval warfare,Single-player,2.99,2011,2
+527,527,98600,action,demolition inc.,Single-player,5.99,2011,0
+528,528,98800,casual,dungeons of dredmor,Single-player,4.99,2011,0
+529,529,99100,action,dungeons and dragons: daggerdale,Single-player,14.99,2011,0
+530,530,99300,action,renegade ops,Single-player,15.0,2011,2
+531,531,99400,action,garshasp: the monster slayer,Single-player,4.99,2011,0
+532,532,99700,casual,nightsky,Single-player,9.99,2011,2
+533,533,99900,action,spiral knights,Single-player,0.0,2011,2
+534,534,99910,adventure,puzzle pirates,Single-player,0.0,2011,2
+535,535,102500,action,kingdoms of amalur: reckoning™,Single-player,19.99,2012,2
+536,536,102600,action,orcs must die!,Single-player,9.99,2011,1
+537,537,102700,action,a.v.a. alliance of valiant arms™,Multi-player,0.0,2011,0
+538,538,102840,action,shank 2,Single-player,9.99,2012,1
+539,539,102850,action,warp,Single-player,9.99,2012,2
+540,540,104000,indie,ibomber defense,Single-player,4.99,2011,2
+541,541,104200,adventure,beep,Single-player,1.99,2011,0
+542,542,104700,free to play,super mnc,Multi-player,0.0,2012,1
+543,543,104900,action,orion: prelude,Single-player,0.99,2013,2
+544,544,105000,adventure,a new beginning - final cut,Single-player,9.99,2012,0
+545,545,105100,adventure,lume,Single-player,5.99,2011,2
+546,546,105300,casual,critical mass,Single-player,1.99,2011,2
+547,547,105420,action,ms. splosion man,Single-player,9.99,2013,2
+548,548,105450,simulation,age of empires® iii: complete collection,Single-player,39.99,2009,1
+549,549,105600,action,terraria,Single-player,9.99,2011,1
+550,550,105800,action,pixeljunk™ eden,Single-player,9.99,2012,1
+551,551,107100,action,bastion,Single-player,14.99,2011,2
+552,552,107200,action,space pirates and zombies,Single-player,9.99,2011,2
+553,553,107310,indie,cthulhu saves the world,Single-player,2.99,2011,1
+554,554,107410,action,arma 3,Single-player,39.99,2013,2
+555,555,107800,action,rochard,Single-player,9.99,2011,2
+556,556,108200,casual,ticket to ride,Single-player,9.99,2012,2
+557,557,108500,action,vessel,Single-player,19.99,2012,2
+558,558,108600,indie,project zomboid,Single-player,14.99,2013,2
+559,559,108710,action,alan wake,Single-player,9.99,2012,2
+560,560,108800,action,crysis 2 - maximum edition,Single-player,29.99,2011,2
+561,561,109600,action,neverwinter,Multi-player,0.0,2013,2
+562,562,110800,adventure,l.a. noire,Single-player,19.99,2011,0
+563,563,111400,action,bunch of heroes,Single-player,4.99,2011,0
+564,564,111600,action,serious sam double d xxl,Single-player,9.99,2011,0
+565,565,111800,casual,blocks that matter,Single-player,4.99,2011,2
+566,566,111900,action,guardians of middle-earth,Single-player,19.99,2013,0
+567,567,113020,action,monaco: whats yours is mine,Single-player,14.99,2013,2
+568,568,113200,action,the binding of isaac,Single-player,4.99,2011,2
+569,569,113400,action,apb reloaded,Multi-player,0.0,2011,2
+570,570,113420,free to play,fallen earth free2play,Multi-player,0.0,2011,2
+571,571,115100,adventure,costume quest,Single-player,9.99,2011,2
+572,572,115320,action,prototype 2,Single-player,39.99,2012,2
+573,573,200010,casual,quantum conundrum,Single-player,8.99,2012,2
+574,574,200050,strategy,naval war: arctic circle,Single-player,19.99,2012,0
+575,575,200150,casual,battle chess: game of kings™,Single-player,29.99,2015,2
+576,576,200170,strategy,worms revolution,Single-player,14.99,2012,1
+577,577,200210,action,realm of the mad god,Multi-player,0.0,2012,2
+578,578,200230,racing,off-road drive,Single-player,4.99,2011,2
+579,579,200260,action,batman: arkham city - game of the year edition,Single-player,19.99,2012,1
+580,580,200510,strategy,xcom: enemy unknown,Single-player,29.99,2012,2
+581,581,200710,action,torchlight ii,Single-player,19.99,2012,2
+582,582,200910,indie,before the echo,Single-player,4.99,2011,2
+583,583,201210,free to play,pox nora,Single-player,0.0,2014,2
+584,584,201230,free to play,everquest® ii free-to-play. your way.™,Multi-player,0.0,2011,2
+585,585,201310,action,x3: albion prelude,Single-player,9.99,2011,0
+586,586,201420,adventure,toki tori 2+,Single-player,14.99,2013,2
+587,587,201480,action,serious sam: the random encounter,Single-player,4.99,2011,1
+588,588,201510,racing,flatout 3: chaos &amp; destruction,Single-player,9.99,2011,0
+589,589,201570,action,really big sky,Single-player,4.99,2012,1
+590,590,201790,action,orcs must die! 2,Single-player,14.99,2012,2
+591,591,201810,action,wolfenstein: the new order,Single-player,19.99,2014,1
+592,592,202130,strategy,impire,Single-player,19.99,2013,0
+593,593,202170,action,sleeping dogs,Single-player,74.76,0,2
+594,594,202200,strategy,galactic civilizations® ii: ultimate edition,Single-player,19.99,2011,2
+595,595,202310,racing,ridge racer™ unbounded,Single-player,9.99,2012,2
+596,596,202750,action,alan wakes american nightmare,Single-player,9.99,2012,2
+597,597,202970,action,call of duty®: black ops ii,Single-player,59.99,2012,2
+598,598,203140,action,hitman: absolution™,Single-player,19.99,2012,2
+599,599,203160,action,tomb raider,Single-player,19.99,2013,2
+600,600,203210,action,titan attacks!,Single-player,9.99,2012,2
+601,601,203290,action,americas army: proving grounds,Single-player,0.0,2015,2
+602,602,203350,rpg,kings bounty: warriors of the north,Single-player,9.99,2012,2
+603,603,203630,strategy,warlock - master of the arcane,Single-player,24.99,2012,2
+604,604,203650,adventure,sonic the hedgehog 4 - episode ii,Single-player,9.99,2012,2
+605,605,203750,action,binary domain,Single-player,14.99,2012,2
+606,606,203770,rpg,crusader kings ii,Single-player,39.99,2012,1
+607,607,203830,adventure,the dark eye: chains of satinav,Single-player,19.99,2012,2
+608,608,204030,action,fable - the lost chapters,Single-player,9.99,2011,2
+609,609,204060,adventure,superbrothers: sword &amp; sworcery ep,Single-player,7.99,2012,1
+610,610,204080,action,the showdown effect,Multi-player,9.99,2013,0
+611,611,204100,action,max payne 3,Single-player,19.99,2012,2
+612,612,204180,adventure,waveform,Single-player,1.99,2012,2
+613,613,204240,casual,the bridge,Single-player,9.99,2013,2
+614,614,204300,action,awesomenauts - the 2d moba,Single-player,0.0,2012,2
+615,615,204340,action,serious sam 2,Single-player,9.99,2005,1
+616,616,204360,action,castle crashers®,Single-player,14.99,2012,2
+617,617,204450,action,call of juarez® gunslinger,Single-player,14.99,2013,1
+618,618,204530,action,infested planet,Single-player,14.99,2014,2
+619,619,204630,action,retro city rampage™ dx,Single-player,14.99,2014,0
+620,620,204880,indie,sins of a solar empire®: rebellion,Single-player,39.99,2012,2
+621,621,205060,action,bit.trip core,Single-player,9.99,2012,0
+622,622,205080,action,bit.trip fate,Single-player,9.99,2013,0
+623,623,205100,action,dishonored,Single-player,9.99,2012,2
+624,624,205230,action,hell yeah! wrath of the dead rabbit,Single-player,14.99,2012,2
+625,625,205610,action,port royale 3,Single-player,14.99,2012,2
+626,626,205650,adventure,the testament of sherlock holmes,Single-player,19.99,2012,2
+627,627,205710,free to play,everquest ®,MMO,0.0,2012,2
+628,628,205730,action,insanely twisted shadow planet,Single-player,14.99,2012,0
+629,629,205870,indie,auditorium,Single-player,6.99,2012,1
+630,630,205890,adventure,chronicle: runescape legends,Single-player,0.0,2016,2
+631,631,205910,indie,tiny and big: grandpas leftovers,Single-player,9.99,2012,2
+632,632,205950,action,jet set radio,Single-player,7.99,2012,1
+633,633,205990,strategy,warlock 2: the exiled,Single-player,19.99,2014,2
+634,634,206190,action,gunpoint,Single-player,9.99,2013,2
+635,635,206210,action,gotham city impostors free to play,Multi-player,0.0,2012,0
+636,636,206420,action,saints row iv,Single-player,14.99,2013,2
+637,637,206440,adventure,to the moon,Single-player,9.99,2011,2
+638,638,206500,action,airmech strike,Single-player,0.0,2012,0
+639,639,206610,casual,3switched,Single-player,9.99,2012,2
+640,640,206690,casual,ibomber defense pacific,Single-player,4.99,2012,2
+641,641,207080,indie,indie game: the movie,Single-player,9.99,2012,2
+642,642,207140,action,speedrunners,Single-player,14.99,2016,1
+643,643,207170,adventure,legend of grimrock,Single-player,14.99,2012,1
+644,644,207230,action,archeblade™,Multi-player,0.0,2014,1
+645,645,207250,indie,cubemen,Single-player,3.99,2012,2
+646,646,207350,action,ys origin,Single-player,19.99,2012,2
+647,647,207400,action,exceed 3rd - jade penetrate black package,Single-player,5.99,2012,2
+648,648,207420,action,wizorb,Single-player,2.99,2012,2
+649,649,207430,casual,"hack,slash,loot",Single-player,6.99,2012,2
+650,650,207490,action,rayman® origins,Single-player,19.99,2012,2
+651,651,207570,indie,english country tune,Single-player,4.99,2011,0
+652,652,207610,adventure,the walking dead,Single-player,24.99,2012,0
+653,653,207690,adventure,botanicula,Single-player,9.99,2012,2
+654,654,207730,action,arena wars 2,Single-player,3.99,2012,2
+655,655,207750,action,symphony,Single-player,8.99,2012,2
+656,656,207790,simulation,janes advanced strike fighters,Single-player,9.99,2012,2
+657,657,207930,action,sacred citadel,Single-player,9.99,2013,2
+658,658,208090,action,loadout,Multi-player,0.0,2014,2
+659,659,208140,strategy,endless space® - collection,Single-player,19.99,2012,2
+660,660,208200,action,doom 3: bfg edition,Single-player,19.99,2012,2
+661,661,208460,action,tryst,Single-player,14.99,2012,0
+662,662,208480,adventure,assassin’s creed® iii,Single-player,19.99,2012,2
+663,663,208500,racing,f1 2012™,Single-player,19.99,2012,2
+664,664,208520,simulation,omerta - city of gangsters,Single-player,14.99,2013,2
+665,665,208580,rpg,star wars™ knights of the old republic™ ii - the sith lords™,Single-player,9.99,2005,2
+666,666,208650,action,batman™: arkham knight,Single-player,19.99,2015,2
+667,667,208670,action,blades of time,Single-player,9.99,2012,0
+668,668,208730,action,game of thrones,Single-player,14.99,2012,1
+669,669,208750,action,apotheon,Single-player,14.99,2015,0
+670,670,209000,action,batman™: arkham origins,Single-player,19.99,2013,2
+671,671,209060,action,drunken robot pornography,Single-player,14.99,2014,2
+672,672,209080,action,guns of icarus online,Multi-player,4.99,2012,0
+673,673,209100,action,resident evil: operation raccoon city,Single-player,29.99,2012,0
+674,674,209120,action,street fighter x tekken,Single-player,29.99,2012,2
+675,675,209160,action,call of duty®: ghosts,Single-player,59.99,2014,2
+676,676,209270,indie,hero academy,Single-player,4.99,2012,1
+677,677,209360,action,all zombies must die!: scorepocalypse,Single-player,4.99,2012,2
+678,678,209370,indie,analogue: a hate story,Single-player,9.99,2012,2
+679,679,209520,casual,mini motor racing evo,Single-player,4.99,2013,2
+680,680,209540,action,strike suit zero,Single-player,19.99,2013,2
+681,681,209630,action,magrunner: dark pulse,Single-player,9.99,2013,2
+682,682,209650,action,call of duty®: advanced warfare - gold edition,Single-player,59.99,2014,2
+683,683,209670,action,cortex command,Single-player,19.99,2012,0
+684,684,209690,strategy,fieldrunners,Single-player,4.99,2012,1
+685,685,209730,action,r.a.w. realms of ancient war,Single-player,14.99,2012,2
+686,686,209790,indie,splice,Single-player,9.99,2012,1
+687,687,209830,action,lone survivor: the directors cut,Single-player,14.99,2012,2
+688,688,209870,action,blacklight: retribution,Multi-player,0.0,2012,2
+689,689,210170,action,spirits,Single-player,3.99,2012,2
+690,690,210550,casual,angry birds space,Single-player,4.99,2013,2
+691,691,210770,action,sanctum 2,Single-player,14.99,2013,2
+692,692,210870,indie,cloudberry kingdom™,Single-player,9.99,2013,2
+693,693,210970,adventure,the witness,Single-player,39.99,2016,2
+694,694,211160,action,viking: battle for asgard,Single-player,14.99,2012,0
+695,695,211180,adventure,unmechanical,Single-player,9.99,2012,2
+696,696,211260,action,they bleed pixels,Single-player,9.99,2012,0
+697,697,211280,action,primal fears,Single-player,9.99,2013,0
+698,698,211400,action,deadlight,Single-player,14.99,2012,1
+699,699,211420,action,dark souls™: prepare to die™ edition,Single-player,19.99,2012,1
+700,700,211440,indie,adventures of shuggy,Single-player,4.99,2012,0
+701,701,211500,free to play,raceroom racing experience,Single-player,160.91,2013,1
+702,702,211600,action,thief™ gold,Single-player,6.99,1998,2
+703,703,211740,action,thief™ ii: the metal age,Single-player,6.99,2000,2
+704,704,211780,action,conflict desert storm™,Single-player,6.99,2002,2
+705,705,211820,action,starbound,Single-player,14.99,2016,2
+706,706,212010,action,galaxy on fire 2™ full hd,Single-player,7.99,2012,2
+707,707,212030,action,kung fu strike - the warriors rise,Single-player,9.99,2012,2
+708,708,212070,action,star conflict,Multi-player,0.0,2013,0
+709,709,212160,action,vindictus,Single-player,0.0,2012,2
+710,710,212200,action,mabinogi,Single-player,0.0,2012,2
+711,711,212410,action,inversion™,Single-player,9.99,2012,2
+712,712,212480,racing,sonic &amp; all-stars racing transformed,Single-player,19.99,2013,2
+713,713,212500,free to play,the lord of the rings online™,MMO,0.0,2012,1
+714,714,212630,action,tom clancys ghost recon: future soldier™,Single-player,19.99,2012,0
+715,715,212680,indie,ftl: faster than light,Single-player,9.99,2012,0
+716,716,212700,action,party of sin,Single-player,5.99,2012,0
+717,717,212800,action,super crate box,Single-player,0.0,2010,2
+718,718,213330,action,lego® batman 2 dc super heroes™,Single-player,19.99,2012,0
+719,719,213610,action,sonic adventure 2,Single-player,9.99,2012,2
+720,720,213650,casual,dwarfs - f2p,Single-player,0.0,2012,0
+721,721,213670,action,south park™: the stick of truth™,Single-player,29.99,2014,1
+722,722,213850,strategy,magic 2014 — duels of the planeswalkers,Single-player,9.99,2013,1
+723,723,214130,indie,aerofly fs 1 flight simulator,Single-player,9.99,2012,1
+724,724,214190,action,minimum,Multi-player,0.0,2014,2
+725,725,214250,action,i am alive,Single-player,14.99,2012,0
+726,726,214340,adventure,deponia,Single-player,9.99,2012,0
+727,727,214420,action,gear up,Multi-player,0.0,2015,2
+728,728,214490,action,alien: isolation,Single-player,39.99,2014,1
+729,729,214510,action,lego the lord of the rings,Single-player,19.99,2012,2
+730,730,214560,action,mark of the ninja,Single-player,14.99,2012,1
+731,731,214610,adventure,cherry tree high comedy club,Single-player,7.99,2012,2
+732,732,214630,action,call of duty: black ops - mac edition,Single-player,39.99,2012,1
+733,733,214700,adventure,thirty flights of loving,Single-player,4.99,2012,1
+734,734,214770,action,guacamelee! gold edition,Single-player,14.99,2013,1
+735,735,214790,adventure,the basement collection,Single-player,3.99,2012,2
+736,736,214830,action,half minute hero: super mega neo climax ultimate boy,Single-player,9.99,2012,2
+737,737,214870,action,painkiller hell &amp; damnation,Single-player,19.99,2012,1
+738,738,214950,strategy,total war™: rome ii - emperor edition,Single-player,59.95,2013,2
+739,739,214970,action,intrusion 2,Single-player,9.99,2012,2
+740,740,215080,adventure,wakfu,Multi-player,0.0,2014,2
+741,741,215100,free to play,ragnarok online,Single-player,0.0,2003,1
+742,742,215280,action,secret world legends,Multi-player,0.0,2017,2
+743,743,215470,action,primal carnage,Multi-player,7.99,2012,0
+744,744,215510,adventure,rocketbirds: hardboiled chicken,Single-player,4.99,2012,1
+745,745,215530,action,the incredible adventures of van helsing,Single-player,14.99,2013,1
+746,746,215630,action,demonicon,Single-player,9.99,2013,2
+747,747,215670,adventure,home,Single-player,2.99,2012,2
+748,748,215690,action,zeno clash 2,Single-player,14.99,2013,2
+749,749,215710,action,fieldrunners 2,Single-player,9.99,2013,2
+750,750,216110,action,tiny troopers,Single-player,4.99,2012,2
+751,751,216150,casual,maplestory,Single-player,0.0,2012,2
+752,752,216260,indie,don bradman cricket 14,Single-player,39.99,2014,2
+753,753,216890,sports,blood bowl: chaos edition,Single-player,14.99,2012,0
+754,754,216910,action,of orcs and men,Single-player,14.99,2012,2
+755,755,217100,action,dementium ii hd,Single-player,4.99,2013,0
+756,756,217140,action,rise of the triad,Single-player,14.99,2013,1
+757,757,217200,strategy,worms armageddon,Single-player,14.99,1999,1
+758,758,217690,adventure,anna - extended edition,Single-player,9.99,2013,1
+759,759,217920,action,alien rage - unlimited,Single-player,19.99,2013,0
+760,760,218040,indie,democracy 2,Single-player,19.99,2007,2
+761,761,218060,action,bit.trip presents... runner2: future legend of rhythm alien,Single-player,14.99,2013,2
+762,762,218130,action,dungeonland,Single-player,0.0,2013,2
+763,763,218230,action,planetside 2,Multi-player,0.0,2012,0
+764,764,218410,indie,defenders quest: valley of the forgotten (dx edition),Single-player,14.99,2012,2
+765,765,218640,action,lucius,Single-player,9.99,2012,2
+766,766,218680,adventure,scribblenauts unlimited,Single-player,19.99,2012,2
+767,767,218740,adventure,pid,Single-player,9.99,2012,2
+768,768,218820,action,mercenary kings,Single-player,19.99,2014,2
+769,769,219150,action,hotline miami,Single-player,9.99,2012,2
+770,770,219190,action,ultratron,Single-player,9.99,2013,2
+771,771,219640,action,chivalry: medieval warfare,Multi-player,24.99,2012,2
+772,772,219680,adventure,proteus,Single-player,9.99,2013,0
+773,773,219700,free to play,dogs of war online,Multi-player,0.0,2014,1
+774,774,219830,action,king arthurs gold,Single-player,9.99,2013,2
+775,775,219890,adventure,antichamber,Single-player,19.99,2013,2
+776,776,219910,adventure,edna &amp; harvey: harveys new eyes,Single-player,19.99,2012,2
+777,777,219990,action,grim dawn,Single-player,24.99,2016,2
+778,778,220090,adventure,the journey down: chapter one,Single-player,8.99,2013,1
+779,779,220160,action,trials evolution: gold edition,Single-player,19.99,2013,2
+780,780,220200,indie,kerbal space program,Single-player,39.99,2015,2
+781,781,220240,action,far cry 3,Single-player,19.99,2012,2
+782,782,220260,casual,farming simulator 2013 titanium edition,Single-player,19.99,2013,1
+783,783,220440,action,dmc: devil may cry,Single-player,29.99,2013,0
+784,784,220460,action,cargo commander,Single-player,4.99,2012,2
+785,785,220660,indie,stardrive,Single-player,29.99,2013,0
+786,786,220700,design &amp; illustration,rpg maker vx ace,Steam Trading Cards,69.99,2012,2
+787,787,220740,adventure,chaos on deponia,Single-player,19.99,2012,1
+788,788,220780,indie,thomas was alone,Single-player,9.99,2012,2
+789,789,220820,action,zombie driver hd,Single-player,9.99,2012,1
+790,790,220860,action,mcpixel,Single-player,4.99,2012,2
+791,791,220900,action,jack lumber,Single-player,4.99,2013,1
+792,792,221020,indie,towns,Single-player,14.99,2012,1
+793,793,221040,action,resident evil 6 / biohazard 6,Single-player,29.99,2013,2
+794,794,221100,action,dayz,Multi-player,34.99,2013,2
+795,795,221180,indie,eufloria hd,Single-player,14.99,2014,2
+796,796,221260,adventure,little inferno,Single-player,9.99,2012,2
+797,797,221380,strategy,age of empires ii hd,Single-player,19.99,2013,1
+798,798,221540,indie,dg2: defense grid 2,Single-player,14.99,2014,2
+799,799,221640,action,super hexagon,Single-player,2.99,2012,2
+800,800,221680,casual,rocksmith® 2014 edition - remastered,Single-player,39.99,2016,2
+801,801,221810,adventure,the cave,Single-player,14.99,2013,2
+802,802,221910,adventure,the stanley parable,Single-player,14.99,2013,1
+803,803,222140,action,puddle,Single-player,7.99,2012,2
+804,804,222420,action,the king of fighters 98 ultimate match final edition,Single-player,14.99,2014,1
+805,805,222440,action,the king of fighters 2002 unlimited match,Single-player,14.99,2015,1
+806,806,222480,action,resident evil revelations / biohazard revelations,Single-player,29.99,2013,0
+807,807,222520,free to play,champions of regnum,MMO,0.0,2013,2
+808,808,222660,action,retro/grade,Single-player,9.99,2013,2
+809,809,222730,indie,reus,Single-player,9.99,2013,2
+810,810,222750,strategy,wargame: airland battle,Single-player,19.99,2013,0
+811,811,222880,action,insurgency,Multi-player,9.99,2014,2
+812,812,222940,action,the king of fighters xiii steam edition,Single-player,19.99,2013,2
+813,813,222980,action,dead pixels,Single-player,2.99,2012,1
+814,814,223430,action,miner wars 2081,Single-player,9.99,2012,2
+815,815,223470,action,postal 2,Single-player,9.99,2003,2
+816,816,223510,action,miasmata,Single-player,14.99,2012,2
+817,817,223710,action,cry of fear,Single-player,0.0,2013,1
+818,818,223810,action,ys i &amp; ii chronicles+,Single-player,14.99,2013,1
+819,819,223830,indie,xenonauts,Single-player,24.99,2014,2
+820,820,223850,utilities,3dmark,Steam Achievements,29.99,0,2
+821,821,224260,action,no more room in hell,Multi-player,0.0,2011,2
+822,822,224460,adventure,contrast,Single-player,9.99,2013,2
+823,823,224480,action,octodad: dadliest catch,Single-player,14.99,2014,2
+824,824,224500,indie,gnomoria,Single-player,14.99,2016,2
+825,825,224540,action,ace of spades: battle builder,Multi-player,14.99,2012,0
+826,826,224580,action,arma ii: dayz mod,Multi-player,49.99,2013,2
+827,827,224600,action,defiance,Multi-player,0.0,2014,2
+828,828,224760,indie,fez,Single-player,9.99,2013,2
+829,829,224820,action,super house of dead ninjas,Single-player,6.99,2013,0
+830,830,224900,action,iron sky: invasion,Single-player,19.99,2012,2
+831,831,224960,action,tomb raider i,Single-player,6.99,2012,2
+832,832,225080,action,brothers - a tale of two sons,Single-player,14.99,2013,2
+833,833,225160,action,shadow warrior classic redux,Single-player,9.99,1997,2
+834,834,225260,action,brutal legend,Single-player,14.99,2013,2
+835,835,225280,action,full mojo rampage,Single-player,12.99,2014,2
+836,836,225360,action,dark,Single-player,9.99,2013,2
+837,837,225420,simulation,cities in motion 2,Single-player,19.99,2013,0
+838,838,225540,action,just cause™ 3,Single-player,49.99,2015,2
+839,839,225600,action,blade symphony,Multi-player,4.99,2014,2
+840,840,225640,rpg,sacred 2 gold,Single-player,14.99,2012,2
+841,841,225840,action,sven co-op,Multi-player,0.0,1999,2
+842,842,226560,adventure,escape dead island,Single-player,14.99,2014,2
+843,843,226580,racing,f1 2014,Single-player,29.99,2014,2
+844,844,226620,adventure,desktop dungeons,Single-player,14.99,2013,1
+845,845,226720,action,lost planet® 3,Single-player,24.99,2013,2
+846,846,226740,adventure,monster loves you!,Single-player,9.99,2013,2
+847,847,226860,indie,galactic civilizations iii,Single-player,29.99,2015,2
+848,848,226960,casual,ironclad tactics,Single-player,14.99,2013,2
+849,849,227020,simulation,rise of venice,Single-player,19.99,2013,0
+850,850,227080,adventure,papo &amp; yo,Single-player,14.99,2013,2
+851,851,227100,action,sniper elite: nazi zombie army,Single-player,14.99,2013,0
+852,852,227160,action,kinetic void,Single-player,19.99,2014,1
+853,853,227180,free to play,kingdom wars,Single-player,19.98,2013,2
+854,854,227200,action,waking mars,Single-player,9.99,2012,2
+855,855,227220,action,sang-froid - tales of werewolves,Single-player,0.0,2013,2
+856,856,227300,indie,euro truck simulator 2,Single-player,19.99,2013,2
+857,857,227480,action,god mode,Single-player,9.99,2013,2
+858,858,227560,action,scourge: outbreak,Single-player,7.99,2014,2
+859,859,227580,action,"10,000,000",Single-player,4.99,2013,2
+860,860,227600,adventure,castle of illusion,Single-player,14.99,2013,2
+861,861,227780,action,serious sam classics: revolution,Single-player,9.99,2014,1
+862,862,227860,indie,castle story,Single-player,24.99,2017,2
+863,863,227940,action,heroes &amp; generals,Multi-player,0.0,2016,0
+864,864,228260,indie,fallen enchantress: legendary heroes,Single-player,24.99,2013,2
+865,865,228280,rpg,baldurs gate: enhanced edition,Single-player,19.99,2013,2
+866,866,228300,action,remember me,Single-player,29.99,2013,2
+867,867,228380,action,next car game: wreckfest,Single-player,39.99,2014,2
+868,868,228400,action,ace combat assault horizon - enhanced edition,Single-player,19.99,2013,2
+869,869,228440,indie,cubemen 2,Single-player,7.99,2013,2
+870,870,228760,racing,trackmania² canyon,Single-player,19.99,2011,0
+871,871,228960,indie,skulls of the shogun,Single-player,9.99,2013,2
+872,872,229580,adventure,dream,Single-player,8.99,2015,0
+873,873,229870,action,shootmania storm,Multi-player,19.99,2013,1
+874,874,230050,indie,dlc quest,Single-player,2.99,2013,1
+875,875,230070,indie,the age of decadence,Single-player,29.99,2015,2
+876,876,230190,indie,war for the overworld,Single-player,29.99,2015,1
+877,877,230230,adventure,divinity: original sin (classic),Single-player,39.99,2014,2
+878,878,230270,action,n++ (nplusplus),Single-player,14.99,2016,1
+879,879,230310,action,akaneiro: demon hunters,Single-player,0.0,2014,2
+880,880,230410,action,warframe,Single-player,0.0,2013,2
+881,881,230650,indie,lords of football,Single-player,14.99,2013,0
+882,882,230700,action,la-mulana,Single-player,14.99,2013,0
+883,883,230840,action,daylight,Single-player,9.99,2014,2
+884,884,230980,adventure,starseed pilgrim,Single-player,5.99,2013,1
+885,885,231040,action,beatbuddy: tale of the guardians,Single-player,9.99,2013,2
+886,886,231060,free to play,ragnarok online 2,Single-player,0.0,2013,1
+887,887,231140,simulation,cities xl platinum,Single-player,9.99,2013,1
+888,888,231160,action,the swapper,Single-player,14.99,2013,1
+889,889,231310,adventure,mirrormoon ep,Single-player,14.99,2013,1
+890,890,231430,strategy,company of heroes 2,Single-player,19.99,2013,2
+891,891,231740,indie,knights of pen and paper +1 edition,Single-player,9.99,2013,0
+892,892,231910,action,leisure suit larry in the land of the lounge lizards: reloaded,Single-player,0.0,2013,0
+893,893,232010,indie,euro truck simulator,Single-player,4.99,2008,1
+894,894,232050,indie,eador. masters of the broken world,Single-player,19.99,2013,2
+895,895,232090,action,killing floor 2,Single-player,29.99,2016,2
+896,896,232430,adventure,gone home,Single-player,14.99,2013,2
+897,897,232750,action,mars: war logs,Single-player,14.99,2013,0
+898,898,232770,action,postal,Single-player,1.99,1997,0
+899,899,232790,adventure,broken age,Single-player,19.99,2014,2
+900,900,232890,simulation,stronghold crusader 2,Single-player,49.99,2014,0
+901,901,232910,racing,trackmania² stadium,Single-player,9.99,2013,2
+902,902,232950,simulation,bridge project,Single-player,19.99,2013,2
+903,903,232970,action,thunder wolves,Single-player,9.99,2013,2
+904,904,233110,indie,defense technica,Single-player,14.99,2013,0
+905,905,233130,action,shadow warrior,Single-player,39.99,2013,0
+906,906,233150,action,luftrausers,Single-player,9.99,2014,2
+907,907,233190,action,final exam,Single-player,9.99,2013,2
+908,908,233270,action,far cry 3 - blood dragon,Single-player,14.99,2013,0
+909,909,233290,action,murdered: soul suspect,Single-player,29.99,2014,2
+910,910,233310,indie,avadon 2: the corruption,Single-player,9.99,2013,2
+911,911,233350,action,sudeki,Single-player,5.99,2005,2
+912,912,233370,adventure,the raven - legacy of a master thief,Single-player,24.99,2013,2
+913,913,233450,indie,prison architect,Single-player,29.99,2015,2
+914,914,233470,adventure,evoland,Single-player,9.99,2013,2
+915,915,233550,action,another world – 20th anniversary edition,Single-player,9.99,2013,2
+916,916,233700,casual,sword of the stars: the pit,Single-player,12.99,0,2
+917,917,233720,action,surgeon simulator,Single-player,9.99,2013,2
+918,918,233740,indie,organ trail: directors cut,Single-player,4.99,2013,2
+919,919,233840,strategy,worms clan wars,Single-player,24.99,2013,2
+920,920,233980,action,unepic,Single-player,12.99,2014,2
+921,921,234080,action,castlevania: lords of shadow – ultimate edition,Single-player,29.99,2013,2
+922,922,234140,action,mad max,Single-player,19.99,2015,0
+923,923,234160,action,strike suit infinity,Single-player,6.99,2013,0
+924,924,234190,action,receiver,Single-player,4.99,2013,2
+925,925,234330,casual,marvel puzzle quest,Single-player,0.0,2013,2
+926,926,234390,action,teleglitch: die more edition,Single-player,12.99,2013,1
+927,927,234490,action,rush bros.,Single-player,9.99,2013,2
+928,928,234650,adventure,shadowrun returns,Single-player,14.99,2013,2
+929,929,234670,action,naruto shippuden: ultimate ninja storm 3 full burst hd,Single-player,19.99,2013,2
+930,930,234710,casual,poker night 2,Single-player,4.99,2013,2
+931,931,234920,adventure,dyscourse,Single-player,14.99,2015,2
+932,932,235070,action,bad bots,Single-player,4.99,2013,1
+933,933,235210,action,strider™ / ストライダー飛竜®,Single-player,14.99,2014,2
+934,934,235250,casual,super sanctum td,Single-player,4.99,2013,0
+935,935,235360,casual,prime world: defenders,Single-player,9.99,2013,1
+936,936,235460,action,metal gear rising: revengeance,Single-player,29.99,2014,2
+937,937,235540,action,warhammer: end times - vermintide,Single-player,29.99,2015,2
+938,938,235600,action,tom clancy’s splinter cell blacklist,Single-player,29.99,2013,2
+939,939,235800,indie,audiosurf 2,Single-player,14.99,2015,2
+940,940,235980,casual,tetrobot and co.,Single-player,9.99,2013,2
+941,941,236090,action,dust: an elysian tail,Single-player,14.99,2013,2
+942,942,236110,action,dungeon defenders ii,Single-player,0.0,2017,0
+943,943,236150,action,starpoint gemini 2,Single-player,34.99,2014,2
+944,944,236370,action,interstellar marines,Single-player,9.99,2013,2
+945,945,236430,action,dark souls™ ii,Single-player,39.99,2014,2
+946,946,236450,action,pac-man™ championship edition dx+,Single-player,9.99,2013,2
+947,947,236690,sports,blood bowl 2,Single-player,19.99,2015,0
+948,948,236730,action,anomaly 2,Single-player,14.99,2013,2
+949,949,236790,casual,agricultural simulator 2013 - steam edition,Single-player,9.99,2013,2
+950,950,236850,simulation,europa universalis iv,Single-player,39.99,2013,1
+951,951,236870,action,hitman™,Single-player,0.0,2016,2
+952,952,237110,action,mortal kombat komplete edition,Single-player,19.99,2013,1
+953,953,237310,action,elsword,Single-player,0.0,2014,0
+954,954,237370,audio production,playclaw 5 - game recording and streaming,Steam Achievements,39.99,2013,2
+955,955,237590,action,r.i.p.d.: the game,Co-op,9.99,2013,2
+956,956,237630,action,ducktales: remastered,Single-player,14.99,2013,2
+957,957,237740,action,angry video game nerd adventures,Single-player,4.99,2013,2
+958,958,237760,action,intake,Single-player,9.99,2013,0
+959,959,237850,adventure,dreamfall chapters,Single-player,24.99,2017,2
+960,960,237870,action,planet explorers,Single-player,14.99,2016,2
+961,961,237890,adventure,agarest: generations of war,Single-player,14.99,2014,2
+962,962,237930,action,transistor,Single-player,19.99,2014,2
+963,963,237950,indie,ufo: afterlight,Single-player,6.99,2007,1
+964,964,237970,adventure,memento mori 2,Single-player,24.99,2014,0
+965,965,237990,indie,the banner saga,Single-player,19.99,2014,2
+966,966,238010,action,deus ex: human revolution - directors cut,Single-player,19.99,2013,2
+967,967,238090,action,sniper elite 3,Single-player,29.99,2014,2
+968,968,238210,action,system shock 2,Single-player,9.99,1999,2
+969,969,238240,action,edge of space,Single-player,14.99,2015,2
+970,970,238260,free to play,pinball arcade,Single-player,0.0,2013,2
+971,971,238320,action,outlast,Single-player,19.99,2013,2
+972,972,238370,action,magicka 2,Single-player,14.99,2015,1
+973,973,238430,action,contagion,Single-player,9.99,2013,0
+974,974,238460,action,battleblock theater®,Single-player,14.99,2014,2
+975,975,238750,rpg,might &amp; magic x - legacy,Single-player,24.99,2014,2
+976,976,238910,indie,bionic dues,Single-player,9.99,2013,2
+977,977,239030,adventure,"papers,please",Single-player,9.99,2013,2
+978,978,239070,action,hammerwatch,Single-player,9.99,2013,0
+979,979,239120,rpg,final fantasy iii,Single-player,15.99,2014,2
+980,980,239140,action,dying light,Single-player,39.99,2015,2
+981,981,239160,action,thief,Single-player,29.99,2014,1
+982,982,239200,action,amnesia: a machine for pigs,Single-player,19.99,2013,2
+983,983,239250,action,castlevania: lords of shadow 2,Single-player,39.99,2014,0
+984,984,239350,indie,spelunky,Single-player,14.99,2013,2
+985,985,239660,action,soldier front 2,Multi-player,0.0,2013,2
+986,986,239700,indie,hate plus,Single-player,9.99,2013,2
+987,987,239720,action,pac-man™ and the ghostly adventures,Single-player,19.99,2013,2
+988,988,239800,action,bleed,Single-player,4.99,2013,2
+989,989,239820,casual,game dev tycoon,Single-player,9.99,2013,2
+990,990,239840,indie,dead state: reanimated,Single-player,19.99,2014,2
+991,991,240440,action,quadrilateral cowboy,Single-player,19.99,2016,2
+992,992,240600,racing,motogp™13,Single-player,9.99,2013,2
+993,993,240620,action,wanderlust adventures,Single-player,9.99,2015,2
+994,994,240760,adventure,wasteland 2: directors cut,Single-player,39.99,2014,2
+995,995,240970,action,half minute hero: the second coming,Single-player,9.99,2014,2
+996,996,241240,casual,contraption maker,Single-player,7.99,2014,2
+997,997,241260,adventure,sherlock holmes: crimes and punishments,Single-player,29.99,2014,0
+998,998,241320,adventure,ittle dew,Single-player,9.99,2013,1
+999,999,241410,action,castlestorm,Single-player,9.99,2013,2
+1000,1000,241540,action,state of decay,Single-player,13.98,2013,1
+1001,1001,241560,action,the crew™,Single-player,29.99,2014,2
+1002,1002,241600,action,rogue legacy,Single-player,14.99,2013,2
+1003,1003,241720,action,guncraft,Single-player,14.99,2013,2
+1004,1004,241910,adventure,goodbye deponia,Single-player,19.99,2013,2
+1005,1005,241930,action,middle-earth™: shadow of mordor™,Single-player,19.99,2014,2
+1006,1006,242050,action,assassin’s creed® iv black flag™,Single-player,19.99,2013,2
+1007,1007,242130,action,vector thrust,Single-player,24.99,2015,0
+1008,1008,242550,action,rayman® legends,Single-player,29.99,2013,2
+1009,1009,242570,indie,space hulk,Single-player,24.99,2013,1
+1010,1010,242590,action,saints row iv: inauguration station,Single-player,0.0,2013,2
+1011,1011,242640,action,styx: master of shadows,Single-player,29.99,2014,2
+1012,1012,242680,action,nuclear throne,Single-player,11.99,2015,1
+1013,1013,242700,action,injustice: gods among us ultimate edition,Single-player,19.99,2013,2
+1014,1014,242720,action,gunz 2: the second duel,Multi-player,0.0,2014,2
+1015,1015,242760,action,the forest,Single-player,14.99,2014,0
+1016,1016,242780,adventure,cognition: an erica reed thriller,Single-player,14.99,2013,2
+1017,1017,242800,action,day one : garrys incident,Single-player,2.99,2013,0
+1018,1018,242820,action,140,Single-player,4.99,2013,0
+1019,1019,242860,action,verdun,Multi-player,24.99,2015,0
+1020,1020,242880,action,"sir,you are being hunted",Single-player,19.99,2013,2
+1021,1021,242920,indie,banished,Single-player,19.99,2014,2
+1022,1022,242940,rpg,anachronox,Single-player,6.99,2001,2
+1023,1023,242980,action,daikatana,Single-player,6.99,2000,2
+1024,1024,243200,adventure,memoria,Single-player,19.99,2013,2
+1025,1025,243280,action,poöf,Single-player,6.99,2013,2
+1026,1026,243360,racing,trackmania² valley,Single-player,19.99,2013,2
+1027,1027,243450,action,urban trial freestyle,Single-player,6.99,2013,2
+1028,1028,243470,action,watch_dogs™,Single-player,29.99,2014,0
+1029,1029,243780,strategy,pixeljunk™ monsters ultimate,Single-player,9.99,2013,0
+1030,1030,243800,action,gas guzzlers extreme,Single-player,24.99,2013,2
+1031,1031,243950,action,divinity: dragon commander,Single-player,39.99,2013,2
+1032,1032,243970,action,"invisible,inc.",Single-player,19.99,2015,2
+1033,1033,244050,free to play,rise of flight united,Single-player,0.0,2013,0
+1034,1034,244160,simulation,homeworld remastered collection,Single-player,34.99,2015,2
+1035,1035,244410,indie,supreme ruler 1936,Single-player,12.99,2014,1
+1036,1036,244450,action,men of war: assault squad 2,Single-player,29.99,2014,2
+1037,1037,244590,action,epigenesis,Single-player,0.0,2014,0
+1038,1038,244630,action,neotokyo,Multi-player,0.0,2014,2
+1039,1039,244710,adventure,shelter,Single-player,9.99,2013,2
+1040,1040,244730,action,divekick,Single-player,4.99,2013,1
+1041,1041,244770,action,starmade,Single-player,14.99,2014,0
+1042,1042,244810,action,foul play,Single-player,14.99,2013,1
+1043,1043,244870,action,electronic super joy,Single-player,7.99,2013,2
+1044,1044,244890,action,velocity®ultra,Single-player,9.99,2013,2
+1045,1045,244930,free to play,snow,Single-player,0.0,2013,2
+1046,1046,245150,adventure,the novelist,Single-player,14.99,2013,0
+1047,1047,245170,action,skullgirls,Single-player,9.99,2013,0
+1048,1048,245280,action,enslaved™: odyssey to the west™ premium edition,Single-player,19.99,2013,2
+1049,1049,245390,adventure,"i have no mouth,and i must scream",Single-player,5.99,1996,1
+1050,1050,245470,indie,democracy 3,Single-player,24.99,2013,1
+1051,1051,245490,racing,trials fusion™,Single-player,19.99,2014,2
+1052,1052,245620,rpg,tropico 5,Single-player,19.99,2014,2
+1053,1053,246070,adventure,hack n slash,Single-player,13.37,2014,1
+1054,1054,246090,indie,spacebase df-9,Single-player,9.99,2014,0
+1055,1055,246110,indie,massive chalice,Single-player,19.99,2015,1
+1056,1056,246420,action,kingdom rush,Single-player,9.99,2014,2
+1057,1057,246580,action,the typing of the dead: overkill,Single-player,19.99,2013,0
+1058,1058,246620,casual,plague inc: evolved,Single-player,14.99,2016,0
+1059,1059,246700,action,strike vector,Single-player,11.99,2014,1
+1060,1060,246840,action,fate,Single-player,7.99,2005,2
+1061,1061,246940,indie,lords of the black sun,Single-player,29.99,2014,2
+1062,1062,247000,indie,talisman: digital edition,Single-player,7.99,2014,2
+1063,1063,247020,action,"cook,serve,delicious!",Single-player,9.99,2013,0
+1064,1064,247080,action,crypt of the necrodancer,Single-player,14.99,2015,0
+1065,1065,247120,action,portal 2 sixense perceptual pack,Single-player,0.0,2013,0
+1066,1066,247140,casual,soundodger+,Single-player,7.99,2013,2
+1067,1067,247240,action,volgarr the viking,Single-player,9.99,2013,2
+1068,1068,247430,action,hitman: contracts,Single-player,6.99,2004,1
+1069,1069,247580,action,magicka: wizards of the square tablet,Single-player,4.99,2013,0
+1070,1070,247660,action,deadly premonition: the directors cut,Single-player,24.99,2013,0
+1071,1071,247730,action,nether: resurrected,Single-player,4.99,2014,1
+1072,1072,247910,action,sniper elite: nazi zombie army 2,Single-player,14.99,2013,1
+1073,1073,247950,action,sacred 3,Single-player,14.99,2014,2
+1074,1074,248170,animation &amp; modeling,clickteam fusion 2.5,Single-player,99.99,2013,0
+1075,1075,248310,action,freedom planet,Single-player,14.99,2014,2
+1076,1076,248350,action,omegalodon,Multi-player,9.99,2012,2
+1077,1077,248390,indie,craft the world,Single-player,18.99,2014,2
+1078,1078,248410,action,legends of aethereus,Single-player,0.0,2013,1
+1079,1079,248530,action,depth hunter 2: deep dive,Single-player,14.99,2014,2
+1080,1080,248570,action,toribash,Single-player,0.0,2006,1
+1081,1081,248610,action,door kickers,Single-player,19.99,2014,0
+1082,1082,248630,action,kingdoms rise,Multi-player,14.99,2013,2
+1083,1083,248650,adventure,draw a stickman: epic,Single-player,3.99,2013,2
+1084,1084,248710,action,iesabel,Single-player,4.99,2013,0
+1085,1085,248800,adventure,dysfunctional systems: learning to manage chaos,Single-player,4.99,2013,2
+1086,1086,248820,action,risk of rain,Single-player,9.99,2013,2
+1087,1087,248860,indie,neo scavenger,Single-player,14.99,2014,0
+1088,1088,248970,action,vector,Single-player,6.99,2013,1
+1089,1089,249050,adventure,dungeon of the endless™,Single-player,11.99,2014,2
+1090,1090,249130,action,lego® marvel™ super heroes,Single-player,19.99,2013,2
+1091,1091,249190,strategy,ancient space,Single-player,19.99,2014,0
+1092,1092,249230,rpg,risen 3 - titan lords,Single-player,14.99,2014,0
+1093,1093,249330,indie,unholy heights,Single-player,3.99,2013,2
+1094,1094,249550,indie,nestalgia,Single-player,9.99,2014,0
+1095,1095,249570,indie,the castle doctrine,Multi-player,15.99,2014,2
+1096,1096,249590,indie,teslagrad,Single-player,9.99,2013,0
+1097,1097,249630,action,delver,Single-player,7.99,2013,2
+1098,1098,249650,indie,blackguards,Single-player,19.99,2014,2
+1099,1099,249680,action,marlow briggs and the mask of death,Single-player,4.99,2013,2
+1100,1100,249870,action,scribblenauts unmasked: a dc comics adventure,Single-player,19.99,2013,2
+1101,1101,249950,action,forge quest,Single-player,9.99,2015,2
+1102,1102,249990,action,forced: slightly better edition,Single-player,14.99,2013,0
+1103,1103,250050,action,life goes on: done to death,Single-player,12.99,2014,2
+1104,1104,250110,action,assault android cactus,Single-player,14.99,2015,2
+1105,1105,250180,action,metal slug 3,Single-player,7.99,2014,1
+1106,1106,250260,adventure,jazzpunk: directors cut,Single-player,14.99,2014,2
+1107,1107,250320,adventure,the wolf among us,Single-player,24.99,2013,2
+1108,1108,250340,action,blockland,Single-player,9.99,2007,2
+1109,1109,250380,indie,knock-knock,Single-player,9.99,2013,2
+1110,1110,250400,action,how to survive,Single-player,14.99,2013,2
+1111,1111,250420,action,8bitmmo,MMO,0.0,2015,2
+1112,1112,250460,casual,bridge constructor,Single-player,9.99,2013,2
+1113,1113,250500,action,super amazing wagon adventure,Single-player,2.99,2013,1
+1114,1114,250520,indie,underrail,Single-player,14.99,2015,0
+1115,1115,250580,action,paranautical activity: deluxe atonement edition,Single-player,9.99,2013,2
+1116,1116,250600,casual,the plan,Single-player,0.0,2013,1
+1117,1117,250620,action,among the sleep - enhanced edition,Single-player,16.99,2017,2
+1118,1118,250640,action,croixleur sigma,Single-player,7.99,2014,0
+1119,1119,250760,action,shovel knight: treasure trove,Single-player,24.99,2014,0
+1120,1120,250900,action,the binding of isaac: rebirth,Single-player,14.99,2014,2
+1121,1121,251060,strategy,wargame: red dragon,Single-player,29.99,2014,2
+1122,1122,251130,indie,chroma squad,Single-player,14.99,2015,2
+1123,1123,251150,rpg,the legend of heroes: trails in the sky,Single-player,19.99,2014,2
+1124,1124,251170,adventure,damned,Multi-player,9.99,2014,2
+1125,1125,251290,rpg,the legend of heroes: trails in the sky sc,Single-player,29.99,2015,2
+1126,1126,251310,adventure,eleusis,Single-player,14.99,2013,1
+1127,1127,251370,action,escape goat,Single-player,4.99,2012,2
+1128,1128,251430,adventure,the inner world,Single-player,14.99,2013,2
+1129,1129,251470,action,towerfall ascension,Single-player,14.99,2014,2
+1130,1130,251630,indie,the impossible game,Single-player,4.99,2014,2
+1131,1131,251730,adventure,legend of grimrock 2,Single-player,23.99,2014,2
+1132,1132,251850,action,master reboot,Single-player,14.99,2013,1
+1133,1133,251870,adventure,go! go! nippon! ~my first trip to japan~,Single-player,9.99,2011,0
+1134,1134,251990,indie,long live the queen,Single-player,9.99,2013,2
+1135,1135,252030,action,valdis story: abyssal city,Single-player,14.99,2013,2
+1136,1136,252070,action,gimbal,Multi-player,14.99,2013,2
+1137,1137,252150,casual,grimm,Single-player,3.99,2014,2
+1138,1138,252250,indie,maia,Single-player,24.99,2013,1
+1139,1139,252330,action,slender: the arrival,Single-player,9.99,2013,2
+1140,1140,252350,action,double dragon: neon,Single-player,9.99,2014,2
+1141,1141,252370,adventure,the shivah,Single-player,4.99,2013,1
+1142,1142,252410,action,steamworld dig,Single-player,9.99,2013,2
+1143,1143,252490,action,rust,Multi-player,19.99,2013,0
+1144,1144,252530,simulation,omsi 2: steam edition,Single-player,34.99,2013,2
+1145,1145,252630,action,eldritch,Single-player,14.99,2013,2
+1146,1146,252670,adventure,nihilumbra,Single-player,7.99,2013,2
+1147,1147,252770,action,vox,Single-player,9.99,2013,2
+1148,1148,252910,simulation,skyscraper simulator,Single-player,3.99,2010,2
+1149,1149,252950,action,rocket league®,Single-player,19.99,2015,2
+1150,1150,253250,indie,stonehearth,Single-player,24.99,2015,2
+1151,1151,253350,action,tiny barbarian dx,Single-player,29.99,2013,2
+1152,1152,253370,animation &amp; modeling,axis game factorys agfpro v3,Includes level editor,19.99,2013,2
+1153,1153,253490,action,cabal online,Multi-player,0.0,2016,1
+1154,1154,253510,indie,warmachine: tactics,Single-player,0.0,2014,2
+1155,1155,253530,action,fortress forever,Multi-player,0.0,2007,0
+1156,1156,253610,action,wrack,Single-player,9.99,2014,2
+1157,1157,253650,action,sparkle 2 evo,Single-player,4.99,2011,0
+1158,1158,253690,action,tiny brains,Single-player,9.99,2013,2
+1159,1159,253710,action,thehunter classic,Single-player,0.0,2014,2
+1160,1160,253770,simulation,bus-simulator 2012,Single-player,9.99,2012,0
+1161,1161,253920,rpg,gorky 17,Single-player,4.99,1999,1
+1162,1162,253940,rpg,septerra core,Single-player,4.99,1999,2
+1163,1163,253980,rpg,enclave,Single-player,4.99,2003,0
+1164,1164,254080,strategy,world war iii: black gold,Single-player,4.99,2001,0
+1165,1165,254200,adventure,fortresscraft evolved!,Single-player,12.99,2015,2
+1166,1166,254440,casual,pool nation,Single-player,9.99,2013,0
+1167,1167,254460,action,obscure,Single-player,6.99,2005,2
+1168,1168,254480,action,obscure ii (obscure: the aftermath),Single-player,9.99,2008,2
+1169,1169,254700,action,resident evil 4 / biohazard 4,Single-player,19.99,2014,1
+1170,1170,255070,action,abyss odyssey,Single-player,14.99,2014,0
+1171,1171,255220,racing,grid autosport,Single-player,39.99,2014,0
+1172,1172,255260,simulation,pro cycling manager 2014,Single-player,9.99,2014,2
+1173,1173,255300,adventure,journey of a roach,Single-player,9.99,2013,2
+1174,1174,255420,strategy,magic 2015 - duels of the planeswalkers,Single-player,9.99,2014,2
+1175,1175,255710,simulation,cities: skylines,Single-player,29.99,2015,2
+1176,1176,256010,indie,jagged alliance flashback,Single-player,19.99,2014,0
+1177,1177,256050,simulation,adventure park,Single-player,19.99,2013,0
+1178,1178,256070,racing,truck racer,Single-player,9.99,2013,2
+1179,1179,256190,action,enemy front,Single-player,29.99,2014,0
+1180,1180,256290,rpg,child of light,Single-player,14.99,2014,0
+1181,1181,256330,racing,wrc 4 fia world rally championship,Single-player,29.99,2013,2
+1182,1182,256370,racing,mxgp - the official motocross videogame,Single-player,19.99,2014,2
+1183,1183,257030,action,project nimbus,Single-player,19.99,2017,1
+1184,1184,257120,action,not the robots,Single-player,9.99,2013,2
+1185,1185,257170,indie,rebuild 3: gangs of deadsville,Single-player,14.99,2015,2
+1186,1186,257510,action,the talos principle,Single-player,39.99,2014,2
+1187,1187,257710,casual,max gentlemen,Single-player,0.0,2014,2
+1188,1188,257730,free to play,infinity wars: animated trading card game,Single-player,0.0,2014,2
+1189,1189,257750,action,bloody trapland,Single-player,9.99,2013,2
+1190,1190,257830,adventure,violett remastered,Single-player,9.99,2013,1
+1191,1191,257850,action,hyper light drifter,Single-player,19.99,2016,0
+1192,1192,257970,indie,loren the amazon princess,Single-player,19.99,2014,2
+1193,1193,258010,action,ring runner: flight of the sages,Single-player,4.99,2013,2
+1194,1194,258050,action,survivor squad,Single-player,2.99,2013,2
+1195,1195,258090,adventure,99 spirits,Single-player,9.99,2013,2
+1196,1196,258180,action,deus ex: the fall,Single-player,9.99,2014,0
+1197,1197,258200,indie,talisman: prologue,Single-player,6.99,2013,2
+1198,1198,258520,adventure,the vanishing of ethan carter,Single-player,19.99,2014,2
+1199,1199,258590,action,adventure time: finn and jakes epic quest,Single-player,9.99,2014,2
+1200,1200,258760,indie,scania truck driving simulator,Single-player,9.99,2012,1
+1201,1201,258880,simulation,professional farmer 2014,Single-player,14.99,2013,1
+1202,1202,258950,adventure,montagues mount,Single-player,4.99,2013,0
+1203,1203,258970,action,gauntlet™ slayer edition,Single-player,19.99,2014,2
+1204,1204,259060,indie,dominions 4: thrones of ascension,Single-player,34.99,2013,2
+1205,1205,259170,action,alone in the dark,Single-player,9.99,2008,1
+1206,1206,259320,action,heli heroes,Single-player,4.99,2002,0
+1207,1207,259390,action,ballpoint universe - infinite,Single-player,3.99,2013,2
+1208,1208,259410,adventure,sneaky sneaky,Single-player,4.99,2014,1
+1209,1209,259430,action,zigfrak,Single-player,7.99,2012,0
+1210,1210,259450,action,drifter,Single-player,11.99,2014,2
+1211,1211,259470,indie,particulars,Single-player,5.99,2014,2
+1212,1212,259530,action,savant - ascent,Single-player,1.99,2013,1
+1213,1213,259550,adventure,hero of the kingdom,Single-player,5.99,2012,2
+1214,1214,259600,adventure,finding teddy,Single-player,6.99,2013,2
+1215,1215,259620,action,3079 -- block action rpg,Single-player,4.99,2011,0
+1216,1216,259680,adventure,tales of majeyal,Single-player,6.99,2012,0
+1217,1217,259700,action,dead sky,Single-player,1.99,2013,2
+1218,1218,259720,adventure,fading hearts,Single-player,14.99,2009,2
+1219,1219,259740,adventure,nightmares from the deep: the cursed heart,Single-player,9.99,2012,1
+1220,1220,259780,action,nimble quest,Single-player,4.99,2013,2
+1221,1221,260060,casual,you dont know jack headrush,Single-player,2.99,1998,0
+1222,1222,260130,adventure,agarest: generations of war zero,Single-player,19.99,2014,2
+1223,1223,260160,action,the last tinker™: city of colors,Single-player,19.99,2014,2
+1224,1224,260210,action,assassin’s creed® liberation hd,Single-player,19.99,2014,1
+1225,1225,260230,adventure,valiant hearts: the great war™ / soldats inconnus : mémoires de la grande guerre™,Single-player,14.99,2014,0
+1226,1226,260410,casual,get off my lawn!,Single-player,0.0,2014,1
+1227,1227,260430,casual,the four kings casino and slots,Online Multi-Player,0.0,2015,1
+1228,1228,260510,simulation,world basketball tycoon,Single-player,2.99,2013,1
+1229,1229,260750,adventure,neighbours from hell compilation,Single-player,9.99,2004,0
+1230,1230,261030,adventure,the walking dead: season 2,Single-player,24.99,2013,2
+1231,1231,261110,action,killer is dead - nightmare edition,Single-player,19.99,2014,2
+1232,1232,261180,action,lethal league,Single-player,13.99,2014,2
+1233,1233,261510,adventure,tesla effect: a tex murphy adventure,Single-player,19.99,2014,2
+1234,1234,261530,action,lifeless planet premier edition,Single-player,19.99,2014,2
+1235,1235,261570,action,ori and the blind forest,Single-player,0.0,2015,2
+1236,1236,261640,action,borderlands: the pre-sequel,Single-player,39.99,2014,2
+1237,1237,261700,action,eryis action,Single-player,4.99,2013,2
+1238,1238,261760,action,lichdom: battlemage,Single-player,39.99,2014,2
+1239,1239,261880,action,corporate lifestyle simulator,Single-player,4.99,2014,2
+1240,1240,261920,utilities,catzilla 4k - advanced,Single-player,14.99,2014,1
+1241,1241,262060,indie,darkest dungeon®,Single-player,24.99,2016,2
+1242,1242,262120,action,toy soldiers: complete,Single-player,14.99,2016,2
+1243,1243,262260,action,jetsnguns gold,Single-player,6.99,2014,2
+1244,1244,262410,free to play,world of guns: gun disassembly,Single-player,0.0,2014,2
+1245,1245,262490,animation &amp; modeling,manga maker comipo,Single-player,49.99,2014,2
+1246,1246,262550,action,gunman clive,Single-player,1.99,2014,1
+1247,1247,262590,indie,chucks challenge 3d,Single-player,3.99,2014,0
+1248,1248,262750,action,god factory: wingmen,Multi-player,19.99,2014,2
+1249,1249,262790,action,our darker purpose,Single-player,14.99,2014,0
+1250,1250,262830,action,crimsonland,Single-player,13.99,2014,2
+1251,1251,262850,adventure,the journey down: chapter two,Single-player,19.99,2014,1
+1252,1252,262900,casual,smooth operators,Single-player,2.99,2013,0
+1253,1253,262940,adventure,broken sword 5 - the serpents curse,Single-player,24.99,2014,2
+1254,1254,262960,action,castle in the darkness,Single-player,9.99,2015,0
+1255,1255,263020,action,starwhal,Single-player,11.99,2014,0
+1256,1256,263060,action,blockstorm,Multi-player,4.99,2015,2
+1257,1257,263100,indie,9.03m,Single-player,0.99,2013,1
+1258,1258,263180,adventure,squirts adventure,Single-player,0.99,2014,1
+1259,1259,263200,action,signs of life,Single-player,9.99,2014,2
+1260,1260,263280,adventure,spintires™,Single-player,14.99,2014,2
+1261,1261,263300,action,blazblue: calamity trigger,Single-player,9.99,2014,2
+1262,1262,263320,indie,saturday morning rpg,Single-player,6.99,2014,2
+1263,1263,263340,action,continue?9876543210,Single-player,9.99,2014,2
+1264,1264,263360,action,3089 -- futuristic action rpg,Single-player,6.99,2014,1
+1265,1265,263380,adventure,driftmoon,Single-player,14.99,2013,2
+1266,1266,263400,adventure,war of the human tanks,Single-player,9.99,2012,2
+1267,1267,263420,action,probably archery,Single-player,4.99,2014,1
+1268,1268,263480,action,final rush,Single-player,4.99,2014,0
+1269,1269,263500,action,dragons and titans,Single-player,0.0,2014,2
+1270,1270,263540,free to play,villagers and heroes,MMO,0.0,2014,2
+1271,1271,263560,adventure,paper sorcerer,Single-player,4.99,2013,2
+1272,1272,263680,action,unearthed: trail of ibn battuta - episode 1 - gold edition,Single-player,4.99,2014,1
+1273,1273,263700,action,muffin knight,Single-player,6.99,2014,0
+1274,1274,263740,action,footlol: epic fail league,Single-player,9.99,2013,2
+1275,1275,263760,action,turbo dismount™,Single-player,9.99,2014,2
+1276,1276,263820,action,evilquest,Single-player,1.99,2014,0
+1277,1277,263960,action,wyv and keep: the temple of the lost idol,Single-player,14.99,2014,2
+1278,1278,263980,action,out there somewhere,Single-player,0.49,2016,2
+1279,1279,264120,free to play,victory: the age of racing,Single-player,0.0,2016,2
+1280,1280,264140,adventure,pixel piracy,Single-player,9.99,2015,1
+1281,1281,264200,action,one finger death punch,Single-player,4.99,2014,1
+1282,1282,264240,action,consortium,Single-player,9.99,2014,1
+1283,1283,264280,action,99 levels to hell,Single-player,4.99,2014,2
+1284,1284,264380,indie,narcissu 1st &amp; 2nd,Single-player,0.0,2007,2
+1285,1285,265000,action,forced showdown,Single-player,19.99,2016,2
+1286,1286,265120,indie,meridian: new world,Single-player,6.99,2014,2
+1287,1287,265300,action,lords of the fallen™,Single-player,29.99,2014,2
+1288,1288,265330,adventure,gomo,Single-player,4.99,2013,2
+1289,1289,265550,action,dead rising 3 apocalypse edition,Single-player,29.99,2014,0
+1290,1290,265610,adventure,epic battle fantasy 4,Single-player,11.99,2014,2
+1291,1291,265630,action,fistful of frags,Multi-player,0.0,2014,1
+1292,1292,265690,adventure,naissancee,Single-player,14.99,2014,2
+1293,1293,265750,action,secret ponchos,Multi-player,14.99,2015,2
+1294,1294,265770,action,cannons lasers rockets,Multi-player,0.0,2014,1
+1295,1295,265810,casual,the sandbox,Single-player,4.99,2015,0
+1296,1296,265870,adventure,alpha kimori™ 1,Single-player,9.99,2014,0
+1297,1297,265890,casual,hexcells,Single-player,2.99,2014,2
+1298,1298,265930,casual,goat simulator,Single-player,9.99,2014,1
+1299,1299,266010,casual,lyne,Single-player,2.99,2014,2
+1300,1300,266070,action,city of steam: arkadia,Multi-player,0.0,2014,2
+1301,1301,266110,action,tower of guns,Single-player,14.99,2014,2
+1302,1302,266130,action,breach &amp; clear,Single-player,14.99,2014,2
+1303,1303,266150,action,lost saga na,Multi-player,0.0,2013,0
+1304,1304,266210,indie,one way heroics,Single-player,3.49,2014,2
+1305,1305,266370,action,calibre 10 racing,Single-player,1.99,2014,0
+1306,1306,266390,casual,farm for your life,Single-player,9.99,2013,2
+1307,1307,266430,casual,anarchy arcade,Single-player,0.0,2014,2
+1308,1308,266490,adventure,lili: child of geos - complete edition,Single-player,14.99,2014,2
+1309,1309,266510,action,hand of fate,Single-player,19.99,2015,2
+1310,1310,266590,animation &amp; modeling,agfpprov3 premium,Single-player,79.99,2013,2
+1311,1311,267340,casual,beware planet earth,Single-player,9.99,2014,2
+1312,1312,267490,action,batman™: arkham origins blackgate - deluxe edition,Single-player,19.99,2014,0
+1313,1313,267530,action,the lego® movie - videogame,Single-player,19.99,2014,1
+1314,1314,267600,simulation,airport simulator 2014,Single-player,9.99,2013,1
+1315,1315,267610,simulation,woodcutter simulator 2013,Single-player,9.99,2013,0
+1316,1316,267750,indie,shadowrun chronicles - boston lockdown,Single-player,19.99,2015,1
+1317,1317,267940,action,glacier 3: the meltdown,Single-player,9.99,2010,2
+1318,1318,268050,action,the evil within,Single-player,19.99,2014,0
+1319,1319,268220,action,meltdown,Single-player,6.99,2014,0
+1320,1320,268260,casual,lets sing,Single-player,14.99,2014,2
+1321,1321,268320,indie,grapple,Single-player,7.99,2015,2
+1322,1322,268400,strategy,panzer corps,Single-player,19.99,2011,2
+1323,1323,268420,adventure,aura kingdom,MMO,0.0,2014,2
+1324,1324,268500,strategy,xcom® 2,Single-player,59.99,2016,2
+1325,1325,268650,action,from the depths,Single-player,19.99,2014,2
+1326,1326,268750,action,magicite,Single-player,9.99,2014,2
+1327,1327,268850,utilities,evga precision xoc,Single-player,0.0,2014,2
+1328,1328,268870,action,satellite reign,Single-player,29.99,2015,2
+1329,1329,268970,adventure,you are not the hero,Single-player,14.99,2015,2
+1330,1330,269030,indie,the yawhg,Single-player,9.99,2013,1
+1331,1331,269050,adventure,year walk,Single-player,5.99,2014,2
+1332,1332,269210,action,hero siege,Single-player,5.99,2014,1
+1333,1333,269250,indie,world end economica episode.01,Single-player,12.99,2014,2
+1334,1334,269270,action,love,Single-player,2.99,2014,2
+1335,1335,269290,utilities,litecam game: 100 fps game capture,Single-player,14.99,2014,2
+1336,1336,269310,action,infectonator: survivors,Single-player,9.99,2016,2
+1337,1337,269330,adventure,chronology,Single-player,4.99,2014,2
+1338,1338,269350,adventure,montas,Single-player,9.99,2014,2
+1339,1339,269490,action,bardbarian,Single-player,7.99,2014,2
+1340,1340,269770,action,secrets of grindea,Single-player,14.99,2015,2
+1341,1341,269790,adventure,dreadout,Single-player,14.99,2014,2
+1342,1342,269810,action,spate,Single-player,1.99,2014,0
+1343,1343,270090,action,//n.p.p.d. rush//- the milk of ultraviolet,Single-player,3.99,2014,1
+1344,1344,270150,action,running with rifles,Single-player,14.99,2015,0
+1345,1345,270170,free to play,depression quest,Single-player,0.0,2014,0
+1346,1346,270210,indie,melodys escape,Single-player,9.99,2016,2
+1347,1347,270270,action,frozen state,Single-player,11.99,2016,2
+1348,1348,270370,free to play,lambda wars beta,Single-player,0.0,2014,0
+1349,1349,270450,action,robot roller-derby disco dodgeball,Single-player,9.99,2015,2
+1350,1350,270490,adventure,the forest of doom,Single-player,4.99,2014,2
+1351,1351,270510,action,epoch,Single-player,9.99,2014,2
+1352,1352,270550,action,yet another zombie defense,Single-player,1.99,2014,2
+1353,1353,270570,adventure,reversion - the escape (1st chapter),Single-player,0.99,2012,2
+1354,1354,270630,action,haunt the house: terrortown,Single-player,4.99,2014,2
+1355,1355,270880,indie,american truck simulator,Single-player,19.99,2016,2
+1356,1356,270942,animation &amp; modeling,axis game factorys agfpro battlemat multi-player dlc,Single-player,14.99,2014,2
+1357,1357,271240,indie,offworld trading company,Single-player,19.99,2016,2
+1358,1358,271360,simulation,industry giant 2,Single-player,9.99,2015,2
+1359,1359,271500,action,sniper art of victory,Single-player,2.99,2008,1
+1360,1360,271520,action,loadout steam launch starter pack,Multi-player,19.99,2014,1
+1361,1361,271570,action,space farmers,Multi-player,9.99,2014,1
+1362,1362,271590,action,grand theft auto v,Single-player,39.99,2015,1
+1363,1363,271640,action,humanity asset,Single-player,9.99,2014,1
+1364,1364,271860,indie,super killer hornet: resurrection,Single-player,4.99,2014,1
+1365,1365,271900,casual,hexcells plus,Single-player,2.99,2014,2
+1366,1366,272060,adventure,serena,Single-player,0.0,2014,2
+1367,1367,272510,action,naruto shippuden: ultimate ninja storm revolution,Single-player,29.99,2014,1
+1368,1368,272600,adventure,detective grimoire,Single-player,6.99,2014,2
+1369,1369,272890,indie,vertiginous golf,Single-player,9.99,2014,1
+1370,1370,273110,action,counter-strike nexon: zombies,Single-player,0.0,2014,2
+1371,1371,273350,action,evolve stage 2,Single-player,0.0,2015,2
+1372,1372,273500,action,over 9000 zombies!,Single-player,1.99,2015,2
+1373,1373,273770,simulation,game tycoon 1.5,Single-player,2.99,2014,0
+1374,1374,273840,racing,stock car extreme,Single-player,14.99,2015,1
+1375,1375,273940,simulation,warehouse and logistics simulator,Single-player,9.99,2014,0
+1376,1376,274170,action,hotline miami 2: wrong number,Single-player,14.99,2015,0
+1377,1377,274190,action,broforce,Single-player,14.99,2015,1
+1378,1378,274230,action,ronin,Single-player,12.99,2015,0
+1379,1379,274250,indie,olliolli,Single-player,12.99,2014,2
+1380,1380,274270,action,not a hero,Single-player,12.99,2015,2
+1381,1381,274290,adventure,gods will be watching,Single-player,9.99,2014,1
+1382,1382,274310,indie,always sometimes monsters,Single-player,9.99,2014,0
+1383,1383,274350,adventure,dropsy,Single-player,9.99,2015,2
+1384,1384,274500,action,brigador: up-armored edition,Single-player,19.99,2016,2
+1385,1385,274560,action,revolution ace,Single-player,4.99,2014,2
+1386,1386,274620,action,skara - the blade remains,Multi-player,0.0,2017,0
+1387,1387,274900,action,murder miners,Single-player,0.99,2014,2
+1388,1388,274920,animation &amp; modeling,facerig,Steam Achievements,14.99,2015,1
+1389,1389,274940,action,depth,Single-player,19.99,2014,2
+1390,1390,274980,indie,influent,Single-player,9.99,2014,2
+1391,1391,275100,adventure,shelter 2,Single-player,14.99,2015,2
+1392,1392,275180,adventure,costume quest 2,Single-player,14.99,2014,2
+1393,1393,275200,action,westerado: double barreled,Single-player,14.99,2015,0
+1394,1394,275390,action,guacamelee! super turbo championship edition,Single-player,14.99,2014,2
+1395,1395,275490,action,canyon capers,Single-player,6.99,2014,1
+1396,1396,275510,strategy,z steel soldiers,Single-player,12.99,2014,2
+1397,1397,275530,action,z,Single-player,6.99,2014,2
+1398,1398,275610,action,"warhammer 40,000: kill team",Single-player,9.99,2014,1
+1399,1399,275670,indie,space run,Single-player,14.99,2014,2
+1400,1400,275850,action,no mans sky,Single-player,59.99,2016,2
+1401,1401,276340,casual,my riding stables: life with horses,Single-player,9.99,2014,2
+1402,1402,276810,rpg,mordheim: city of the damned,Single-player,39.99,2015,2
+1403,1403,277430,action,halo: spartan assault,Single-player,2.99,2014,2
+1404,1404,277450,strategy,imperial glory,Single-player,4.99,2005,2
+1405,1405,277460,strategy,praetorians,Single-player,4.99,2003,2
+1406,1406,277520,action,albedo: eyes from outer space,Single-player,14.99,2015,2
+1407,1407,277590,action,assassins creed freedom cry,Single-player,14.99,2014,0
+1408,1408,277930,adventure,tug,Single-player,0.0,2014,1
+1409,1409,278080,action,dynasty warriors 8: xtreme legends complete edition / 真・三國無双７ with 猛将伝,Single-player,49.99,2014,0
+1410,1410,278360,adventure,a story about my uncle,Single-player,12.99,2014,2
+1411,1411,278460,casual,skyborn,Single-player,14.99,2014,2
+1412,1412,278490,adventure,aveyond 3-2: gates of night,Single-player,9.99,2014,0
+1413,1413,278620,action,tinykeep,Single-player,9.99,2014,2
+1414,1414,278910,indie,interplanetary,Single-player,0.0,2015,2
+1415,1415,278970,action,digger online,Multi-player,9.99,2015,2
+1416,1416,279160,action,ultionus: a tale of petty revenge,Single-player,6.99,2014,2
+1417,1417,279260,adventure,richard &amp; alice,Single-player,5.99,2014,0
+1418,1418,279420,casual,gardens inc. – from rakes to riches,Single-player,9.99,2014,2
+1419,1419,279520,action,rage runner,Single-player,4.99,2014,0
+1420,1420,279720,rpg,the i of the dragon,Single-player,6.99,2004,2
+1421,1421,280010,action,gunjitsu,Multi-player,3.99,2015,0
+1422,1422,280040,action,a wizards lizard,Single-player,9.99,2014,2
+1423,1423,280180,action,hover,Single-player,19.99,2017,2
+1424,1424,280220,indie,creeper world 3: arc eternal,Single-player,14.99,2014,2
+1425,1425,280520,action,crea,Single-player,14.99,2016,2
+1426,1426,280600,action,bloodlust shadowhunter,Single-player,12.99,2015,2
+1427,1427,280740,action,aperture tag: the paint gun testing initiative,Single-player,4.99,2014,2
+1428,1428,280910,action,t.e.c. 3001,Single-player,3.99,2014,1
+1429,1429,280930,action,battlepillars gold edition,Single-player,4.99,2014,0
+1430,1430,281050,action,vanguard princess directors cut,Single-player,0.0,2014,2
+1431,1431,281200,adventure,a boy and his blob,Single-player,9.99,2016,2
+1432,1432,281220,action,bloodrayne betrayal,Single-player,9.99,2014,2
+1433,1433,281370,indie,real horror stories ultimate edition,Single-player,1.99,2014,2
+1434,1434,281410,action,ubersoldier ii,Single-player,9.99,2008,0
+1435,1435,281610,strategy,homeworld: deserts of kharak,Single-player,49.99,2016,2
+1436,1436,281820,action,explodemon,Single-player,8.99,2011,0
+1437,1437,281990,simulation,stellaris,Single-player,39.99,2016,2
+1438,1438,282010,action,carmageddon max pack,Single-player,9.99,1997,1
+1439,1439,282050,racing,mx vs. atv supercross encore,Single-player,29.99,2015,2
+1440,1440,282070,adventure,this war of mine,Single-player,19.99,2014,0
+1441,1441,282140,action,soma,Single-player,29.99,2015,0
+1442,1442,282400,simulation,superpower 2 steam edition,Single-player,9.99,2004,2
+1443,1443,282440,action,quake live™,Single-player,9.99,2010,0
+1444,1444,282560,simulation,rollercoaster tycoon world™,Single-player,14.99,2016,2
+1445,1445,282660,utilities,easyanticheat esports,Multi-player,0.0,2006,2
+1446,1446,282740,action,organic panic,Single-player,0.0,2014,2
+1447,1447,282760,casual,circuits,Single-player,4.99,2014,2
+1448,1448,282780,action,stick em up 2: paper adventures,Single-player,2.99,2015,2
+1449,1449,282800,indie,100% orange juice,Single-player,6.99,2013,1
+1450,1450,282900,rpg,hyperdimension neptunia re;birth1 / 超次次元ゲイム ネプテューヌre;birth1 / 超次次元遊戲戰機少女重生1,Single-player,29.99,2015,2
+1451,1451,283080,action,super chibi knight,Single-player,4.99,2015,2
+1452,1452,283230,adventure,spoiler alert,Single-player,2.99,2014,0
+1453,1453,283290,action,nosferatu: the wrath of malachi,Single-player,9.99,2003,2
+1454,1454,283370,action,marine sharpshooter ii: jungle warfare,Single-player,9.99,2004,0
+1455,1455,283430,action,litil divil,Single-player,9.99,1993,2
+1456,1456,283640,action,salt and sanctuary,Single-player,17.99,2016,2
+1457,1457,283660,action,rabbit hole 3d: steam edition,Single-player,2.99,2014,0
+1458,1458,283680,action,astebreed: definitive edition,Single-player,19.99,2014,2
+1459,1459,283880,adventure,heroines quest: the herald of ragnarok,Single-player,2.99,2014,2
+1460,1460,283920,adventure,putt-putt® joins the parade,Single-player,6.99,1992,0
+1461,1461,283940,adventure,freddi fish and the case of the missing kelp seeds,Single-player,6.99,1994,2
+1462,1462,283960,adventure,pajama sam: no need to hide when its dark outside,Single-player,6.99,1996,1
+1463,1463,283980,adventure,spy fox in dry cereal,Single-player,6.99,1997,2
+1464,1464,284140,action,majestic nights,Single-player,4.99,2014,2
+1465,1465,284160,racing,beamng.drive,Single-player,24.99,2015,1
+1466,1466,284460,action,deadcore,Single-player,9.99,2014,2
+1467,1467,284770,adventure,enigmatis 2: the mists of ravenwood,Single-player,9.99,2013,0
+1468,1468,284930,action,speed kills,Single-player,9.99,2014,0
+1469,1469,284950,casual,pixel puzzles: japan,Single-player,6.99,2014,0
+1470,1470,285050,casual,showtime!,Single-player,5.99,2013,2
+1471,1471,285160,action,lego® the hobbit™,Single-player,19.99,2014,0
+1472,1472,285310,simulation,rollercoaster tycoon®: deluxe,Single-player,5.99,1999,0
+1473,1473,285330,simulation,rollercoaster tycoon® 2: triple thrill pack,Single-player,9.99,2002,2
+1474,1474,285440,action,crimzon clover world ignition,Single-player,9.99,2014,1
+1475,1475,285480,strategy,the entente gold,Single-player,1.99,2003,0
+1476,1476,285500,action,hard truck apocalypse / ex machina,Single-player,7.99,2005,1
+1477,1477,285580,action,ace - arena: cyber evolution,Single-player,189.96,2014,2
+1478,1478,285740,casual,kitty powers matchmaker,Single-player,9.99,2015,2
+1479,1479,285820,action,action henk,Single-player,14.99,2015,2
+1480,1480,285900,action,gang beasts,Multi-player,19.99,2017,2
+1481,1481,285920,action,terratech,Single-player,19.99,2015,2
+1482,1482,286040,action,dead effect,Single-player,4.99,2014,2
+1483,1483,286080,action,thinking with time machine,Single-player,0.0,2014,1
+1484,1484,286100,action,you have to win the game,Single-player,0.0,2012,2
+1485,1485,286200,adventure,reignmaker,Single-player,14.99,2014,2
+1486,1486,286340,adventure,farsky,Single-player,4.99,2014,2
+1487,1487,286360,adventure,shadows on the vatican act i: greed,Single-player,6.99,2014,0
+1488,1488,286500,adventure,"house of 1,000 doors: family secrets collectors edition",Single-player,9.99,2014,2
+1489,1489,286570,racing,f1 2015,Single-player,39.99,2015,2
+1490,1490,286660,action,avoid - sensory overload,Single-player,4.99,2014,2
+1491,1491,286690,action,metro 2033 redux,Single-player,19.99,2014,2
+1492,1492,286940,action,s.k.i.l.l. - special force 2 (shooter),Single-player,0.0,2013,1
+1493,1493,287100,action,chaos domain,Single-player,9.99,2014,1
+1494,1494,287120,action,ionball 2: ionstorm,Single-player,4.99,2014,2
+1495,1495,287290,action,resident evil revelations 2 / biohazard revelations 2,Single-player,5.99,2015,0
+1496,1496,287340,racing,colin mcrae rally,Single-player,6.99,2014,1
+1497,1497,287390,action,metro: last light redux,Single-player,19.99,2014,2
+1498,1498,287450,simulation,rise of nations: extended edition,Single-player,19.99,2014,0
+1499,1499,287580,simulation,pandora: first contact,Single-player,29.99,2013,2
+1500,1500,287700,action,metal gear solid v: the phantom pain,Single-player,19.99,2015,1
+1501,1501,287840,action,ty the tasmanian tiger 4,Single-player,5.99,2015,2
+1502,1502,287920,action,mortal online,MMO,0.0,2015,2
+1503,1503,287980,indie,mini metro,Single-player,9.99,2015,2
+1504,1504,288040,adventure,actual sunlight,Single-player,4.99,2014,0
+1505,1505,288160,adventure,the room,Single-player,4.99,2014,2
+1506,1506,288370,action,strike suit zero: directors cut,Single-player,19.99,2014,2
+1507,1507,288470,rpg,fable anniversary,Single-player,34.99,2014,0
+1508,1508,289090,adventure,ampu-tea,Single-player,4.99,2014,1
+1509,1509,289130,rpg,endless legend™,Single-player,29.99,2014,2
+1510,1510,289340,strategy,freight tycoon inc.,Single-player,4.99,2007,2
+1511,1511,289460,casual,rc cars,Single-player,2.99,2003,2
+1512,1512,289520,rpg,kings bounty: dark side,Single-player,12.99,2014,2
+1513,1513,289600,rpg,marauder,Single-player,9.99,2009,2
+1514,1514,289650,action,assassins creed® unity,Single-player,29.99,2014,2
+1515,1515,289690,action,lara croft and the temple of osiris™,Single-player,19.99,2014,2
+1516,1516,289760,action,rocketsrocketsrockets,Single-player,6.99,2015,2
+1517,1517,289930,casual,transocean: the shipping company,Single-player,19.99,2014,2
+1518,1518,290000,action,dubwars,Single-player,9.99,2016,2
+1519,1519,290020,indie,logicbots,Single-player,19.99,2017,2
+1520,1520,290080,action,life is feudal: your own,Multi-player,39.99,2015,2
+1521,1521,290140,free to play,echo of soul,Multi-player,0.0,2015,1
+1522,1522,290280,action,volt,Single-player,1.99,2014,2
+1523,1523,290300,action,rebel galaxy,Single-player,19.99,2015,1
+1524,1524,290340,adventure,armello,Single-player,19.99,2015,2
+1525,1525,290490,action,the flock,Multi-player,16.99,2015,1
+1526,1526,290530,action,clandestine,Single-player,19.99,2015,2
+1527,1527,290650,action,time ramesside (a new reckoning),Single-player,4.99,2015,0
+1528,1528,290730,casual,my lands: black gem hunting,Multi-player,0.0,2014,1
+1529,1529,290770,action,the fall,Single-player,9.99,2014,2
+1530,1530,290790,strategy,grey goo,Single-player,29.99,2015,2
+1531,1531,290890,action,you must build a boat,Single-player,4.99,2015,0
+1532,1532,290930,action,half-life 2: update,Single-player,0.0,2015,2
+1533,1533,290990,casual,flower shop: summer in fairbrook,Single-player,14.99,2010,2
+1534,1534,291010,action,the hat man: shadow ward,Single-player,1.99,2016,0
+1535,1535,291250,action,jumpdrive,Single-player,9.99,2014,2
+1536,1536,291270,action,vitrum,Single-player,1.99,2012,0
+1537,1537,291370,indie,undead overlord,Single-player,14.99,2014,2
+1538,1538,291410,free to play,duelyst,Single-player,0.0,2016,2
+1539,1539,291480,action,warface,Multi-player,0.0,2014,0
+1540,1540,291550,action,brawlhalla,Single-player,0.0,2017,0
+1541,1541,291650,rpg,pillars of eternity,Single-player,29.99,2015,0
+1542,1542,291910,action,firefighters 2014,Single-player,19.99,2014,2
+1543,1543,291930,simulation,industry empire,Single-player,19.99,2014,0
+1544,1544,292120,rpg,final fantasy® xiii,Single-player,15.99,2014,1
+1545,1545,292140,rpg,final fantasy® xiii-2,Single-player,19.99,2014,0
+1546,1546,292180,simulation,x-plane 10 global - 64 bit,Single-player,771.71,2014,2
+1547,1547,292240,adventure,spy fox 2 some assembly required,Single-player,6.99,1999,2
+1548,1548,292380,casual,racer 8,Single-player,4.99,2014,1
+1549,1549,292390,action,realms of the haunting,Single-player,9.99,1996,2
+1550,1550,292600,action,duet,Single-player,4.99,2015,2
+1551,1551,292630,adventure,uriels chasm,Single-player,4.99,2014,1
+1552,1552,292780,adventure,pajama sam 2: thunder and lightning arent so frightening,Single-player,6.99,1998,2
+1553,1553,293180,action,overcast - walden and the werewolf,Single-player,0.99,2014,0
+1554,1554,293240,action,cosmochoria,Single-player,9.99,2015,2
+1555,1555,293260,free to play,card hunter,Single-player,0.0,2015,2
+1556,1556,293320,adventure,coma: mortuary,Single-player,5.99,2014,1
+1557,1557,293500,adventure,amazing world™,Single-player,0.0,2014,0
+1558,1558,293540,action,guns and robots,Multi-player,0.0,2014,2
+1559,1559,293680,adventure,cinders,Single-player,19.99,2012,0
+1560,1560,293740,indie,road not taken,Single-player,14.99,2014,1
+1561,1561,293760,simulation,automation - the car company tycoon game,Single-player,29.99,2015,2
+1562,1562,293780,action,crawl,Single-player,14.99,2017,2
+1563,1563,293840,action,cult of the wind,Multi-player,9.99,2014,2
+1564,1564,293860,adventure,white noise online,Single-player,4.99,2014,2
+1565,1565,293900,action,pivvot,Single-player,4.99,2014,2
+1566,1566,293920,casual,spirited heart deluxe,Single-player,19.99,2011,2
+1567,1567,294100,indie,rimworld,Single-player,29.99,2016,0
+1568,1568,294140,action,they breathe,Single-player,1.99,2014,2
+1569,1569,294160,free to play,galcon 2: galactic conquest,Multi-player,0.0,2014,1
+1570,1570,294230,action,millie,Single-player,3.99,2014,1
+1571,1571,294540,adventure,freddi fish 3: the case of the stolen conch shell,Single-player,6.99,1998,2
+1572,1572,294570,adventure,freddi fish 5: the case of the creature of coral cove,Single-player,6.99,2001,2
+1573,1573,294650,adventure,putt-putt® goes to the moon,Single-player,6.99,1993,2
+1574,1574,294860,action,valkyria chronicles™,Single-player,19.99,2014,0
+1575,1575,295490,action,schrödinger’s cat and the raiders of the lost quark,Single-player,9.99,2014,2
+1576,1576,295550,free to play,royal quest,MMO,0.0,2014,2
+1577,1577,295690,action,particle mace,Single-player,0.98,2015,1
+1578,1578,295710,free to play,darkwind: war on wheels,MMO,0.0,2014,2
+1579,1579,295770,action,rogue shooter: the fps roguelike,Single-player,4.99,2014,2
+1580,1580,295790,action,never alone (kisima ingitchuna),Single-player,14.99,2014,2
+1581,1581,295990,strategy,evopollution,Single-player,4.99,2014,2
+1582,1582,296050,indie,battlepaths,Single-player,4.99,2012,2
+1583,1583,296150,action,g-ball,Multi-player,0.99,2014,0
+1584,1584,296240,adventure,the promised land,Single-player,6.99,2012,2
+1585,1585,296300,action,ballistic overkill,Multi-player,11.99,2017,2
+1586,1586,296470,indie,mount your friends,Single-player,4.99,2014,2
+1587,1587,296490,action,gemcraft - chasing shadows,Single-player,9.99,2015,2
+1588,1588,296570,rpg,lords of xulima,Single-player,19.99,2014,2
+1589,1589,296650,action,the great jitters: pudding panic,Single-player,4.99,2014,2
+1590,1590,296770,sports,real boxing™,Single-player,4.99,2014,2
+1591,1591,296910,action,8bitboy™,Single-player,3.99,2014,2
+1592,1592,296970,adventure,renowned explorers: international society,Single-player,19.99,2015,2
+1593,1593,297000,rpg,heroes® of might &amp; magic® iii - hd edition,Single-player,14.99,2015,2
+1594,1594,297110,casual,cosmic dj,Single-player,2.99,2014,2
+1595,1595,297120,action,heavy bullets,Single-player,9.99,2014,0
+1596,1596,297130,action,titan souls,Single-player,14.99,2015,2
+1597,1597,297210,casual,famaze,Single-player,0.0,2014,1
+1598,1598,297330,casual,arcadecraft,Single-player,9.99,2014,2
+1599,1599,297350,adventure,the old city: leviathan,Single-player,5.99,2014,2
+1600,1600,297490,indie,spy chameleon - rgb agent,Single-player,4.99,2014,2
+1601,1601,297590,adventure,monsters ate my birthday cake,Single-player,7.99,2014,2
+1602,1602,298030,strategy,total annihilation,Single-player,4.99,1997,2
+1603,1603,298050,strategy,master of orion,Single-player,29.99,2016,2
+1604,1604,298110,action,far cry® 4,Single-player,29.99,2014,1
+1605,1605,298160,casual,eldevin,Multi-player,0.0,2014,2
+1606,1606,298180,action,the desolate hope,Single-player,0.0,2014,0
+1607,1607,298240,action,red crucible®: firestorm,Multi-player,0.0,2015,2
+1608,1608,298260,adventure,only if,Single-player,0.0,2014,2
+1609,1609,298340,action,flashout 2,Single-player,4.99,2014,2
+1610,1610,298360,action,immortal defense,Single-player,9.99,2007,0
+1611,1611,298400,action,knightmare tower,Single-player,3.99,2014,2
+1612,1612,298520,action,orbital gear,Single-player,9.99,2014,2
+1613,1613,298600,action,lovely planet,Single-player,5.99,2014,0
+1614,1614,298630,action,the escapists,Single-player,17.99,2015,1
+1615,1615,299030,action,blood: one unit whole blood,Single-player,4.99,1998,2
+1616,1616,299260,action,commando jack,Single-player,9.99,2014,2
+1617,1617,299360,action,block n load,Single-player,0.0,2015,1
+1618,1618,299420,action,cubegun,Single-player,0.0,2014,0
+1619,1619,299460,action,woodle tree adventures,Single-player,2.99,2014,1
+1620,1620,299540,indie,heroes rise: the prodigy,Single-player,4.99,2012,2
+1621,1621,299660,action,6180 the moon,Single-player,3.99,2014,2
+1622,1622,299680,adventure,tengami,Single-player,4.99,2015,2
+1623,1623,299720,casual,terrorhedron tower defense,Single-player,1.99,2014,2
+1624,1624,299740,action,miscreated,Multi-player,19.99,2014,2
+1625,1625,299780,adventure,noir syndrome,Single-player,6.99,2014,2
+1626,1626,300040,action,divine souls f2p mmo,Single-player,0.0,2014,2
+1627,1627,300080,free to play,total war battles: kingdom,Single-player,0.0,2016,2
+1628,1628,300220,adventure,victim of xen,Single-player,3.99,2014,1
+1629,1629,300300,casual,ichi,Single-player,4.99,2014,1
+1630,1630,300340,action,lemma,Single-player,14.99,2015,1
+1631,1631,300380,action,road redemption,Single-player,16.06,2017,2
+1632,1632,300550,adventure,shadowrun: dragonfall - directors cut,Single-player,14.99,2014,2
+1633,1633,300570,indie,infinifactory,Single-player,24.99,2015,2
+1634,1634,300900,indie,hippocampal: the white sofa,Single-player,4.99,2014,1
+1635,1635,300970,free to play,fiesta online na,MMO,0.0,2008,2
+1636,1636,301120,simulation,eastside hockey manager,Single-player,19.99,2015,2
+1637,1637,301190,action,frederic: resurrection of music,Single-player,2.99,2014,1
+1638,1638,301460,action,electronic super joy: groove city,Single-player,4.99,2014,2
+1639,1639,301520,action,robocraft,Multi-player,0.0,2017,2
+1640,1640,301640,action,zombie army trilogy,Single-player,44.99,2015,0
+1641,1641,301750,action,radical roach remastered,Single-player,6.99,2014,2
+1642,1642,301760,action,disney•pixar cars 2: the video game,Single-player,19.99,2011,1
+1643,1643,301860,adventure,submerged,Single-player,19.99,2015,2
+1644,1644,301910,action,saints row: gat out of hell,Single-player,14.99,2015,2
+1645,1645,301970,action,screencheat,Single-player,14.99,2014,2
+1646,1646,302060,indie,trucks &amp; trailers,Single-player,4.99,2011,2
+1647,1647,302080,indie,bus driver,Single-player,7.99,2007,2
+1648,1648,302270,action,dungeon defenders eternity,Single-player,19.99,2014,2
+1649,1649,302380,casual,floating point,Single-player,0.0,2014,2
+1650,1650,302510,action,ryse: son of rome,Single-player,19.99,2014,0
+1651,1651,302590,action,of guards and thieves,Multi-player,0.0,2016,2
+1652,1652,302670,action,call to arms,Single-player,0.0,2016,2
+1653,1653,302830,action,blockade 3d,Multi-player,0.0,2014,1
+1654,1654,302970,indie,radiant defense,Single-player,4.99,2014,2
+1655,1655,303210,adventure,the beginners guide,Single-player,9.99,2015,1
+1656,1656,303390,action,dead bits,Single-player,0.99,2014,2
+1657,1657,303800,adventure,the witcher adventure game,Single-player,9.99,2014,2
+1658,1658,304030,free to play,archeage,Multi-player,0.0,2015,2
+1659,1659,304050,action,trove,Online Multi-Player,0.0,2015,2
+1660,1660,304240,action,resident evil / biohazard hd remaster,Single-player,19.99,2015,1
+1661,1661,304350,casual,wildlife park 2,Single-player,6.99,2006,1
+1662,1662,304410,casual,hexcells infinite,Single-player,4.99,2014,2
+1663,1663,304500,casual,rooms: the main building,Single-player,9.99,2014,0
+1664,1664,304650,adventure,sunless sea,Single-player,18.99,2015,2
+1665,1665,304670,casual,aeon command,Single-player,2.99,2014,2
+1666,1666,304730,casual,train fever,Single-player,19.99,2014,2
+1667,1667,304910,action,sky gamblers: storm raiders,Single-player,9.99,2015,2
+1668,1668,304930,action,unturned,Single-player,0.0,2017,1
+1669,1669,304950,adventure,castaway paradise - town building sim,Single-player,14.99,2015,2
+1670,1670,305050,action,outland,Single-player,9.99,2014,2
+1671,1671,305070,action,fist of awesome,Single-player,3.99,2014,2
+1672,1672,305260,free to play,battle islands,Single-player,0.0,2014,0
+1673,1673,305380,action,blue estate the game,Single-player,12.99,2015,2
+1674,1674,305620,adventure,the long dark,Single-player,34.99,2017,2
+1675,1675,305920,adventure,another perspective,Single-player,5.99,2014,0
+1676,1676,305960,action,dragon: the game,Single-player,17.99,2014,2
+1677,1677,305980,action,heavy fire: afghanistan,Single-player,2.99,2014,0
+1678,1678,306020,action,bloons td 5,Single-player,9.99,2014,2
+1679,1679,306130,massively multiplayer,the elder scrolls® online: tamriel unlimited™,MMO,19.99,2014,2
+1680,1680,306550,indie,runers,Single-player,9.99,2014,2
+1681,1681,306660,indie,ultimate general: gettysburg,Single-player,14.99,2014,2
+1682,1682,306670,action,overlord: fellowship of evil,Single-player,18.99,2015,0
+1683,1683,307070,adventure,memories of a vagabond,Single-player,4.99,2014,2
+1684,1684,307130,action,asteria,Single-player,4.99,2014,2
+1685,1685,307170,action,borealis,Single-player,4.99,2014,1
+1686,1686,307290,adventure,velvet sundown,Multi-player,0.0,2014,2
+1687,1687,307340,action,platypus,Single-player,6.99,2004,2
+1688,1688,307640,rpg,stick rpg 2: directors cut,Single-player,19.99,2011,2
+1689,1689,307670,adventure,hard west,Single-player,19.99,2015,2
+1690,1690,307690,action,sleeping dogs: definitive edition,Single-player,29.99,2014,2
+1691,1691,307780,action,mortal kombat x,Single-player,19.99,2015,2
+1692,1692,307880,action,savage lands,Single-player,14.99,2015,2
+1693,1693,307990,casual,wildlife park 2 - fantasy,Single-player,0.99,2013,2
+1694,1694,308270,simulation,buzz aldrins space program manager,Single-player,29.99,2014,2
+1695,1695,308420,action,ziggurat,Single-player,14.99,2014,2
+1696,1696,310070,indie,the nightmare cooperative,Single-player,4.99,2014,1
+1697,1697,310080,casual,hatoful boyfriend,Single-player,9.99,2014,1
+1698,1698,310360,adventure,higurashi when they cry hou - ch.1 onikakushi,Single-player,5.99,2015,1
+1699,1699,310370,free to play,the way of life free edition,Single-player,0.0,2016,2
+1700,1700,310380,action,fractured space,Single-player,0.0,2016,0
+1701,1701,310470,simulation,grand ages: medieval,Single-player,19.99,2015,2
+1702,1702,310700,action,super win the game,Single-player,7.99,2014,2
+1703,1703,310740,action,neon struct,Single-player,17.99,2015,2
+1704,1704,310790,action,geometry wars™ 3: dimensions evolved,Single-player,14.99,2014,2
+1705,1705,310850,action,onikira - demon killer,Single-player,13.99,2015,1
+1706,1706,310890,action,breach &amp; clear: deadline rebirth (2016),Single-player,9.99,2015,2
+1707,1707,310950,action,street fighter v,Single-player,39.99,2016,1
+1708,1708,311140,action,the stalin subway,Single-player,3.99,2006,0
+1709,1709,311190,action,super panda adventures,Single-player,2.99,2014,1
+1710,1710,311210,action,call of duty®: black ops iii,Single-player,59.99,2015,2
+1711,1711,311310,action,naval action,Multi-player,39.99,2016,1
+1712,1712,311340,action,metal gear solid v: ground zeroes,Single-player,19.99,2014,2
+1713,1713,311400,action,ocean city racing: redux,Single-player,2.99,2016,2
+1714,1714,311480,action,vertical drop heroes hd,Single-player,6.99,2014,0
+1715,1715,311560,action,assassin’s creed® rogue,Single-player,19.99,2015,2
+1716,1716,311690,action,enter the gungeon,Single-player,14.99,2016,0
+1717,1717,311730,action,dead or alive 5 last round: core fighters,Single-player,0.0,2015,1
+1718,1718,311870,action,super trench attack!,Single-player,4.99,2014,2
+1719,1719,311910,simulation,dig it! - a digger simulator,Single-player,17.99,2014,0
+1720,1720,312010,action,bird assassin,Single-player,1.99,2011,2
+1721,1721,312150,action,wild warfare,Multi-player,2.99,2014,2
+1722,1722,312210,action,the fifth day,Single-player,14.99,2014,2
+1723,1723,312280,casual,simply chess,Single-player,0.0,2015,2
+1724,1724,312530,action,duck game,Single-player,12.99,2015,2
+1725,1725,312630,indie,otttd,Single-player,7.99,2014,2
+1726,1726,312720,casual,khet 2.0,Single-player,9.99,2014,1
+1727,1727,312750,rpg,final fantasy iv,Single-player,15.99,2014,2
+1728,1728,312780,action,way of the samurai 4,Single-player,24.99,2015,2
+1729,1729,312840,adventure,fahrenheit: indigo prophecy remastered,Single-player,9.99,2015,0
+1730,1730,312990,action,the expendabros,Single-player,0.0,2014,1
+1731,1731,313010,simulation,cities xxl,Steam Achievements,9.99,2015,1
+1732,1732,313020,adventure,soul gambler,Single-player,2.99,2013,1
+1733,1733,313040,action,pixel hunter,Single-player,2.99,2014,0
+1734,1734,313080,action,the masterplan,Single-player,19.99,2015,0
+1735,1735,313120,adventure,stranded deep,Single-player,14.99,2015,2
+1736,1736,313160,simulation,farming simulator 15,Single-player,19.99,2014,2
+1737,1737,313340,casual,mountain,Single-player,0.99,2014,0
+1738,1738,313590,action,boo bunny plague,Single-player,1.99,2014,2
+1739,1739,313690,action,lego® batman™3: beyond gotham,Single-player,19.99,2014,0
+1740,1740,314010,action,boid,Single-player,0.0,2016,2
+1741,1741,314020,adventure,morphopolis,Single-player,3.99,2014,2
+1742,1742,314150,action,double dragon trilogy,Single-player,5.99,2015,1
+1743,1743,314160,simulation,microsoft flight simulator x: steam edition,Single-player,24.99,2006,2
+1744,1744,314230,action,rodina,Single-player,14.99,2014,2
+1745,1745,314240,adventure,rpg tycoon,Single-player,9.99,2016,2
+1746,1746,314300,action,cubez,Multi-player,7.99,2014,1
+1747,1747,314410,action,rampage knights,Single-player,11.99,2015,1
+1748,1748,314520,simulation,euro fishing,Single-player,19.99,2015,2
+1749,1749,314660,action,oddworld: new n tasty,Single-player,19.99,2015,2
+1750,1750,314970,free to play,age of conquest iv,Single-player,0.0,2016,2
+1751,1751,314980,indie,supreme ruler ultimate,Single-player,19.99,2014,2
+1752,1752,315340,action,a.r.e.s. extinction agenda ex,Single-player,9.99,2014,2
+1753,1753,315430,action,polarity,Single-player,12.99,2014,2
+1754,1754,315600,racing,ford racing 3,Single-player,4.99,2005,2
+1755,1755,315810,adventure,eden*,Single-player,19.99,2015,2
+1756,1756,315840,action,catacomb kids,Single-player,15.99,2015,2
+1757,1757,315860,indie,celestian tales: old north,Single-player,12.99,2015,2
+1758,1758,316010,free to play,magic duels,Single-player,0.0,2015,2
+1759,1759,316260,action,disney universe,Single-player,19.99,2011,2
+1760,1760,316390,action,szone-online,MMO,0.0,2015,0
+1761,1761,316430,action,battle of empires : 1914-1918,Single-player,8.99,2015,2
+1762,1762,316660,action,toast time,Single-player,4.99,2014,2
+1763,1763,316720,casual,planetarian ~the reverie of a little planet~,Single-player,9.99,2004,0
+1764,1764,316790,adventure,grim fandango remastered,Single-player,14.99,2015,2
+1765,1765,316930,action,kings of kung fu,Single-player,9.99,2015,1
+1766,1766,317040,action,the original strife: veteran edition,Single-player,9.99,1996,2
+1767,1767,317100,action,republique,Single-player,24.99,2015,2
+1768,1768,317360,action,double action: boogaloo,Multi-player,0.0,2014,1
+1769,1769,317400,action,portal stories: mel,Single-player,0.0,2015,2
+1770,1770,317410,action,color symphony,Single-player,0.0,2014,1
+1771,1771,317440,action,quantum rush champions,Single-player,9.99,2014,0
+1772,1772,317470,action,cubic castles,MMO,0.0,2014,2
+1773,1773,317510,action,beyond gravity,Single-player,1.99,2014,2
+1774,1774,317620,rpg,space hulk ascension,Single-player,29.99,2014,2
+1775,1775,317710,action,velocibox,Single-player,7.99,2014,1
+1776,1776,317790,action,rexaura,Single-player,0.0,2014,2
+1777,1777,317820,indie,guild of dungeoneering,Single-player,14.99,2015,2
+1778,1778,318020,strategy,act of aggression - reboot edition,Single-player,29.99,2015,2
+1779,1779,318100,action,axyos,Multi-player,7.99,2014,1
+1780,1780,318130,indie,doom &amp; destiny,Single-player,9.99,2011,2
+1781,1781,318220,action,enforcer: police crime action,Single-player,19.99,2014,2
+1782,1782,318230,action,convoy,Single-player,14.99,2015,2
+1783,1783,318430,adventure,squishy the suicidal pig,Single-player,1.99,2014,2
+1784,1784,318530,action,wings of vi,Single-player,14.99,2014,1
+1785,1785,318600,action,the flame in the flood,Single-player,14.99,2016,2
+1786,1786,319050,indie,chaos reborn,Single-player,9.99,2015,0
+1787,1787,319080,action,disney princess: my fairytale adventure,Single-player,19.99,2012,2
+1788,1788,319140,action,xeodrifter™,Single-player,9.99,2014,2
+1789,1789,319180,action,platypus ii,Single-player,6.99,2007,0
+1790,1790,319400,adventure,disney winnie the pooh,Single-player,5.99,2011,2
+1791,1791,319450,adventure,chariot,Single-player,14.99,2014,2
+1792,1792,319510,indie,five nights at freddys,Single-player,4.99,2014,0
+1793,1793,319550,casual,the collider,Single-player,2.99,2014,0
+1794,1794,319560,indie,reprisal universe,Single-player,6.99,2014,1
+1795,1795,319570,action,heroes of soulcraft - arcade moba,Multi-player,0.0,2015,2
+1796,1796,319630,action,life is strange - episode 1,Single-player,0.0,2015,2
+1797,1797,319730,action,granado espada,Single-player,0.0,2007,2
+1798,1798,319740,indie,there came an echo,Single-player,14.99,2015,2
+1799,1799,319910,action,trine 3: the artifacts of power,Single-player,21.99,2015,2
+1800,1800,319970,adventure,the detail,Single-player,3.99,2014,2
+1801,1801,320040,adventure,moon hunters,Single-player,14.99,2016,2
+1802,1802,320140,action,absolute drift,Single-player,11.99,2015,2
+1803,1803,320340,adventure,cosmonautica,Single-player,9.99,2015,2
+1804,1804,320760,adventure,tokyo school life,Single-player,14.99,2015,0
+1805,1805,321030,indie,one day for ched,Single-player,3.99,2014,0
+1806,1806,321060,indie,gender bender dna twister extreme,Single-player,24.99,2014,2
+1807,1807,321360,action,primal carnage: extinction,Single-player,12.99,2015,2
+1808,1808,321410,simulation,command: modern air / naval operations woty,Single-player,79.99,2014,2
+1809,1809,321480,casual,sigils of elohim,Single-player,0.0,2014,2
+1810,1810,321610,casual,demonlisher,Single-player,4.99,2011,0
+1811,1811,321830,action,cavern kings,Single-player,9.99,2014,2
+1812,1812,321960,rpg,might &amp; magic® heroes® vii,Single-player,49.99,2015,0
+1813,1813,321980,action,hardland,Single-player,14.99,2014,2
+1814,1814,322110,action,20xx,Single-player,14.99,2017,2
+1815,1815,322170,action,geometry dash,Single-player,3.99,2014,2
+1816,1816,322300,indie,the repopulation,Multi-player,19.99,2014,0
+1817,1817,322330,adventure,dont starve together,Single-player,14.99,2016,1
+1818,1818,322500,action,superhot,Single-player,24.99,2016,2
+1819,1819,322520,action,dynasty warriors® 8 empires,Single-player,49.99,2015,0
+1820,1820,322900,indie,"war,the game",Single-player,6.99,2015,2
+1821,1821,322910,action,"warhammer 40,000: regicide",Single-player,14.99,2015,2
+1822,1822,322920,action,thehunter: primal,Single-player,9.99,2015,2
+1823,1823,322980,action,gods vs humans,Single-player,4.99,2013,2
+1824,1824,323240,action,the world ii: hunting boss,Single-player,1.99,2014,2
+1825,1825,323370,action,tera,Multi-player,0.0,2015,2
+1826,1826,323380,action,the magic circle,Single-player,19.99,2015,2
+1827,1827,323450,action,alphadia genesis,Single-player,9.99,2015,2
+1828,1828,323470,action,dragon ball xenoverse,Single-player,39.99,2015,0
+1829,1829,323580,action,jotun: valhalla edition,Single-player,14.99,2015,2
+1830,1830,323610,simulation,911: first responders®,Single-player,4.99,2006,2
+1831,1831,323720,adventure,decay: the mare,Single-player,9.99,2015,2
+1832,1832,323850,action,move or die,Single-player,14.99,2016,2
+1833,1833,324080,action,rising world,Single-player,14.99,2014,2
+1834,1834,324120,adventure,verde station,Single-player,4.99,2014,2
+1835,1835,324160,adventure,clannad,Single-player,49.99,2015,2
+1836,1836,324260,action,voidexpanse,Single-player,14.99,2015,2
+1837,1837,324310,simulation,bus simulator 16,Single-player,14.99,2016,2
+1838,1838,324570,action,halo: spartan strike,Single-player,2.99,2014,2
+1839,1839,324610,adventure,the shopkeeper,Single-player,2.99,2014,0
+1840,1840,324680,strategy,impossible creatures steam edition,Single-player,9.99,2003,2
+1841,1841,324810,action,toxikk™,Single-player,0.0,2016,0
+1842,1842,325090,adventure,deep dungeons of doom,Single-player,4.99,2014,0
+1843,1843,325110,casual,save the furries,Single-player,6.99,2012,2
+1844,1844,325610,strategy,total war: attila,Single-player,44.99,2015,2
+1845,1845,326150,action,death skid marks,Single-player,9.99,2014,2
+1846,1846,326160,massively multiplayer,shroud of the avatar: forsaken virtues,Single-player,39.99,2014,0
+1847,1847,326410,action,windward,Single-player,9.99,2015,1
+1848,1848,326460,action,shellshock live,Single-player,6.99,2015,1
+1849,1849,326480,adventure,if my heart had wings,Single-player,14.99,2013,1
+1850,1850,326670,rpg,warhammer quest,Single-player,14.99,2015,0
+1851,1851,326720,action,instant dungeon!,Single-player,1.99,2014,2
+1852,1852,326990,action,deep eclipse: new space odyssey,Single-player,5.99,2014,2
+1853,1853,327070,action,gloria victis,Multi-player,19.99,2016,2
+1854,1854,327090,action,out of reach,Multi-player,14.99,2015,0
+1855,1855,327220,adventure,annas quest,Single-player,19.99,2015,2
+1856,1856,327410,adventure,a bird story,Single-player,3.99,2014,2
+1857,1857,327500,action,zenzizenzic,Single-player,9.99,2015,2
+1858,1858,327520,action,traverser,Single-player,14.99,2015,2
+1859,1859,327640,free to play,caesaria,Single-player,0.0,2015,2
+1860,1860,327670,indie,ironcast,Single-player,14.99,2015,2
+1861,1861,327740,action,tron 2.0,Single-player,9.99,2003,2
+1862,1862,327860,action,salt,Single-player,14.99,2014,2
+1863,1863,327890,action,i am bread,Single-player,12.99,2015,0
+1864,1864,327950,adventure,sword of the samurai,Single-player,6.99,1989,2
+1865,1865,328060,action,tales runner,Single-player,0.0,2015,1
+1866,1866,328070,action,reflex arena,Multi-player,9.99,2014,2
+1867,1867,328220,indie,wild season,Single-player,16.99,2015,2
+1868,1868,328500,indie,potatoman seeks the troof,Single-player,3.99,2014,1
+1869,1869,328830,action,rugby union team manager 2015,Single-player,19.99,2014,2
+1870,1870,328940,indie,the deer god,Single-player,14.99,2015,2
+1871,1871,329050,action,devil may cry® 4 special edition,Single-player,24.99,2015,1
+1872,1872,329110,action,gems of war - puzzle rpg,Single-player,0.0,2014,2
+1873,1873,329130,action,reassembly,Single-player,14.99,2015,2
+1874,1874,329440,adventure,sonic lost world,Single-player,29.99,2015,0
+1875,1875,329490,action,phantom breaker: battle grounds,Single-player,11.99,2015,0
+1876,1876,329650,action,nam,Single-player,6.99,1998,1
+1877,1877,329830,adventure,the moon sliver,Single-player,1.99,2014,0
+1878,1878,330100,action,bossconstructor,Single-player,14.99,2016,2
+1879,1879,330350,action,robotex,Single-player,4.99,2014,2
+1880,1880,330390,rpg,grandia® ii anniversary edition,Single-player,19.99,2015,2
+1881,1881,330470,indie,over the void,Single-player,4.99,2014,0
+1882,1882,330570,action,noct,Single-player,9.99,2015,1
+1883,1883,330580,action,shark attack deathmatch 2,Single-player,2.99,2015,2
+1884,1884,330820,adventure,2064: read only memories,Single-player,19.99,2015,2
+1885,1885,330830,adventure,tales from the borderlands,Single-player,24.99,2014,2
+1886,1886,330840,adventure,game of thrones - a telltale games series,Single-player,29.99,2014,1
+1887,1887,331120,action,passing pineview forest,Single-player,0.0,2014,0
+1888,1888,331160,adventure,disney•pixar cars,Single-player,19.99,2006,2
+1889,1889,331190,action,master spy,Single-player,9.99,2015,2
+1890,1890,331200,adventure,grass simulator,Single-player,4.99,2015,1
+1891,1891,331220,action,thief town,Shared/Split Screen,7.99,2014,2
+1892,1892,331440,action,bit dungeon ii,Single-player,3.99,2014,2
+1893,1893,331470,adventure,everlasting summer,Single-player,0.0,2014,2
+1894,1894,331500,action,executive assault,Single-player,12.99,2015,2
+1895,1895,331600,action,one piece pirate warriors 3,Single-player,39.99,2015,0
+1896,1896,331670,casual,the jackbox party pack,Single-player,24.99,2014,2
+1897,1897,332070,adventure,school of dragons,MMO,0.0,2014,1
+1898,1898,332250,action,the next penelope,Single-player,12.99,2015,2
+1899,1899,332310,adventure,lego® worlds,Single-player,29.99,2017,1
+1900,1900,332400,action,girlfriend rescue,Single-player,4.99,2015,1
+1901,1901,332500,action,grav,Single-player,19.99,2015,2
+1902,1902,332540,indie,we slay monsters,Single-player,13.99,2017,2
+1903,1903,332570,adventure,amazing frog?,Single-player,15.99,2014,1
+1904,1904,332800,indie,five nights at freddys 2,Single-player,7.99,2014,1
+1905,1905,333250,action,forward to the sky,Single-player,7.99,2015,2
+1906,1906,333930,action,dirty bomb®,Multi-player,0.0,2015,0
+1907,1907,333950,action,medieval engineers,Single-player,19.99,2015,1
+1908,1908,333980,action,akibas trip: undead ＆ undressed,Single-player,29.99,2015,2
+1909,1909,334070,action,hektor,Single-player,9.99,2015,1
+1910,1910,334120,adventure,armikrog,Single-player,9.99,2015,1
+1911,1911,334210,action,fortified,Single-player,14.99,2016,2
+1912,1912,334230,indie,town of salem,Multi-player,4.99,2014,0
+1913,1913,335000,adventure,tormentum - dark sorrow,Single-player,11.99,2015,2
+1914,1914,335150,free to play,magic barrage - bitferno,Single-player,0.0,2015,1
+1915,1915,335190,adventure,200% mixed juice!,Single-player,6.99,2015,2
+1916,1916,335240,free to play,transformice,Multi-player,0.0,2015,1
+1917,1917,335300,action,dark souls™ ii: scholar of the first sin,Single-player,39.99,2015,2
+1918,1918,335330,action,brick-force,Multi-player,0.0,2012,0
+1919,1919,335430,action,grimoire: manastorm,Multi-player,0.0,2017,2
+1920,1920,335660,adventure,cafe 0 ~the drowned mermaid~,Single-player,6.99,2011,1
+1921,1921,335670,adventure,lisa,Single-player,9.99,2014,1
+1922,1922,335820,adventure,dream of mirror online,MMO,0.0,2015,2
+1923,1923,335840,action,goats on a bridge,Single-player,4.99,2015,1
+1924,1924,335890,indie,nanofights,Single-player,2.99,2014,2
+1925,1925,336100,action,rooster teeth vs. zombiens,Single-player,0.0,2014,2
+1926,1926,336380,adventure,catmouth island,Single-player,0.99,2014,0
+1927,1927,336510,free to play,anno online,Single-player,0.0,2013,0
+1928,1928,336520,free to play,might &amp; magic heroes online,Single-player,0.0,2015,1
+1929,1929,336610,action,outcast 1.1,Single-player,5.99,2014,2
+1930,1930,336670,free to play,hit,Multi-player,0.0,2015,2
+1931,1931,337000,action,deus ex: mankind divided,Single-player,59.99,2016,2
+1932,1932,337040,indie,deadnaut,Single-player,9.99,2014,0
+1933,1933,337070,utilities,"dimmdrive :: gaming ramdrive @ 10,000+ mb/s",Steam Achievements,19.99,2015,2
+1934,1934,337320,action,paint the town red,Single-player,14.99,2015,0
+1935,1935,337850,adventure,avernum 2: crystal souls,Single-player,19.99,2015,2
+1936,1936,337950,free to play,the skies,Multi-player,0.0,2016,0
+1937,1937,338000,action,echoes+,Single-player,0.0,2015,2
+1938,1938,338170,action,ratz instagib,Multi-player,8.99,2016,2
+1939,1939,338310,action,warden: melody of the undergrowth,Single-player,19.99,2016,2
+1940,1940,338540,action,navy field 2 : conqueror of the ocean,Multi-player,0.0,2015,2
+1941,1941,339120,action,fork parkers holiday profit hike,Single-player,0.0,2014,2
+1942,1942,339190,adventure,dead synchronicity: tomorrow comes today,Single-player,19.99,2015,2
+1943,1943,339230,action,zombi,Single-player,19.99,2015,1
+1944,1944,339280,action,strife®,Single-player,0.0,2015,2
+1945,1945,339290,action,castle,Single-player,4.99,2015,0
+1946,1946,339340,action,resident evil 0 / biohazard 0 hd remaster,Single-player,19.99,2016,0
+1947,1947,339350,indie,choice of robots,Single-player,9.99,2014,1
+1948,1948,339400,casual,runestone keeper,Single-player,9.99,2015,2
+1949,1949,339470,adventure,retention,Single-player,0.99,2015,1
+1950,1950,339600,free to play,vega conflict,Multi-player,0.0,2015,0
+1951,1951,339610,action,freestyle 2: street basketball,Online Multi-Player,0.0,2015,2
+1952,1952,339800,indie,huniepop,Single-player,9.99,2015,1
+1953,1953,339910,action,uncraft world,Single-player,9.99,2015,1
+1954,1954,340050,action,survivalist,Single-player,4.99,2015,0
+1955,1955,340150,indie,basement,Single-player,9.99,2015,2
+1956,1956,340170,action,final fantasy type-0™ hd,Single-player,29.99,2015,2
+1957,1957,340300,adventure,teddy floppy ear - mountain adventure,Single-player,4.99,2015,1
+1958,1958,340340,casual,domestic dog,Single-player,2.99,2014,1
+1959,1959,340350,action,quintet,Single-player,0.0,2013,1
+1960,1960,340460,action,spartans vs zombies defense,Single-player,0.0,2015,2
+1961,1961,340540,action,tdp4:team battle,Single-player,0.0,2012,0
+1962,1962,340580,action,armed with wings: rearmed,Single-player,9.99,2017,2
+1963,1963,340810,action,deepworld,MMO,0.0,2015,2
+1964,1964,341000,casual,mad games tycoon,Single-player,14.99,2016,2
+1965,1965,341310,adventure,greyfox rpg,Single-player,1.99,2015,1
+1966,1966,341500,action,camera obscura,Single-player,1.99,2015,1
+1967,1967,341530,action,stardust vanguards,Shared/Split Screen,3.99,2015,2
+1968,1968,341720,casual,among ripples,Single-player,0.0,2015,2
+1969,1969,341940,action,hatred,Single-player,8.99,2015,1
+1970,1970,341980,action,dispatcher,Single-player,4.99,2015,0
+1971,1971,342150,action,games of glory,Multi-player,0.0,2017,1
+1972,1972,342200,action,mechwarrior online™,Multi-player,0.0,2015,0
+1973,1973,342300,action,zombie kill of the week - reborn,Single-player,6.99,2015,0
+1974,1974,342370,action,europe at war,Single-player,0.0,2011,1
+1975,1975,342550,indie,phantasmal: survival horror roguelike,Single-player,14.99,2016,2
+1976,1976,342560,action,airships: conquer the skies,Single-player,14.99,2015,2
+1977,1977,342570,action,his (heroes in the sky),Single-player,139.92,2015,0
+1978,1978,342580,casual,12 labours of hercules,Single-player,2.99,2015,0
+1979,1979,342620,action,"it came from space,and ate our brains",Single-player,9.99,2015,2
+1980,1980,342740,action,samudai,Multi-player,2.99,2015,2
+1981,1981,342970,casual,pixel survivors,Single-player,3.99,2016,2
+1982,1982,342980,action,destination sol,Single-player,0.0,2015,0
+1983,1983,343000,adventure,the mystery of the druids,Single-player,4.99,2001,2
+1984,1984,343270,adventure,disillusions manga horror,Single-player,0.99,2013,2
+1985,1985,343360,casual,particula,Single-player,0.99,2015,1
+1986,1986,343710,adventure,kholat,Single-player,19.99,2015,0
+1987,1987,343750,indie,firefly online cortex,Single-player,0.0,2015,0
+1988,1988,343780,casual,cat goes fishing,Single-player,6.99,2015,2
+1989,1989,344040,adventure,voxelized,Single-player,3.99,2015,1
+1990,1990,344630,adventure,princess evangile all ages version,Single-player,34.99,2015,2
+1991,1991,344740,action,cryptark,Single-player,14.99,2017,0
+1992,1992,344760,action,reign of kings,Multi-player,19.99,2015,0
+1993,1993,344770,indie,fault - milestone two side:above,Single-player,14.99,2015,2
+1994,1994,344820,indie,forsaken fortress strategy,Single-player,9.99,2015,2
+1995,1995,344850,indie,big pharma,Single-player,24.99,2015,2
+1996,1996,344860,adventure,crystal story ii,Single-player,2.99,2015,2
+1997,1997,345180,action,victor vran arpg,Single-player,19.99,2015,2
+1998,1998,345200,action,tasty blue,Single-player,5.99,2015,2
+1999,1999,345350,rpg,lightning returns™: final fantasy® xiii,Single-player,19.99,2015,2
+2000,2000,345390,adventure,kings quest,Single-player,24.99,2015,2
+2001,2001,345440,action,vapour,Single-player,9.99,2015,0
+2002,2002,345580,action,universal combat ce,Single-player,9.99,2015,0
+2003,2003,345610,adventure,the fruit of grisaia,Single-player,39.99,2015,2
+2004,2004,345650,free to play,without within,Single-player,0.0,2015,0
+2005,2005,345820,action,shantae and the pirates curse,Single-player,19.99,2015,2
+2006,2006,346010,indie,besiege,Single-player,7.99,2015,2
+2007,2007,346110,action,ark: survival evolved,Single-player,59.99,2017,2
+2008,2008,346120,action,boring man - online tactical stickman combat,Multi-player,0.0,2014,2
+2009,2009,346180,action,david.,Single-player,1.99,2014,2
+2010,2010,346250,adventure,the old tree,Single-player,0.0,2012,2
+2011,2011,346330,action,brainbread 2,Single-player,0.0,2016,1
+2012,2012,346370,action,into the war,Multi-player,0.0,2015,0
+2013,2013,346560,adventure,hero of the kingdom ii,Single-player,7.99,2015,2
+2014,2014,346610,indie,racecraft,Single-player,19.99,2016,0
+2015,2015,346900,casual,adventure capitalist,Single-player,0.0,2015,0
+2016,2016,346940,adventure,shadowrun: hong kong - extended edition,Single-player,19.99,2015,2
+2017,2017,347560,adventure,terra incognita ~ chapter one: the descendant,Single-player,0.99,2015,2
+2018,2018,347610,casual,hidden object bundle 4 in 1,Single-player,7.99,2014,2
+2019,2019,347620,adventure,gaokao.love.100days,Single-player,9.99,2015,1
+2020,2020,347670,action,karate master 2 knock down blow,Single-player,9.99,2015,0
+2021,2021,347830,rpg,fairy fencer f,Single-player,29.99,2015,2
+2022,2022,348290,simulation,hospital manager,Single-player,4.99,2014,2
+2023,2023,348340,casual,siege wars,Single-player,1.99,2015,0
+2024,2024,348380,adventure,the interview,Single-player,1.99,2015,0
+2025,2025,348460,action,bierzerkers,Single-player,4.99,2016,1
+2026,2026,348470,action,samurai warriors 4-ii,Single-player,49.99,2015,2
+2027,2027,348490,action,beyond sol,Single-player,9.99,2015,2
+2028,2028,348620,adventure,voices from the sea,Single-player,4.99,2014,2
+2029,2029,348670,action,immune - true survival,Multi-player,0.99,2015,2
+2030,2030,348710,action,saint seiya: soldiers soul,Single-player,49.99,2015,2
+2031,2031,349040,action,naruto shippuden: ultimate ninja storm 4,Single-player,29.99,2016,1
+2032,2032,349100,action,notrium,Single-player,1.99,2003,0
+2033,2033,349220,adventure,the black watchmen,Single-player,9.99,2015,2
+2034,2034,349480,action,modular combat,Multi-player,0.0,2008,2
+2035,2035,349580,action,burstfire,Multi-player,0.0,2015,1
+2036,2036,349650,adventure,tokyo hosto,Single-player,4.99,2013,0
+2037,2037,349700,action,romeros aftermath,Multi-player,0.0,2015,1
+2038,2038,349720,casual,audition online,Single-player,0.0,2007,0
+2039,2039,349740,adventure,shelter 2 soundtrack,Single-player,2.99,2015,1
+2040,2040,350080,action,wolfenstein: the old blood,Single-player,19.99,2015,2
+2041,2041,350150,action,scraps: modular vehicle combat,Single-player,14.99,2015,0
+2042,2042,350220,action,dead sea,Single-player,4.99,2015,1
+2043,2043,350310,action,bladestorm: nightmare,Single-player,59.99,2015,0
+2044,2044,350600,action,bios,Single-player,14.99,2016,2
+2045,2045,350810,action,pixel puzzles 2: anime,Single-player,9.99,2015,2
+2046,2046,350970,action,planet of the eyes,Single-player,9.99,2015,0
+2047,2047,351050,simulation,cricket captain 2015,Single-player,9.99,2015,1
+2048,2048,351090,casual,regency solitaire,Single-player,9.99,2015,2
+2049,2049,351140,action,rustbucket rumble,Multi-player,0.0,2015,2
+2050,2050,351290,action,survival: postapocalypse now,Multi-player,4.99,2015,0
+2051,2051,351510,casual,quiplash,Multi-player,9.99,2015,2
+2052,2052,351640,action,eternal senia,Single-player,0.0,2015,2
+2053,2053,351700,indie,unreal world,Single-player,10.99,2016,2
+2054,2054,351710,rpg,hyperdimension neptunia re;birth2: sisters generation / 超次次元ゲイム ネプテューヌre;birth2,Single-player,29.99,2015,2
+2055,2055,351730,adventure,on my own,Single-player,4.99,2016,2
+2056,2056,351790,adventure,invisible apartment,Single-player,23.96,2015,2
+2057,2057,351800,adventure,dev guy,Single-player,0.0,2015,1
+2058,2058,351900,indie,pregnancy,Single-player,1.99,2015,2
+2059,2059,351970,rpg,tales of zestiria,Single-player,49.99,2015,2
+2060,2060,351990,casual,riff racer - race your music!,Single-player,9.99,2016,2
+2061,2061,352010,adventure,beach bounce,Single-player,7.99,2015,2
+2062,2062,352130,indie,locoland,Single-player,4.99,2003,2
+2063,2063,352190,strategy,spirit of war,Single-player,9.99,2015,2
+2064,2064,352400,action,lego® jurassic world,Single-player,19.99,2015,2
+2065,2065,352460,action,dead realm,Multi-player,14.99,2015,2
+2066,2066,352520,adventure,the silent age,Single-player,9.99,2015,2
+2067,2067,352700,action,subspace continuum,Online Multi-Player,0.0,2015,2
+2068,2068,352950,action,better late than dead,Single-player,14.99,2016,2
+2069,2069,352960,action,star horizon,Single-player,4.99,2015,2
+2070,2070,353090,action,chicken invaders 5,Single-player,4.99,2015,2
+2071,2071,353130,action,time of dragons,Multi-player,0.0,2016,2
+2072,2072,353270,rpg,hyperdimension neptunia re;birth3 v generation / 神次次元ゲイム ネプテューヌre;birth3 v century,Single-player,29.99,2015,1
+2073,2073,353330,indie,love at first sight,Single-player,9.99,2015,2
+2074,2074,353360,free to play,how do you do it?,Single-player,0.0,2014,2
+2075,2075,353560,adventure,plug &amp; play,Single-player,2.99,2015,2
+2076,2076,353640,casual,train valley,Single-player,9.99,2015,2
+2077,2077,354140,action,five nights at freddys 3,Single-player,7.99,2015,0
+2078,2078,354160,racing,wrc 5 fia world rally championship,Single-player,39.99,2015,0
+2079,2079,354240,casual,"please,don’t touch anything",Single-player,4.99,2015,2
+2080,2080,354290,action,lovebeat,Single-player,0.0,2016,2
+2081,2081,354380,action,assassin’s creed® chronicles: china,Single-player,9.99,2015,0
+2082,2082,354400,action,tadpole treble,Single-player,4.99,2016,2
+2083,2083,354430,action,star wars™ - x-wing special edition,Single-player,9.99,1994,2
+2084,2084,354640,free to play,the settlers online,Single-player,0.0,2010,2
+2085,2085,355150,adventure,gravilon,Single-player,1.99,2015,2
+2086,2086,355180,action,codename cure,Single-player,0.0,2017,0
+2087,2087,355250,action,star wars™: tie fighter special edition,Single-player,9.99,1994,0
+2088,2088,355840,action,survarium,Multi-player,0.0,2015,0
+2089,2089,355950,strategy,age of empires ii hd: the african kingdoms,Single-player,9.99,2015,0
+2090,2090,356070,action,commander cool 2,Single-player,2.99,2015,2
+2091,2091,356310,action,metal slug defense,Single-player,0.0,2015,2
+2092,2092,356380,adventure,orbit hd,Single-player,0.99,2015,2
+2093,2093,356500,action,star wars™ galactic battlegrounds saga,Single-player,5.99,2001,0
+2094,2094,356510,action,soccer rage,Single-player,9.99,2015,1
+2095,2095,356520,adventure,port of call,Single-player,0.0,2015,2
+2096,2096,356570,action,party hard,Single-player,12.89,2015,2
+2097,2097,356670,action,spookys jump scare mansion,Single-player,0.0,2015,2
+2098,2098,357030,action,excubitor,Single-player,14.99,2016,2
+2099,2099,357070,action,ubermosh,Single-player,0.99,2015,2
+2100,2100,357330,action,space beast terror fright,Single-player,14.99,2015,1
+2101,2101,357340,action,cobalt,Single-player,14.99,2016,2
+2102,2102,357480,casual,frozen free fall: snowball fight,Single-player,0.0,2015,2
+2103,2103,357600,casual,unium,Single-player,1.99,2015,0
+2104,2104,357650,action,project explore,Single-player,4.99,2017,2
+2105,2105,357900,adventure,make it indie!,Single-player,0.99,2015,0
+2106,2106,358090,adventure,d4: dark dreams don’t die -season one-,Single-player,14.99,2015,2
+2107,2107,358130,adventure,the curious expedition,Single-player,14.99,2016,1
+2108,2108,358250,action,cosmos cosmic adventure,Single-player,4.99,1992,2
+2109,2109,358260,action,crystal caves,Single-player,4.99,1991,2
+2110,2110,358290,action,hocus pocus,Single-player,4.99,1994,2
+2111,2111,358340,action,word rescue,Single-player,4.99,1992,2
+2112,2112,358960,action,canabalt,Single-player,2.99,2015,2
+2113,2113,359040,adventure,the music machine,Single-player,4.99,2015,2
+2114,2114,359050,action,shower with your dad simulator 2015: do you still shower with your dad,Single-player,0.99,2015,0
+2115,2115,359550,action,tom clancys rainbow six® siege,Single-player,14.99,2015,0
+2116,2116,359800,free to play,copa petrobras de marcas,Single-player,0.0,2014,1
+2117,2117,359870,rpg,final fantasy x/x-2 hd remaster,Single-player,29.99,2016,2
+2118,2118,360170,action,how to survive 2,Single-player,14.99,2016,2
+2119,2119,360550,indie,cursed sight,Single-player,5.99,2015,0
+2120,2120,360640,casual,12 labours of hercules ii: the cretan bull,Single-player,2.99,2015,1
+2121,2121,360730,free to play,cards and castles,Single-player,0.0,2015,2
+2122,2122,360740,action,downwell,Single-player,2.99,2015,2
+2123,2123,360870,casual,ultimate tic-tac-toe,Single-player,0.0,2015,2
+2124,2124,360940,action,the mean greens - plastic warfare,Multi-player,9.99,2015,0
+2125,2125,361280,indie,turmoil,Single-player,9.99,2016,2
+2126,2126,361630,action,404sight,Single-player,0.0,2015,2
+2127,2127,361800,indie,tree of life,Multi-player,19.99,2017,2
+2128,2128,362410,adventure,adams venture chronicles,Single-player,9.99,2015,0
+2129,2129,362620,indie,software inc.,Single-player,13.99,2015,2
+2130,2130,362680,adventure,fran bow,Single-player,14.99,2015,2
+2131,2131,362810,action,fighties,Single-player,4.99,2015,0
+2132,2132,362890,action,black mesa,Single-player,19.99,2015,2
+2133,2133,362930,racing,garfield kart,Single-player,4.99,2013,1
+2134,2134,363270,action,o3dx,Single-player,7.99,2016,1
+2135,2135,363360,action,interstellar rift,Single-player,14.99,2015,2
+2136,2136,363480,action,grave prosperity: redux- part 1,Single-player,0.0,2015,2
+2137,2137,363490,action,escape machines,Single-player,0.99,2015,2
+2138,2138,363680,strategy,battlefleet gothic: armada,Single-player,39.99,2016,0
+2139,2139,363890,design &amp; illustration,rpg maker mv,Steam Trading Cards,79.99,2015,2
+2140,2140,363970,adventure,clicker heroes,Single-player,0.0,2015,2
+2141,2141,364050,action,face it - a game to fight inner demons,Single-player,3.99,2017,2
+2142,2142,364360,action,total war: warhammer,Single-player,59.99,2016,0
+2143,2143,364390,adventure,downfall,Single-player,10.99,2016,2
+2144,2144,364420,action,roguelands,Single-player,9.99,2015,0
+2145,2145,364450,indie,freshman year,Single-player,0.0,2015,2
+2146,2146,364510,action,transcendence,Single-player,8.99,2015,2
+2147,2147,364690,action,super distro,Single-player,0.99,2015,0
+2148,2148,365300,action,transmissions: element 120,Single-player,0.0,2016,2
+2149,2149,365450,indie,hacknet,Single-player,9.99,2015,1
+2150,2150,365590,action,tom clancy’s the division™,Single-player,49.99,2016,2
+2151,2151,365660,action,olliolli2: welcome to olliwood,Single-player,14.99,2015,2
+2152,2152,365810,action,flying tigers: shadows over china,Single-player,15.99,2017,2
+2153,2153,365900,adventure,pixel dungeon,Single-player,4.99,2015,0
+2154,2154,366040,action,iggys egg adventure,Single-player,4.99,2015,2
+2155,2155,366160,action,hounds : the last hope,Multi-player,0.0,2016,2
+2156,2156,366220,adventure,wurm unlimited,Single-player,29.99,2015,0
+2157,2157,366440,action,savage resurrection,Multi-player,0.0,2016,2
+2158,2158,366760,casual,adorables,Single-player,2.99,2016,2
+2159,2159,366890,action,zombie zoeds,Single-player,4.99,2015,0
+2160,2160,367010,adventure,vernons legacy,Single-player,11.99,2016,2
+2161,2161,367030,casual,lootfest,Single-player,0.99,2015,0
+2162,2162,367120,casual,seduce me the otome,Single-player,0.0,2015,2
+2163,2163,367240,action,avenging angel,Single-player,9.99,2015,0
+2164,2164,367270,action,angels fall first,Single-player,17.99,2015,1
+2165,2165,367300,action,pixel star,Single-player,2.99,2015,2
+2166,2166,367340,action,fleetcomm,Single-player,9.99,2016,1
+2167,2167,367450,indie,poly bridge,Single-player,11.99,2016,2
+2168,2168,367500,action,dragons dogma: dark arisen,Single-player,29.99,2016,1
+2169,2169,367570,action,oo,Single-player,0.99,2015,2
+2170,2170,367580,casual,hook,Single-player,0.99,2015,0
+2171,2171,367670,utilities,controller companion,Full controller support,2.99,2015,2
+2172,2172,367780,action,aeros quest,Single-player,4.99,2015,2
+2173,2173,368230,indie,kingdom: classic,Single-player,4.99,2015,0
+2174,2174,368340,rpg,crosscode,Single-player,19.99,2015,2
+2175,2175,368360,adventure,60 seconds!,Single-player,9.99,2015,2
+2176,2176,368500,action,assassins creed® syndicate,Single-player,39.99,2015,2
+2177,2177,368720,action,sirius online,Single-player,9.99,2015,0
+2178,2178,368730,action,no time to explain remastered,Single-player,14.99,2015,1
+2179,2179,368740,action,obliteracers,Single-player,14.99,2016,2
+2180,2180,368860,action,garbage day,Single-player,14.99,2016,2
+2181,2181,368990,action,despair,Single-player,0.99,2015,2
+2182,2182,369040,action,yargis - space melee,Single-player,9.99,2015,2
+2183,2183,369060,action,amygdala,Single-player,9.99,2015,2
+2184,2184,369070,action,slain: back from hell,Single-player,12.99,2016,0
+2185,2185,369290,adventure,airport madness: world edition,Single-player,9.99,2015,2
+2186,2186,369300,adventure,adventure time: finn and jake investigations,Single-player,9.99,2015,2
+2187,2187,369400,casual,let the cat in,Single-player,0.0,2015,2
+2188,2188,369580,casual,notgtav,Single-player,2.99,2015,2
+2189,2189,370020,action,templar battleforce,Single-player,9.99,2015,2
+2190,2190,370040,indie,lilly and sasha: nexus of souls,Single-player,4.99,2015,2
+2191,2191,370150,casual,loop: a tranquil puzzle game,Single-player,4.99,2015,2
+2192,2192,370190,action,ruzh delta z,Single-player,0.0,2015,2
+2193,2193,370240,sports,nba 2k16,Single-player,59.99,2015,2
+2194,2194,370280,adventure,season of 12 colors,Single-player,2.99,2016,2
+2195,2195,370360,indie,tis-100,Single-player,6.99,2015,2
+2196,2196,370480,action,pixel galaxy,Single-player,9.99,2015,2
+2197,2197,370780,adventure,fated souls,Single-player,9.99,2015,1
+2198,2198,371100,action,waste walkers,Single-player,9.99,2015,2
+2199,2199,371190,simulation,making history: the calm and the storm gold edition,Single-player,4.99,2008,2
+2200,2200,371200,indie,halcyon 6: starbase commander,Single-player,14.99,2016,2
+2201,2201,371420,indie,teddy floppy ear - the race,Single-player,4.99,2015,1
+2202,2202,371500,action,grey cubes,Single-player,0.99,2015,1
+2203,2203,371660,action,far cry® primal,Single-player,49.99,2016,2
+2204,2204,372000,free to play,tree of savior (english ver.),MMO,0.0,2016,2
+2205,2205,372210,action,spooky cats,Single-player,2.99,2015,1
+2206,2206,372540,action,the lost mythologies,Single-player,0.0,2016,2
+2207,2207,372800,adventure,rpg mo,Multi-player,0.0,2015,2
+2208,2208,373180,action,kung fury: street rage,Single-player,2.99,2015,2
+2209,2209,373360,action,cast of the seven godsends - redux,Single-player,6.99,2015,2
+2210,2210,373390,adventure,contradiction - spot the liar!,Single-player,9.99,2015,2
+2211,2211,373420,adventure,divinity: original sin - enhanced edition,Single-player,39.99,2015,2
+2212,2212,373770,indie,lieat,Single-player,2.99,2016,2
+2213,2213,374040,action,portal knights,Single-player,19.99,2017,2
+2214,2214,374090,action,winter sports trilogy super pack,Single-player,6.99,2007,1
+2215,2215,374320,action,dark souls™ iii,Single-player,59.99,2016,2
+2216,2216,374450,strategy,cheats 4 hire,Single-player,4.99,2015,2
+2217,2217,374670,action,ember strike,Single-player,0.0,2016,1
+2218,2218,374950,adventure,adventure lib,Single-player,1.99,2015,0
+2219,2219,375030,action,korwin the game,Single-player,1.99,2015,1
+2220,2220,375040,action,death tractor,Single-player,3.99,2015,2
+2221,2221,375220,casual,bitweb,Single-player,0.0,2015,1
+2222,2222,375460,adventure,16bit trader,Single-player,2.99,2015,0
+2223,2223,375510,adventure,new kind of adventure,Single-player,0.99,2015,2
+2224,2224,375600,action,air brawl,Multi-player,0.0,2015,2
+2225,2225,375820,casual,human resource machine,Single-player,9.99,2015,2
+2226,2226,375910,simulation,anno 2205™,Single-player,39.99,2015,2
+2227,2227,375950,casual,viridi,Single-player,0.0,2015,2
+2228,2228,376210,action,the isle,Multi-player,19.99,2015,2
+2229,2229,376300,action,guilty gear xrd -sign-,Single-player,29.99,2015,2
+2230,2230,376560,adventure,big fish legend,Single-player,6.99,2015,2
+2231,2231,376570,free to play,wildstar,Online Multi-Player,0.0,2014,2
+2232,2232,376770,casual,big thinkers 1st grade,Single-player,6.99,2015,2
+2233,2233,376870,adventure,minecraft: story mode - a telltale games series,Single-player,24.99,2015,2
+2234,2234,376920,action,tiki man,Single-player,0.99,2015,2
+2235,2235,377140,action,hide &amp; hold out - h2o,Online Multi-Player,17.99,2016,2
+2236,2236,377160,rpg,fallout 4,Single-player,29.99,2015,2
+2237,2237,377860,action,mushihimesama,Single-player,19.99,2015,2
+2238,2238,378370,action,nomad,Single-player,0.0,2015,0
+2239,2239,378580,action,untamed: life of a cougar,Single-player,14.99,2015,2
+2240,2240,378660,adventure,blues and bullets,Single-player,4.99,2015,1
+2241,2241,378720,indie,thea: the awakening,Single-player,19.99,2015,2
+2242,2242,378850,action,galagans island: reprymian rising,Single-player,1.99,2015,0
+2243,2243,378930,action,pesadelo - regressão,Single-player,5.99,2016,1
+2244,2244,379720,action,doom,Single-player,29.99,2016,1
+2245,2245,379980,adventure,panzermadels: tank dating simulator,Single-player,9.99,2016,2
+2246,2246,380580,action,spacecorn,Single-player,0.99,2012,0
+2247,2247,380600,free to play,fishing planet,Single-player,0.0,2015,2
+2248,2248,380840,action,teeworlds,Multi-player,0.0,2007,2
+2249,2249,380860,action,barbara-ian,Single-player,5.99,2017,2
+2250,2250,381120,adventure,shoppe keep,Single-player,9.99,2016,2
+2251,2251,381560,casual,epic cards battle(tcg),Single-player,0.0,2015,0
+2252,2252,381850,adventure,my paper boat,Single-player,4.99,2015,2
+2253,2253,381990,free to play,dragon saga,Single-player,0.0,2010,0
+2254,2254,382050,action,eon altar,Single-player,4.99,2016,0
+2255,2255,382490,action,relic hunters zero,Single-player,0.0,2015,1
+2256,2256,382890,rpg,final fantasy v,Single-player,15.99,2015,2
+2257,2257,383120,adventure,empyrion - galactic survival,Single-player,19.99,2015,2
+2258,2258,383150,action,dead island definitive edition,Single-player,19.99,2016,0
+2259,2259,383180,action,dead island: riptide definitive edition,Single-player,19.99,2016,0
+2260,2260,383230,action,dungeon souls,Single-player,12.99,2016,2
+2261,2261,383270,adventure,hue,Single-player,14.99,2016,2
+2262,2262,383580,action,flesh eaters,Single-player,1.99,2016,2
+2263,2263,383750,action,funk of titans,Single-player,6.99,2015,0
+2264,2264,383790,action,the ship: remasted,Multi-player,19.99,2016,2
+2265,2265,383870,adventure,firewatch,Single-player,19.99,2016,2
+2266,2266,383980,indie,rivals of aether,Single-player,14.99,2017,1
+2267,2267,384000,action,cross of the dutchman,Single-player,8.99,2015,2
+2268,2268,384110,action,pathologic classic hd,Single-player,12.99,2015,0
+2269,2269,384150,action,terablaster,Single-player,0.0,2015,2
+2270,2270,384180,free to play,prominence poker,Single-player,0.0,2016,2
+2271,2271,384190,action,abzu,Single-player,19.99,2016,2
+2272,2272,384300,utilities,cpucores :: maximize your fps,Steam Achievements,14.99,2015,2
+2273,2273,384310,adventure,dead in bermuda,Single-player,14.99,2015,2
+2274,2274,384360,casual,fingered,Single-player,1.87,2015,2
+2275,2275,384490,action,necropolis: brutal edition,Single-player,29.99,2016,2
+2276,2276,384500,action,zombie party,Single-player,9.99,2016,2
+2277,2277,384630,adventure,aviary attorney,Single-player,14.99,2015,2
+2278,2278,384980,casual,battle for blood - epic battles within 30 seconds!,Single-player,0.0,2015,2
+2279,2279,385240,simulation,ultimate arena,Single-player,2.99,2016,0
+2280,2280,385260,free to play,lamia must die,Single-player,0.0,2014,2
+2281,2281,385270,action,jet racing extreme,Single-player,3.99,2015,2
+2282,2282,385330,adventure,stray cat crossing,Single-player,2.99,2015,2
+2283,2283,385530,free to play,астролорды: облако оорта,Single-player,0.0,2015,2
+2284,2284,385710,action,ink,Single-player,4.99,2015,2
+2285,2285,385730,simulation,wwe 2k16,Single-player,49.99,2016,2
+2286,2286,385760,sports,nba 2k17,Single-player,59.99,2016,2
+2287,2287,385770,action,time clickers,Single-player,0.0,2015,2
+2288,2288,385830,action,burgers,Single-player,2.99,2015,0
+2289,2289,385890,action,golden rush,Multi-player,0.0,2015,2
+2290,2290,386070,strategy,planetary annihilation: titans,Single-player,39.99,2015,2
+2291,2291,386180,action,crossout,Multi-player,0.0,2017,2
+2292,2292,386360,action,smite®,Multi-player,0.0,2015,2
+2293,2293,386510,action,pyramid raid,Single-player,2.99,2015,1
+2294,2294,386880,action,rake,Single-player,4.99,2015,0
+2295,2295,386940,action,ultimate chicken horse,Multi-player,14.99,2016,1
+2296,2296,387240,action,steel rain,Single-player,9.99,2015,2
+2297,2297,387290,action,ori and the blind forest: definitive edition,Single-player,19.99,2016,2
+2298,2298,387340,action,hyperdimension neptunia u: action unleashed,Single-player,29.99,2016,2
+2299,2299,387370,indie,sol 0: mars colonization,Single-player,3.99,2016,2
+2300,2300,387860,adventure,the static speaks my name,Single-player,0.0,2015,2
+2301,2301,387970,action,clown house (palyaço evi),Single-player,0.0,2015,0
+2302,2302,387990,action,scrap mechanic,Single-player,19.99,2016,1
+2303,2303,388080,utilities,borderless gaming,Single-player,3.99,2015,2
+2304,2304,388090,action,five nights at freddys 4,Single-player,7.99,2015,2
+2305,2305,388120,adventure,spakoyno: back to the ussr 2.0,Single-player,7.99,2016,0
+2306,2306,388210,adventure,day of the tentacle remastered,Single-player,14.99,2016,1
+2307,2307,388410,action,darksiders ii deathinitive edition,Single-player,29.99,2015,1
+2308,2308,388880,adventure,oxenfree,Single-player,19.99,2016,2
+2309,2309,389170,adventure,a lenda do herói - o herói desta canção,Single-player,15.99,2016,0
+2310,2310,389220,action,maximum override,Single-player,6.99,2017,2
+2311,2311,389430,action,knight online,Single-player,0.0,2016,0
+2312,2312,389510,action,wild animal racing,Single-player,3.99,2016,2
+2313,2313,389570,free to play,mitos.is: the game,Multi-player,0.0,2015,2
+2314,2314,389870,adventure,mugen souls,Steam Achievements,19.99,2015,0
+2315,2315,390290,adventure,bulb boy,Single-player,8.99,2015,2
+2316,2316,390340,action,umbrella corps™/biohazard umbrella corps™,Single-player,29.99,2016,1
+2317,2317,390520,action,pewdiepie: legend of the brofist,Single-player,7.99,2015,2
+2318,2318,390670,free to play,steel ocean,Multi-player,0.0,2015,0
+2319,2319,390730,action,sora,Single-player,8.99,2016,1
+2320,2320,391040,racing,f1 2016,Single-player,59.99,2016,2
+2321,2321,391070,action,stellar 2d,Single-player,0.99,2015,1
+2322,2322,391260,action,labyronia rpg,Single-player,2.99,2015,2
+2323,2323,391270,adventure,fingerbones,Single-player,0.0,2014,2
+2324,2324,391460,action,warmode,Multi-player,0.0,2015,2
+2325,2325,391540,indie,undertale,Single-player,9.99,2015,2
+2326,2326,391720,adventure,layers of fear,Single-player,19.99,2016,2
+2327,2327,391730,action,crashlands,Single-player,14.99,2016,2
+2328,2328,392450,adventure,silver creek falls: chapter 1,Single-player,0.0,2015,2
+2329,2329,393380,action,squad,Multi-player,39.99,2015,2
+2330,2330,393410,action,world of soccer online,Multi-player,0.0,2015,2
+2331,2331,393420,action,hurtworld,Multi-player,24.99,2015,0
+2332,2332,393530,adventure,insanity clicker,Single-player,0.0,2016,1
+2333,2333,393980,casual,pretty girls mahjong solitaire,Single-player,4.99,2015,2
+2334,2334,394120,casual,atom universe,Multi-player,0.0,2017,1
+2335,2335,394230,action,battleborn,Single-player,0.0,2016,1
+2336,2336,394310,indie,punch club,Single-player,9.99,2016,2
+2337,2337,394360,simulation,hearts of iron iv,Single-player,39.99,2016,0
+2338,2338,394380,action,battlestick,Multi-player,0.0,2016,2
+2339,2339,394510,action,helldivers™,Single-player,19.99,2015,2
+2340,2340,394690,action,tower unite,Single-player,14.99,2016,0
+2341,2341,395140,action,miracle fly,Single-player,7.99,2015,1
+2342,2342,395200,action,ben and ed,Single-player,9.99,2015,2
+2343,2343,395520,adventure,missing translation,Single-player,0.0,2015,2
+2344,2344,395910,adventure,get rich or die gaming,Single-player,2.99,2010,1
+2345,2345,396260,action,worlds fastest pizza,Single-player,2.99,2016,1
+2346,2346,396480,action,battlevoid: harbinger,Single-player,9.99,2016,2
+2347,2347,396650,action,ace academy,Single-player,19.99,2016,2
+2348,2348,397040,action,sphere iii: enchanted world,Multi-player,0.0,2015,2
+2349,2349,397060,free to play,faeria,Single-player,0.0,2017,2
+2350,2350,397100,free to play,machinecraft,Single-player,0.0,2016,1
+2351,2351,397340,indie,simpleplanes,Single-player,12.99,2015,2
+2352,2352,397430,adventure,zoombinis,Single-player,9.99,2015,2
+2353,2353,397500,action,labyronia rpg 2,Single-player,2.99,2015,1
+2354,2354,397550,action,deus ex: revision,Single-player,0.0,2015,2
+2355,2355,397570,action,shmadow,Single-player,1.99,2015,0
+2356,2356,397680,action,firefight reloaded,Single-player,0.0,2015,0
+2357,2357,397690,action,hyperspace invaders ii: pixel edition,Single-player,4.99,2015,2
+2358,2358,397980,action,invasion,Single-player,1.99,2015,1
+2359,2359,398070,action,protoshift,Single-player,0.99,2016,2
+2360,2360,398100,casual,highschool romance,Single-player,9.99,2015,2
+2361,2361,398710,action,timberman,Single-player,0.99,2015,2
+2362,2362,398840,action,war of beach,Single-player,0.0,2015,2
+2363,2363,399430,casual,tinboy,Single-player,0.99,2015,1
+2364,2364,399790,adventure,destiny warriors rpg,Single-player,2.99,2015,2
+2365,2365,400110,adventure,else heart.break(),Single-player,24.99,2015,2
+2366,2366,400240,adventure,the deer,Single-player,0.99,2015,1
+2367,2367,400250,adventure,heaven island - vr mmo,Single-player,0.99,2015,2
+2368,2368,400790,action,the juicer,Single-player,0.99,2012,0
+2369,2369,400800,racing,mxgp2 - the official motocross videogame,Single-player,39.99,2016,2
+2370,2370,400910,action,rabi-ribi,Single-player,17.99,2016,2
+2371,2371,401190,action,dinosaur hunt,Single-player,0.99,2015,2
+2372,2372,401810,action,poi,Single-player,14.99,2017,2
+2373,2373,402020,adventure,the park,Single-player,12.99,2015,0
+2374,2374,402570,free to play,atlas reactor,Multi-player,0.0,2016,2
+2375,2375,402620,adventure,kindred spirits on the roof,Single-player,34.99,2016,2
+2376,2376,402630,adventure,the coma: cutting class,Single-player,0.0,2015,2
+2377,2377,402840,casual,crusaders of the lost idols,Single-player,0.0,2015,2
+2378,2378,403180,adventure,draw a stickman: epic 2,Single-player,4.99,2015,1
+2379,2379,403190,indie,planetbase,Single-player,19.99,2015,2
+2380,2380,403570,adventure,stigmat,Single-player,3.99,2015,2
+2381,2381,403690,action,codename: rogue fleet,Online Multi-Player,0.0,2016,0
+2382,2382,403700,action,zero punctuation: hatfall - hatters gonna hat edition,Single-player,4.99,2015,2
+2383,2383,403740,casual,gaben: the final decision,Single-player,0.99,2015,1
+2384,2384,403860,action,alpages : the five books,Single-player,0.99,2015,2
+2385,2385,403900,action,clergy splode,Single-player,0.99,2015,0
+2386,2386,404080,adventure,murder,Single-player,0.99,2015,2
+2387,2387,404410,action,endless sky,Single-player,0.0,2015,2
+2388,2388,404480,adventure,sc2vn - the esports visual novel,Single-player,0.0,2015,2
+2389,2389,405010,action,bitardia,Single-player,4.99,2015,1
+2390,2390,405310,action,lego® marvels avengers,Single-player,19.99,2016,2
+2391,2391,405640,indie,pony island,Single-player,4.99,2016,2
+2392,2392,405820,action,turok,Single-player,19.99,1997,2
+2393,2393,406080,casual,ant war: domination,Single-player,2.99,2015,0
+2394,2394,406150,adventure,refunct,Single-player,2.99,2015,2
+2395,2395,406310,casual,stop online - battle of words,Multi-player,4.99,2016,2
+2396,2396,407120,free to play,soccer manager 2016,Single-player,0.0,2015,2
+2397,2397,407230,action,legend of mysteria rpg,Single-player,2.99,2015,2
+2398,2398,407420,action,gabe newell simulator 2.0,Single-player,3.0,2015,2
+2399,2399,407510,action,devilian,Multi-player,0.0,2015,2
+2400,2400,407530,action,ark: survival of the fittest,Multi-player,59.99,2017,2
+2401,2401,407600,action,raiden legacy - steam edition,Single-player,9.99,2015,2
+2402,2402,407840,action,guardians of orion,Single-player,0.99,2015,1
+2403,2403,407900,action,princess remedy in a world of hurt,Single-player,0.0,2014,2
+2404,2404,408120,indie,cibele,Single-player,8.99,2015,1
+2405,2405,408740,casual,pro gamer manager,Single-player,9.99,2016,1
+2406,2406,408900,action,unfortunate spacemen,Single-player,14.99,2016,2
+2407,2407,408990,indie,timber and stone,Single-player,12.99,2015,2
+2408,2408,409000,rpg,mystery chronicle: one way heroics,Single-player,9.99,2016,0
+2409,2409,409160,free to play,"dr. langeskov,the tiger,and the terribly cursed emerald: a whirlwind heist",Single-player,0.0,2015,2
+2410,2410,409170,indie,contract,Single-player,2.99,2016,2
+2411,2411,409440,adventure,snakescape,Single-player,7.99,2016,2
+2412,2412,409450,indie,the fall of the dungeon guardians - enhanced edition,Single-player,19.99,2015,2
+2413,2413,409490,action,rogue harvest,Single-player,4.99,2015,2
+2414,2414,409510,action,genesis online,Multi-player,0.0,2015,0
+2415,2415,409590,action,kingdoms,Single-player,9.99,2015,0
+2416,2416,409660,action,angry video game nerd ii: assimilation,Single-player,9.99,2016,0
+2417,2417,409670,action,pink hour,Single-player,0.0,2015,2
+2418,2418,409710,action,bioshock™ remastered,Single-player,19.99,2016,2
+2419,2419,410210,indie,ampersand,Single-player,0.99,2015,0
+2420,2420,410320,action,earth defense force 4.1 the shadow of new despair,Single-player,49.99,2016,2
+2421,2421,410340,indie,liftoff,Single-player,19.99,2015,2
+2422,2422,410670,action,suits: a business rpg,Single-player,0.99,2016,2
+2423,2423,410820,action,starward rogue,Single-player,11.99,2016,2
+2424,2424,411080,action,showtime 2073,Single-player,1.99,2016,2
+2425,2425,411370,action,melty blood actress again current code,Single-player,24.99,2016,2
+2426,2426,411560,casual,reveal the deep,Single-player,0.99,2015,2
+2427,2427,411570,indie,zombie exodus,Single-player,7.99,2011,0
+2428,2428,411830,action,senran kagura shinovi versus,Single-player,29.99,2016,2
+2429,2429,411960,action,ty the tasmanian tiger,Single-player,14.99,2016,2
+2430,2430,412140,adventure,electric highways,Single-player,0.0,2015,2
+2431,2431,412400,action,gasp,Single-player,0.0,2015,2
+2432,2432,412450,action,the black death,Multi-player,19.99,2016,1
+2433,2433,412470,action,metal war online: retribution,Multi-player,0.0,2015,2
+2434,2434,412730,adventure,days under custody,Single-player,4.99,2015,1
+2435,2435,412830,adventure,steins;gate,Single-player,34.99,2016,2
+2436,2436,412880,action,drift streets japan,Single-player,4.99,2015,2
+2437,2437,412940,adventure,back to dinosaur island,Single-player,0.0,2015,2
+2438,2438,413150,indie,stardew valley,Single-player,14.99,2016,2
+2439,2439,413170,action,metal assault,Single-player,0.0,2016,2
+2440,2440,413410,adventure,danganronpa: trigger happy havoc,Single-player,19.99,2016,2
+2441,2441,413420,adventure,danganronpa 2: goodbye despair,Single-player,19.99,2016,2
+2442,2442,414080,adventure,life is hard,Single-player,8.99,2015,2
+2443,2443,414190,action,junk jack,Single-player,14.99,2016,2
+2444,2444,415030,action,one more dungeon,Single-player,4.99,2015,2
+2445,2445,415080,casual,cyber team manager,Single-player,4.99,2016,2
+2446,2446,415420,action,nyan cat: lost in space,Single-player,2.99,2015,1
+2447,2447,415480,rpg,hyperdevotion noire: goddess black heart (neptunia),Single-player,29.99,2016,0
+2448,2448,415740,action,omnibus,Single-player,9.99,2016,2
+2449,2449,416130,action,written in the sky,Single-player,0.0,2015,2
+2450,2450,416210,indie,blockhood,Single-player,14.99,2017,0
+2451,2451,416450,free to play,emporea: realms of war and magic,Multi-player,0.0,2016,2
+2452,2452,416550,action,rubber ducky and the rainbow gun,Single-player,0.99,2015,1
+2453,2453,416640,indie,diabolical,Single-player,5.99,2015,2
+2454,2454,416670,free to play,gunslingers,Multi-player,0.0,2015,2
+2455,2455,416760,adventure,pay2win: the tricks exposed,Single-player,4.99,2015,2
+2456,2456,417750,action,left alone,Single-player,6.99,2016,2
+2457,2457,417860,adventure,emily is away,Single-player,0.0,2015,1
+2458,2458,417990,adventure,major\minor,Single-player,19.99,2016,2
+2459,2459,418070,casual,turbo pug,Single-player,0.99,2015,2
+2460,2460,418300,action,wick,Single-player,5.99,2015,2
+2461,2461,418340,action,rwby: grimm eclipse,Single-player,19.99,2016,2
+2462,2462,418910,indie,idle civilization,Single-player,4.99,2015,2
+2463,2463,419460,adventure,"that dragon,cancer",Single-player,9.99,2016,2
+2464,2464,420740,adventure,the deed,Single-player,0.99,2015,2
+2465,2465,420930,adventure,chkn,Single-player,14.99,2016,0
+2466,2466,421040,casual,plantera,Single-player,2.99,2016,2
+2467,2467,421630,indie,a study in steampunk: choice by gaslight,Single-player,3.99,2015,2
+2468,2468,421670,free to play,cupid - a free to play visual novel,Single-player,0.0,2016,2
+2469,2469,422420,casual,godus wars,Single-player,14.99,2016,2
+2470,2470,422970,action,devil daggers,Single-player,4.99,2016,2
+2471,2471,423120,indie,community college hero: trial by fire,Single-player,3.99,2015,2
+2472,2472,423230,action,furi,Single-player,19.99,2016,0
+2473,2473,423320,indie,pendragon rising,Single-player,3.99,2015,0
+2474,2474,423580,simulation,project highrise,Single-player,19.99,2016,2
+2475,2475,423700,casual,apocalypse hotel - the post-apocalyptic hotel simulator!,Single-player,6.99,2016,2
+2476,2476,423880,casual,carpe diem,Single-player,0.0,2015,2
+2477,2477,424280,action,iron snout,Single-player,0.0,2016,1
+2478,2478,424370,action,wolcen: lords of mayhem,Single-player,19.99,2016,2
+2479,2479,425220,action,one piece burning blood,Single-player,49.99,2016,2
+2480,2480,426000,indie,huniecam studio,Single-player,6.99,2016,2
+2481,2481,427100,simulation,fernbus simulator,Single-player,34.99,2016,2
+2482,2482,427190,action,dead rising®,Single-player,19.99,2016,2
+2483,2483,427250,indie,8-bit armies,Single-player,14.99,2016,2
+2484,2484,427270,action,orcs must die! unchained,Single-player,0.0,2017,2
+2485,2485,427520,casual,factorio,Single-player,20.0,2016,2
+2486,2486,427730,action,whos your daddy,Multi-player,4.99,2015,2
+2487,2487,427810,indie,calendula,Single-player,6.99,2016,0
+2488,2488,427950,action,the withering,Single-player,9.99,2015,2
+2489,2489,427980,adventure,aozora meikyuu,Single-player,4.99,2016,2
+2490,2490,428220,action,turnon,Single-player,14.99,2016,2
+2491,2491,428550,action,momodora: reverie under the moonlight,Single-player,9.99,2016,0
+2492,2492,428690,indie,youtubers life,Single-player,24.99,2016,2
+2493,2493,428880,adventure,the quest,Single-player,9.99,2016,2
+2494,2494,428900,action,"linea,the game",Single-player,1.99,2016,2
+2495,2495,428950,action,"kivi,toilet and shotgun",Single-player,0.99,2016,0
+2496,2496,429050,action,feed and grow: fish,Single-player,14.99,2016,0
+2497,2497,429300,casual,sepia tears,Single-player,0.0,2016,2
+2498,2498,429490,action,resilience: wave survival,Single-player,5.99,2015,0
+2499,2499,429570,adventure,the walking dead: michonne - a telltale miniseries,Single-player,14.99,2016,1
+2500,2500,429680,free to play,spellweaver,Single-player,0.0,2016,2
+2501,2501,429700,action,squirbs,Single-player,4.99,2016,2
+2502,2502,429720,adventure,imscared,Single-player,3.99,2016,2
+2503,2503,430440,action,of kings and men,Multi-player,0.0,2016,2
+2504,2504,431240,casual,golf with your friends,Single-player,5.99,2016,2
+2505,2505,431360,action,the legend: a university story,Single-player,0.0,2016,2
+2506,2506,431500,action,clash of the monsters,Single-player,0.0,2016,2
+2507,2507,431510,adventure,mystic destinies: serendipity of aeons,Single-player,0.0,2016,2
+2508,2508,431560,action,hard room,Single-player,2.99,2016,2
+2509,2509,431770,casual,rivalry,Local Multi-Player,2.99,2016,1
+2510,2510,431840,adventure,3drpg,Single-player,0.99,2016,2
+2511,2511,432020,simulation,whats under your blanket !?,Single-player,0.99,2016,2
+2512,2512,433340,action,slime rancher,Single-player,19.99,2017,2
+2513,2513,433530,action,heliborne,Single-player,19.99,2017,1
+2514,2514,433850,action,h1z1,Multi-player,19.99,2016,0
+2515,2515,433950,action,bit blaster xl,Single-player,0.99,2016,2
+2516,2516,434020,adventure,last hope - tower defense,Single-player,8.99,2016,1
+2517,2517,434250,action,masked shooters 2,Single-player,0.99,2016,2
+2518,2518,434260,casual,my name is mayo,Single-player,0.99,2016,2
+2519,2519,434370,adventure,buried: an interactive story,Single-player,2.99,2016,2
+2520,2520,434420,action,the chosen rpg,Single-player,1.99,2016,2
+2521,2521,434570,action,blood and bacon,Single-player,0.99,2016,1
+2522,2522,434620,casual,pythagoria,Single-player,1.99,2016,2
+2523,2523,434730,action,half dead,Single-player,1.99,2016,0
+2524,2524,434780,action,the renegades of orion 2.0,Single-player,0.99,2016,1
+2525,2525,435030,adventure,lost lands: mahjong,Single-player,0.0,2016,2
+2526,2526,435120,adventure,rusty lake hotel,Single-player,1.99,2016,0
+2527,2527,435530,action,the final station,Single-player,14.99,2016,2
+2528,2528,436110,action,medusas labyrinth,Single-player,0.0,2016,0
+2529,2529,436150,casual,governor of poker 3,Multi-player,0.0,2016,2
+2530,2530,436470,action,gamma bros 1.5,Single-player,4.99,2016,2
+2531,2531,436500,adventure,diaries of a spaceport janitor,Single-player,9.99,2016,2
+2532,2532,438080,action,surfingers,Single-player,1.99,2016,2
+2533,2533,438270,adventure,learn japanese to survive! hiragana battle,Single-player,6.99,2016,2
+2534,2534,438640,action,lego® star wars™: the force awakens,Single-player,29.99,2016,2
+2535,2535,438680,casual,one troll army,Single-player,0.0,2016,2
+2536,2536,438790,action,random access murder,Online Multi-Player,2.99,2016,0
+2537,2537,438920,strategy,legends of callasia,Single-player,0.0,2016,2
+2538,2538,439940,casual,lucid9: inciting incident,Single-player,0.0,2016,2
+2539,2539,441050,casual,polandball: can into space!,Single-player,2.99,2016,1
+2540,2540,441790,action,fragmented,Single-player,9.99,2017,2
+2541,2541,441830,rpg,i am setsuna,Single-player,39.99,2016,2
+2542,2542,441870,casual,outdrive,Single-player,2.99,2016,2
+2543,2543,442080,adventure,riders of icarus,Single-player,0.0,2016,2
+2544,2544,443580,casual,antenna,Single-player,0.0,2016,2
+2545,2545,443810,adventure,this is the police,Single-player,14.99,2016,2
+2546,2546,444000,indie,super night riders,Single-player,7.99,2016,0
+2547,2547,444090,action,paladins®,Multi-player,0.0,2016,0
+2548,2548,444190,action,princess edge - dragonstone,Single-player,7.99,2016,2
+2549,2549,444250,casual,crown and council,Single-player,0.0,2017,1
+2550,2550,444640,action,bloons td battles,Cross-Platform Multiplayer,0.0,2016,2
+2551,2551,444880,action,death stair,Multi-player,2.99,2016,2
+2552,2552,445130,casual,the average everyday adventures of samantha browne,Single-player,0.0,2016,2
+2553,2553,445750,adventure,settled,Single-player,0.99,2016,2
+2554,2554,446020,adventure,jalopy,Single-player,14.99,2016,2
+2555,2555,446120,action,bunker punks,Single-player,14.99,2016,2
+2556,2556,446380,casual,sophies curse,Single-player,4.99,2016,0
+2557,2557,446470,simulation,new york taxi simulator,Single-player,4.99,2016,1
+2558,2558,448370,action,is defense,Single-player,5.99,2016,2
+2559,2559,448510,action,overcooked,Single-player,16.99,2016,2
+2560,2560,448530,indie,squares route,Single-player,3.99,2016,2
+2561,2561,449020,free to play,the bottom of the well,Single-player,0.0,2016,2
+2562,2562,449040,free to play,jesus christ rpg trilogy,Single-player,0.0,2016,1
+2563,2563,449050,casual,rock paper scissors champion,Single-player,0.0,2016,1
+2564,2564,449140,free to play,istrolid,Single-player,0.0,2016,1
+2565,2565,449470,adventure,atulos online,Single-player,0.0,2016,2
+2566,2566,449540,casual,theres poop in my soup,Single-player,0.99,2016,2
+2567,2567,449550,action,chicken invaders 2,Single-player,3.99,2016,1
+2568,2568,449680,action,samoliotik,Single-player,0.99,2016,0
+2569,2569,449940,action,! that bastard is trying to steal our gold !,Single-player,3.99,2016,2
+2570,2570,451000,action,ember kaboom,Single-player,3.99,2016,2
+2571,2571,454070,indie,boundel: the second era,Single-player,0.0,2016,0
+2572,2572,454320,indie,the sequence,Single-player,1.99,2016,2
+2573,2573,454890,action,project starship,Single-player,0.99,2016,0
+2574,2574,455490,adventure,"dont die dateless,dummy!",Single-player,2.99,2016,1
+2575,2575,455910,action,star wars™: rogue squadron 3d,Single-player,9.99,1998,2
+2576,2576,457520,action,moustache mountain,Single-player,1.99,2016,2
+2577,2577,458000,adventure,march of the living,Single-player,14.99,2016,2
+2578,2578,458830,indie,snooker nation championship,Single-player,4.99,2016,2
+2579,2579,459820,casual,crush crush,Single-player,0.0,2016,2
+2580,2580,459910,action,30 impossible levels,Single-player,3.99,2016,0
+2581,2581,460120,rpg,megadimension neptunia vii,Single-player,39.99,2016,2
+2582,2582,461400,action,massive,Single-player,2.99,2016,2
+2583,2583,461560,adventure,mandagon,Single-player,0.0,2016,2
+2584,2584,461680,free to play,fpv air tracks,Single-player,0.0,2016,2
+2585,2585,461880,casual,hyposphere,Single-player,2.99,2016,2
+2586,2586,462930,casual,adventure communist,Single-player,0.0,2016,0
+2587,2587,463110,adventure,farnham fables,Single-player,0.99,2016,2
+2588,2588,463210,action,state of anarchy,Single-player,0.99,2016,0
+2589,2589,463390,casual,one thousand lies,Single-player,0.0,2016,2
+2590,2590,463550,action,neon space ultra,Single-player,2.99,2016,1
+2591,2591,464780,adventure,chusingura46+1 s,Single-player,0.0,2016,2
+2592,2592,466910,casual,worm.is: the game,Multi-player,0.0,2016,0
+2593,2593,467820,action,zero g arena,Online Multi-Player,5.99,2016,2
+2594,2594,467900,action,swordy,Single-player,14.99,2016,2
+2595,2595,468560,adventure,blind trust,Multi-player,0.0,2016,0
+2596,2596,472060,free to play,ortus regni,Single-player,0.0,2016,2
+2597,2597,473460,adventure,memory oblivion box,Single-player,9.99,2016,1
+2598,2598,474010,adventure,the nadi project,Single-player,0.0,2016,2
+2599,2599,474030,adventure,the abbey of crime extensum,Single-player,0.0,2016,2
+2600,2600,474750,adventure,reigns,Single-player,2.99,2016,2
+2601,2601,475490,adventure,major\minor - complete edition,Single-player,19.99,2016,0
+2602,2602,476460,casual,picross touch,Single-player,0.0,2016,2
+2603,2603,477160,adventure,human: fall flat,Single-player,14.99,2016,2
+2604,2604,477310,indie,space hole,Single-player,0.99,2016,2
+2605,2605,479260,action,cuties,Single-player,2.99,2016,1
+2606,2606,482920,adventure,hero zero,Single-player,0.0,2016,0
+2607,2607,485380,indie,welcome to the game,Single-player,4.99,2016,0
+2608,2608,485800,casual,runeous: part one,Single-player,0.0,2016,2
+2609,2609,485890,simulation,summer sale,Single-player,0.99,2016,1
+2610,2610,487220,casual,freebie,Single-player,0.99,2016,2
+2611,2611,488280,casual,gun done,Single-player,0.99,2016,0
+2612,2612,488660,casual,just deserts,Single-player,9.99,2016,1
+2613,2613,489220,adventure,unforgiving trials: the darkest crusade,Single-player,0.99,2016,2
+2614,2614,491130,free to play,red trigger,Single-player,0.0,2016,2
+2615,2615,491260,action,take thy throne,Single-player,1.99,2016,1
+2616,2616,493370,adventure,ragnarok clicker,Single-player,0.0,2016,2
+2617,2617,494470,adventure,my butler,Single-player,9.99,2016,1
+2618,2618,495890,casual,montaro,Single-player,0.99,2016,0
+2619,2619,495910,action,dungeon fighter online,Online Multi-Player,0.0,2016,2
+2620,2620,496300,indie,kingdom: new lands,Single-player,14.99,2016,2
+2621,2621,496890,adventure,replica,Single-player,2.99,2016,1
+2622,2622,497180,racing,street legal racing: redline v2.3.1,Single-player,4.99,2016,2
+2623,2623,497850,indie,8-bit hordes,Single-player,14.99,2016,2
+2624,2624,498240,adventure,batman - the telltale series,Single-player,24.99,2016,2
+2625,2625,498580,action,asrecorp,Single-player,0.99,2016,2
+2626,2626,499100,adventure,dark parables: the exiled prince collectors edition,Single-player,9.99,2016,2
+2627,2627,499440,casual,klocki,Single-player,0.99,2016,2
+2628,2628,501760,action,francisca,Single-player,0.99,2016,0
+2629,2629,502550,action,strike.is: the game,Single-player,0.0,2016,1
+2630,2630,504490,action,the gods chain,Single-player,7.99,2016,2
+2631,2631,506140,casual,shop heroes,Single-player,0.0,2016,2
+2632,2632,510050,free to play,you have 10 seconds,Single-player,0.0,2016,1
+2633,2633,512300,action,unbox: newbies adventure,Single-player,19.99,2016,1
+2634,2634,514520,indie,sparkys hunt,Single-player,0.99,2016,2
+2635,2635,516040,indie,everything is peachy,Single-player,3.99,2016,2
+2636,2636,521340,casual,true or false,Single-player,0.99,2016,2
+2637,2637,521430,indie,super switch,Single-player,1.99,2016,2
+2638,2638,521570,casual,you have 10 seconds 2,Single-player,0.0,2016,0
+2639,2639,521990,action,galactic storm,Single-player,2.99,2016,2
+2640,2640,527340,action,what the box?,Online Multi-Player,4.99,2016,1

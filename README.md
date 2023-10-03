@@ -104,6 +104,10 @@ Creo el modelo de recomendación. Al igual que con las funciones debo ajustarlo 
 ![imagen](https://github.com/alber1010/PROYECTO_FINAL/assets/112127531/970b0f8e-2c2d-40e5-b499-d586c9d59c88)
 
 
+![image](https://github.com/alber1010/PROYECTO_FINAL/assets/112127531/10046737-e3a0-476a-a0cb-69b734a915e3)
+
+
+
 
 
 
